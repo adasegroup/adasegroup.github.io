@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'jekyll'
+gem 'rouge'
+gem 'kramdown'
+gem 'rake'
+gem 'jekyll-scholar'
+gem 'pygments.rb'
+gem 'jekyll-sitemap'
+gem 'jekyll-feed'
+gem 'jekyll-email-protect'

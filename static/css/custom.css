@@ -1,0 +1,90 @@
+@charset "utf-8";
+
+body {
+	font-family: 'Nunito', sans-serif;
+	font-size: 18px;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	background-color: #f6f6f6;
+}
+
+a, 
+a:visited,
+a:hover, 
+a:focus {
+	color: #0080ff;
+	text-decoration: underline;
+}
+
+p, address {
+    margin-bottom: 0;
+}
+
+.navbar {
+	background-color: #f6f6f6;
+}
+
+.navbar a,
+.navbar a:visited,
+.navbar a:hover,
+.navbar a:focus {
+    text-decoration: none;
+}
+
+.navbar-collapse {
+	background-color: #f6f6f6;
+}
+
+.navbar-default .navbar-nav > .active > a,.navbar-default .navbar-nav > li:hover > a {border:0 solid #0080ff;border-bottom-width:2px;background-color:transparent;}
+
+.my-btn-link {
+	font-weight: normal;
+	color: #0080ff;
+	text-decoration: none;
+	border-radius: 0;
+}
+.my-btn-link,
+.my-btn-link:active,
+.my-btn-link.active,
+.my-btn-link[disabled],
+fieldset[disabled] .my-btn-link {
+	background-color: transparent;
+	-webkit-box-shadow: none;
+		  box-shadow: none;
+}
+.my-btn-link,
+.my-btn-link:hover,
+.my-btn-link:focus,
+.my-btn-link:active {
+	border-color: transparent;
+}
+.my-btn-link:hover,
+.my-btn-link:focus {
+	color: #0080ff;
+	text-decoration: none;
+	background-color: transparent;
+}
+.my-btn-link[disabled]:hover,
+fieldset[disabled] .my-btn-link:hover,
+.my-btn-link[disabled]:focus,
+fieldset[disabled] .my-btn-link:focus {
+	color: #0080ff;
+	text-decoration: none;
+}
+
+.well {
+	background-color: #e2e2e2;
+}
+
+#unstyled ol li {
+	list-style: none;
+} 
+
+.publication ol { 
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.publication li {
+    flex: 0 0 auto;
+}

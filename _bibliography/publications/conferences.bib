@@ -1,0 +1,58 @@
+@incollection{Hoang2017TSblock,
+author = {<u>Duc A. Hoang</u> and Eli Fox-Epstein and Ryuhei Uehara},
+title = {Sliding token on block graphs},
+booktitle = {Proceedings of <a href="http://walcom2017.nctu.edu.tw/">the 11th International Conference and Workshops on Algorithms and Computation, WALCOM 2017, Hsinchu, Taiwan, March 29-31, 2017</a>},
+volume = {10167},
+series = {Lecture Notes in Computer Science},
+editor = {Sheung-Hung Poon and Md. Saidur Rahman and Hsu-Chun Yen},
+pages = {460--471},
+publisher = {Springer},
+year = {2017},
+doi = {10.1007/978-3-319-53925-6_36},
+abstract = {{Let \(I\), \(J\) be two given independent sets of a graph \(G\). Imagine that the vertices of an independent set are viewed as tokens (coins). A token is allowed to move (or slide) from one vertex to one of its neighbors. The <span style="font-variant:small-caps;">Sliding Token</span> problem asks whether there exists a sequence of independent sets of \(G\) starting from \(I\) and ending with \(J\) such that each intermediate member of the sequence is obtained from the previous one by moving a token according to the allowed rule. In this paper, we claim that this problem is solvable in polynomial time when the input graph is a block graph---a graph whose blocks are cliques. Our algorithm is developed based on the characterization of a non-trivial structure that, in certain conditions, can be used to indicate a <span style="font-variant:small-caps;">no</span>-instance of the problem. Without such a structure, a sequence of token slidings between any two independent sets of the same cardinality exists.}}
+}
+
+@incollection{Hoang2016TScactus,
+author = {<u>Duc A. Hoang</u> and Ryuhei Uehara},
+title =	{Sliding Tokens on a Cactus},
+booktitle =	{Proceedings of <a href="http://rp-www.cs.usyd.edu.au/~visual/isaac2016/">the 27th International Symposium on Algorithms and Computation, ISAAC 2016, Sydney, Australia, December 12-14, 2016</a>},
+pages =	{37:1--37:26},
+series = {Leibniz International Proceedings in Informatics},
+year = {2016},
+volume = {64},
+editor = {Seok-Hee Hong},
+publisher =	{Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik},
+doi = {10.4230/LIPIcs.ISAAC.2016.37},
+abstract = {{Given two independent sets \(I\) and \(J\) of a graph \(G\), imagine that a token (coin) is placed on each vertex in \(I\). Then, the <span style="font-variant:small-caps;">Sliding Token</span> problem asks if one could transforms \(I\) to \(J\) using a sequence of elementary steps, where each step requires sliding a token from one vertex to one of its neighbors, such that the resulting set of vertices where tokens are placed still remains independent. In this paper, we describe a polynomial-time algorithm for solving <span style="font-variant:small-caps;">Sliding Token</span> in case the graph \(G\) is a cactus. Our algorithm is designed based on two observations. First, all structures that forbid the existence of a sequence of token slidings between \(I\) and \(J\), if exist, can be found in polynomial time. A <span style="font-variant:small-caps;">no</span>-instance may be easily deduced using this characterization. Second, without such forbidden structures, a sequence of token slidings between \(I\) and \(J\) does exist.}}
+}
+
+@incollection{FoxEpstein2015TSbipartitepermu,
+author = {Eli Fox-Epstein and <u>Duc A. Hoang</u> and Yota Otachi and Ryuhei Uehara},
+title = {Sliding token on bipartite permutation graphs},
+booktitle = {Proceedings of <a href="http://www.al.cm.is.nagoya-u.ac.jp/isaac2015/">the 26th International Symposium on Algorithms and Computation, ISAAC 2015, Nagoya, Japan, December 9-11, 2015</a>},
+volume = {9472},
+series = {Lecture Notes in Computer Science},
+editor = {Elbassioni, Khaled and Makino, Kazuhisa},
+pages = {237--247},
+publisher = {Springer},
+year = {2015},
+doi = {10.1007/978-3-662-48971-0_21},
+hdl = {10119/13805},
+abstract = {{<span style="font-variant:small-caps;">Sliding Token</span> is a natural reconfiguration problem in which vertices of independent sets are iteratively replaced by neighbors. We develop techniques that may be useful in answering the conjecture that <span style="font-variant:small-caps;">Sliding Token</span> is polynomial-time decidable on bipartite graphs. Along the way, we give efficient algorithms for <span style="font-variant:small-caps;">Sliding Token</span> on bipartite permutation and bipartite distance-hereditary graphs.}}
+}
+
+@incollection{Demaine2014TStreepoly,
+author = {Erik D. Demaine and Martin L. Demaine and Eli Fox-Epstein and <u>Duc A. Hoang</u> and Takehiro Ito and Hirotaka Ono and Yota Otachi and Ryuhei Uehara and Takeshi Yamada},
+editor = {Hee-Kap Ahn and Chan-Su Shin},
+title = {Polynomial-Time Algorithm for Sliding Tokens on Trees},
+booktitle = {Proceedings of <a href="http://tcs.postech.ac.kr/isaac2014/">the 25th International Symposium on Algorithms and Computation, ISAAC 2014, Jeonju, Korea, December 15-17, 2014</a>},
+series = {Lecture Notes in Computer Science},
+volume = {8889},
+year = {2014},
+publisher = {Springer},
+pages = {389--400},
+doi = {10.1007/978-3-319-13075-0_31},
+hdl = {10119/13765},
+arxivid = {1406.6576v1},
+abstract = {{Suppose that we are given two independent sets \(I_b\) and \(I_r\) of a graph such that \(|I_b| = |I_r|\), and imagine that a token is placed on each vertex in \(I_b\). Then, the <span style="font-variant:small-caps;">sliding token</span> problem is to determine whether there exists a sequence of independent sets which transforms \(I_b\) into \(I_r\) so that each independent set in the sequence results from the previous one by sliding exactly one token along an edge in the graph. This problem is known to be PSPACE-complete even for planar graphs, and also for bounded treewidth graphs. In this paper, we show that the problem is solvable for trees in quadratic time. Our proof is constructive: for a yes-instance, we can find an actual sequence of independent sets between \(I_b\) and \(I_r\) whose length (i.e., the number of token-slides) is quadratic. We note that there exists an infinite family of instances on paths for which any sequence requires quadratic length.}}
+}
