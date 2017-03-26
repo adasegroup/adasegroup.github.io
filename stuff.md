@@ -4,7 +4,8 @@ title: Group Members
 permalink: /stuff/
 ---
 
-Group Members added
+**Group Members**:
+
 [Vladimir Ignatiev](/stuff/VladimirIgnatiev) - junior research
 
 [Ivan Nazarov](/stuff/IvanNazarov) - PhD student
