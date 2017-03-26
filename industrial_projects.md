@@ -16,7 +16,7 @@ permalink: /industrial_projects/
 2. 3D shape recognition
 
 ## Research projects in colloboration with such comapanies as [DATADVANCE](https://www.datadvance.net/ru/) have been resulted in implementation software libaries
-1. pSeven Core (aka MACROS Library) was developed for Surrogate Modeling and Optimization ()
+1. pSeven Core (aka MACROS Library) was developed for Surrogate Modeling and Optimization
 
 # Quality assurance:
 - Technology Readiness Level 6
