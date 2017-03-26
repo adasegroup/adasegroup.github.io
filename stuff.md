@@ -7,8 +7,11 @@ permalink: /stuff/
 **Group Members**:
 
 [Vladimir Ignatiev](/stuff/VladimirIgnatiev) - junior research
+
 [Ivan Nazarov](/stuff/IvanNazarov) - PhD student
+
 [Dmitry Smolyakov](/stuff/DmitrySmolyakov) - PhD student
+
 [Yermek Kapushev](/stuff/YermekKapushev) - PhD student
 
 [Sergey Ivanov](/stuff/SergeyIvanov) - PhD student
