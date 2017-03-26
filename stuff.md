@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Group Members
+title: Stuff
 permalink: /stuff/
 ---
 
-**Group Members**:
+**Group members at Skoltech**:
 
-[Evgeny Burnaev (Head of Group)](https://adasegroup.github.io/team/EvgenyBurnaev/) - Associate Professor
+[Evgeny Burnaev (Head of Group)](http://faculty.skoltech.ru/people/evgenyburnaev) - Associate Professor
 
 [Vladimir Ignatiev](/stuff/VladimirIgnatiev) - Junior Research
 
@@ -50,31 +50,35 @@ permalink: /stuff/
 
 [Oleg Sudakov](/stuff/OlegSudakov) - Ms student
 
+**External group members**
+
 [Sergey Pavlov](/stuff/SergeyPavlov) - Ms student
 
 [Alexander Korotin](/stuff/AlexanderKorotin) - Ms student
 
-[Alexander Bernstein](/stuff/AlexanderBernstein) - Principal Researcher
+**Collaborators**
 
-[Alexey Zaytsev](/stuff/AlexeyZaytsev) - Junior Researcher
+[Alexander Bernstein](http://faculty.skoltech.ru/people/alexanderbernstein) - Principal Researcher
 
-[Maxim Panov](/stuff/MaximPanov) - Junior Researcher
+[Alexey Zaytsev](http://faculty.skoltech.ru/people/alexeizaitsev) - Junior Researcher
 
-[Vladimir Spokoiny](/stuff/VladimirSpokoiny) - Professor
+[Maxim Panov](http://faculty.skoltech.ru/people/maximpanov) - Junior Researcher
 
-[Albert Shiryaev](/stuff/AlbertShiryaev) - Professor
+[Vladimir Spokoiny](http://www.wias-berlin.de/people/spokoiny/) - Professor
 
-[Bruno Sudret](/stuff/BrunoSudret) - Prof.
+[Albert Shiryaev](https://cees-www.mit.edu/index.php/team-2/item/20-albert-n-shiryaev.html) - Professor
 
-[Dmitry Yarotsky](/stuff/DmitryYarotsky) - Leading Researcher
+[Bruno Sudret](http://www.sudret.ibk.ethz.ch/people/prof-dr-bruno-sudret.html) - Prof.
+
+[Dmitry Yarotsky](http://faculty.skoltech.ru/people/dmitryyarotskiy) - Leading Researcher
 
 [Pavel Prikhodko](/stuff/PavelPrikhodko) - 
 
-[Vladimir Vovk](/stuff/VladimirVovk) - Professor
+[Vladimir Vovk](http://www.vovk.net/) - Professor
 
-[Alex Gammerman](/stuff/AlexGammerman) - Doctor
+[Alex Gammerman](http://www.gammerman.com/) - Doctor
 
-[Ilia Nouretdinov](/stuff/IliaNouretdinov) - Professor,
+[Ilia Nouretdinov](https://pure.royalholloway.ac.uk/portal/en/persons/ilia-nouretdinov(e4136840-3249-47a8-81b6-9f89fdabce36).html) - Professor, Royal Holloway, University of London
 
-[Denis Belomestny](/stuff/DenisBelomestny) - Prof.
+[Denis Belomestny](https://www.uni-due.de/~hm0124/index.php) - Prof. Dr., Duisburg-Essen University
 
