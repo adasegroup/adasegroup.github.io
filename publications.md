@@ -4,10 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-[2017|](#2016-publications-list)
-[2016|](#2016-publications-list)
-[2015|](#2015-publications-list)
-[2014|](#2014-publications-list)
+[2017](#2016-publications-list)|
+[2016](#2016-publications-list)|
+[2015](#2015-publications-list)|
+[2014](#2014-publications-list)|
 [2013](#2015-publications-list)
 
 ## 2017-publications-list
