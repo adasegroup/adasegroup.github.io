@@ -6,7 +6,9 @@ permalink: /stuff/
 
 **Group Members**:
 
-[Vladimir Ignatiev](/stuff/VladimirIgnatiev) - junior research
+[Evgeny Burnaev (Head of Group)](https://adasegroup.github.io/team/EvgenyBurnaev/) - Associate Professor
+
+[Vladimir Ignatiev](/stuff/VladimirIgnatiev) - Junior Research
 
 [Ivan Nazarov](/stuff/IvanNazarov) - PhD student
 
@@ -42,13 +44,37 @@ permalink: /stuff/
 
 [German Novikov](/stuff/GermanNovikov) - Ms student
 
-[Anton Pankratov](/stuff/AntonPankratov) - – Ms
+[Anton Pankratov](/stuff/AntonPankratov) - Ms student
 
 [Oleg Khomenko](/stuff/OlegKhomenko) - Ms student
 
 [Oleg Sudakov](/stuff/OlegSudakov) - Ms student
 
-[Sergey Pavlov](/stuff/SergeyPavlov) - Ms student,
+[Sergey Pavlov](/stuff/SergeyPavlov) - Ms student
 
-[Alexander Korotin](/stuff/AlexanderKorotin) - Ms student,
+[Alexander Korotin](/stuff/AlexanderKorotin) - Ms student
+
+[Alexander Bernstein](/stuff/AlexanderBernstein) - Principal Researcher
+
+[Alexey Zaytsev](/stuff/AlexeyZaytsev) - Junior Researcher
+
+[Maxim Panov](/stuff/MaximPanov) - Junior Researcher
+
+[Vladimir Spokoiny](/stuff/VladimirSpokoiny) - Professor
+
+[Albert Shiryaev](/stuff/AlbertShiryaev) - Professor
+
+[Bruno Sudret](/stuff/BrunoSudret) - Prof.
+
+[Dmitry Yarotsky](/stuff/DmitryYarotsky) - Leading Researcher
+
+[Pavel Prikhodko](/stuff/PavelPrikhodko) - 
+
+[Vladimir Vovk](/stuff/VladimirVovk) - Professor
+
+[Alex Gammerman](/stuff/AlexGammerman) - Doctor
+
+[Ilia Nouretdinov](/stuff/IliaNouretdinov) - Professor,
+
+[Denis Belomestny](/stuff/DenisBelomestny) - Prof.
 
