@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Masters Students
-permalink: /staff/masters/
+permalink: /stuff/masters/
 ---
 
 List of Masters
