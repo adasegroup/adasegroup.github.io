@@ -51,7 +51,6 @@ permalink: /stuff/
 [Oleg Sudakov](/stuff/OlegSudakov) - Ms student
 
 **External group members**
-
 ---
 
 [Sergey Pavlov](/stuff/SergeyPavlov) - Ms student
@@ -59,7 +58,6 @@ permalink: /stuff/
 [Alexander Korotin](/stuff/AlexanderKorotin) - Ms student
 
 **Collaborators**
-
 ---
 
 [Alexander Bernstein](http://faculty.skoltech.ru/people/alexanderbernstein) - Principal Researcher
