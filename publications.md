@@ -4,19 +4,19 @@ title: Publications
 permalink: /publications/
 ---
 
-[2017](#2016-publications-list)|
-[2016](#2016-publications-list)|
-[2015](#2015-publications-list)|
-[2014](#2014-publications-list)|
-[2013](#2015-publications-list)
+[2017](#2016)|
+[2016](#2016)|
+[2015](#2015)|
+[2014](#2014)|
+[2013](#2015)
 
-## 2017-publications-list
+## **2017**
 1.	Laugerotte, A., Zaytsev, A., Burnaev, E., Khominich, D., Pons, L., & Alestr, S. (2016). Datafusion for biological simulations: Application to toxins. Toxicon, 123, S52-S53.
 2.	Burnaev E., Zaytsev A. Minimax approach to variable fidelity data interpolation // Under review at AISTAT, 2017.
 3.	Burnaev E., Zaytsev A. Large Scale Variable Fidelity Surrogate Modeling // Accepted in Annals of Mathematics and Artificial Intelligence, 2017.
 4. Burnaev E., Panin I., Sudret B. Effecient Design of Experiments for Sensitivity Analysis based on Polynomial Chaos Expansions // Accepted in Annals of Mathematics and Artificial Intelligence, 2017.
 
-## 2016-publications-list
+## **2016**
 1.	Artemov, E. Burnaev. Optimal sequential estimation of a signal, observed in a fractional gaussian noise // Theory of Probability and Its Applications, 2016, vol. 60, № 1, pp. 126-134.
 2.	E. Burnaev, P. Erofeev. The Influence of Parameter Initialization on the Training Time and Accuracy of a Nonlinear Regression Model, Journal of Communications Technology and Electronics, 2016, Vol. 61, No. 6, pp. 646–660.
 3.	E. Burnaev, M. Belyaev, E. Kapushev. Computationally efficient algorithm for Gaussian Processes based regression in case of structured samples // Computational Mathematics and Mathematical Physics, 2016, Vol. 56, No. 4, pp. 499–513, 2016..
@@ -29,7 +29,7 @@ permalink: /publications/
 10.	Burnaev E, Smolyakov D. One-Class SVM with Privileged Information and Its Application to Malware Detection // 16th International Conference on Data Mining Workshops (ICDMW), IEEE Conference Publications, pp. 273 - 280, 2016. DOI: 10.1109/ICDMW.2016.0046
 11.	Evgeny Burnaev, Ivan Koptelov, German Novikov, Timur Khanipov. Automatic Construction of a Recurrent Neural Network based Classifier for Vehicle Passage Detection // Proc. SPIE, Nineth International Conference on Machine Vision, 2016
 
-## 2015-publications-list
+## **2015**
 1.	E. Burnaev, S. Chernova. On an Iterative Algorithm for Calculating Weighted Principal Components // Journal of Communications Technology and Electronics, 2015, Vol. 60, No. 6, pp. 619–624.
 2.	E. Burnaev, A. Zaytsev. Surrogate modeling of mutlifidelity data for large samples. Journal of Communications Technology and Electronics, 2015, Vol. 60, No. 12, pp. 1348–1355.
 3.	M. Belyaev, E. Burnaev, and Y. Kapushev. Gaussian process regression for structured data sets. In Lecture Notes in Artificial Intelligence. Proceedings of SLDS 2015. A. Gammerman et al. (Eds.), volume 9047, pages 106–115, London, UK, April 20–23 2015. Springer.
@@ -40,7 +40,7 @@ permalink: /publications/
 8.	Artemov A., Burnaev E. Ensembles of Detectors for Online Detection of Transient Changes // Proc. SPIE 9875, Eighth International Conference on Machine Vision, 98751Z (December 8, 2015); 5 P. doi:10.1117/12.2228369; http://dx.doi.org/10.1117/12.2228369
 9.	E. Burnaev, P. Erofeev, A. Papanov. Influence of Resampling on Accuracy of Imbalanced Classification // Proc. SPIE9875, Eighth International Conference on Machine Vision, 987521 (December 8, 2015); 5 P. doi:10.1117/12.2228523; http://dx.doi.org/10.1117/12.2228523
 
-## 2014-publications-list
+## **2014**
 1.	E. Burnaev, V. Vovk. Efficiency of conformalized ridge regression. JMLR W&CP 35:605-622, 2014
 2.	E. Burnaev, S. Alestra, P. Prikhodko, K. Sato. Construction of Low Dimensional Structures from Object Surface Description using Feature Extraction Technique // Journal of the Japan Society of Mechanical Engineers, 2014 / 5 / Vol 117 N° 1146, pp. 322 - 325 (in Japanese)    
 3.	S. Alestra, E. Kapushev , M. Belyaev, E. Burnaev, M. Dormieux, A. Cavailles, D. Chaillot and E. Ferreira. Building Data Fusion Surrogate Models for Spacecraft Aerodynamic Problems with Incomplete Factorial Design of Experiments // Advanced Materials Research, Vol. 1016 (2014), pp. 405-412.
