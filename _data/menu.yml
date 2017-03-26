@@ -4,12 +4,12 @@
 - title: "Stuff"
   href: "/stuff/"
   subcategories:
-    - subtitle: "Researchers"
-      subhref: "/stuff/researchers/"
-    - subtitle: "Ph.D Students"
-      subhref: "/stuff/phd/"
-    - subtitle: "Masters Students"
-      subhref: "/stuff/masters/"
+#    - subtitle: "Researchers"
+#      subhref: "/stuff/researchers/"
+#    - subtitle: "Ph.D Students"
+#      subhref: "/stuff/phd/"
+#    - subtitle: "Masters Students"
+#      subhref: "/stuff/masters/"
 
 - title: "Publications"
   href: "/publications/"
