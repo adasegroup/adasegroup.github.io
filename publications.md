@@ -48,7 +48,7 @@ permalink: /publications/
 5.	G. Sterling, P. Prikhodko, E. Burnaev, M. Belyaev and S. Grihon. On Approximation of Reserve Factors Dependency on Loads for Composite Stiffened Panels // Advanced Materials Research, Vol. 1016 (2014), pp. 85-89. 
 6.	A. Zaytsev, E. Burnaev, V. Spokoiny. Properties of the Bayesian Parameter Estimation of a Regression Based on Gaussian Processes // Journal of Mathematical Sciences, Volume 203, Issue 6, pp. 789-798, 15 Nov 2014.
 
-## 2013-publications-list
+## 2013
 1.	Grihon S., Burnaev E.V., Belyaev M.G. and Prikhodko P.V. Surrogate Modeling of Stability Constraints for Optimization of Composite Structures // Surrogate-Based Modeling and Optimization. Engineering applications. Eds. by S. Koziel, L. Leifsson. Springer, 2013. P. 359-391.
 2.	E. Burnaev, A. Zaytsev, V. Spokoiny. The Bernstein-von Mises theorem for regression based on Gaussian processes // Russ. Math. Surv. 68, No. 5, 954-956 (2013)
 3.	E. Burnaev, P. Prikhod’ko. On a method for constructing ensembles of regression models // Automation and Remote Control, Volume 74, Issue 10, pp. 1630-1644, 12 Oct 2013.
