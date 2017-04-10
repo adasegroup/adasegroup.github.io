@@ -8,33 +8,33 @@ permalink: /staff/
 ---
 
 - [Evgeny Burnaev (Head of Group)](http://faculty.skoltech.ru/people/evgenyburnaev) - Associate Professor
-- [Vladimir Ignatiev](/stuff/VladimirIgnatiev) - Junior Research Scientist
-- [Ivan Nazarov](/stuff/IvanNazarov) - PhD student
-- [Dmitry Smolyakov](/stuff/DmitrySmolyakov) - PhD student
-- [Yermek Kapushev](/stuff/YermekKapushev) - PhD student
-- [Sergey Ivanov](/stuff/SergeyIvanov) - PhD student
-- [Nikita Klyuchnikov](/stuff/NikitaKlyuchnikov) - PhD student
-- [Alexander Notchenko](/stuff/AlexanderNotchenko) - PhD student
-- [German Novikov](/stuff/GermanNovikov) - Ms student
-- [Albert Matveyev](/stuff/AlbertMatveyev) - Ms student
-- [Vladislav Ishimtsev](/stuff/VladislavIshimtsev) - Ms student
-- [Denis Volkhonsky](/stuff/DenisVolkhonsky) - Ms student
-- [Evgeny Egorov](/stuff/EvgenyEgorov) - Ms student
-- [Ruslan Kostoev](/stuff/RuslanKostoev) - Ms student
-- [Anton Rykachevsky](/stuff/AntonRykachevsky) - Ms student
-- [Alexey Ryabykh](/stuff/AlexeyRyabykh) - Ms student
-- [Nikita Gryaznov](/stuff/NikitaGryaznov) - Ms student
-- [Ivan Makhotin](/stuff/IvanMakhotin) - Ms student
-- [Anton Marin](/stuff/AntonMarin) - Ms student
-- [Anton Pankratov](/stuff/AntonPankratov) - Ms student
-- [Oleg Khomenko](/stuff/OlegKhomenko) - Ms student
-- [Oleg Sudakov](/stuff/OlegSudakov) - Ms student
+- [Vladimir Ignatiev](/staff/VladimirIgnatiev) - Junior Research Scientist
+- [Ivan Nazarov](/staff/IvanNazarov) - PhD student
+- [Dmitry Smolyakov](/staff/DmitrySmolyakov) - PhD student
+- [Yermek Kapushev](/staff/YermekKapushev) - PhD student
+- [Sergey Ivanov](/staff/SergeyIvanov) - PhD student
+- [Nikita Klyuchnikov](/staff/NikitaKlyuchnikov) - PhD student
+- [Alexander Notchenko](/staff/AlexanderNotchenko) - PhD student
+- [German Novikov](/staff/GermanNovikov) - Ms student
+- [Albert Matveyev](/staff/AlbertMatveyev) - Ms student
+- [Vladislav Ishimtsev](/staff/VladislavIshimtsev) - Ms student
+- [Denis Volkhonsky](/staff/DenisVolkhonsky) - Ms student
+- [Evgeny Egorov](/staff/EvgenyEgorov) - Ms student
+- [Ruslan Kostoev](/staff/RuslanKostoev) - Ms student
+- [Anton Rykachevsky](/staff/AntonRykachevsky) - Ms student
+- [Alexey Ryabykh](/staff/AlexeyRyabykh) - Ms student
+- [Nikita Gryaznov](/staff/NikitaGryaznov) - Ms student
+- [Ivan Makhotin](/staff/IvanMakhotin) - Ms student
+- [Anton Marin](/staff/AntonMarin) - Ms student
+- [Anton Pankratov](/staff/AntonPankratov) - Ms student
+- [Oleg Khomenko](/staff/OlegKhomenko) - Ms student
+- [Oleg Sudakov](/staff/OlegSudakov) - Ms student
 
 **External group members**
 ---
 
-- [Sergey Pavlov](/stuff/SergeyPavlov) - Ms student, MIPT (SU)
-- [Alexander Korotin](/stuff/AlexanderKorotin) - Ms student, MIPT (SU)
+- [Sergey Pavlov](/staff/SergeyPavlov) - Ms student, MIPT (SU)
+- [Alexander Korotin](/staff/AlexanderKorotin) - Ms student, MIPT (SU)
 
 **Collaborators**
 ---
