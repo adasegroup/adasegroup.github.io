@@ -1,15 +1,15 @@
 #- title: "About"
 #  href: "/about/"
 #
-- title: "Stuff"
-  href: "/stuff/"
+- title: "Staff"
+  href: "/staff/"
   subcategories:
 #    - subtitle: "Researchers"
-#      subhref: "/stuff/researchers/"
+#      subhref: "/staff/researchers/"
 #    - subtitle: "Ph.D Students"
-#      subhref: "/stuff/phd/"
+#      subhref: "/staff/phd/"
 #    - subtitle: "Masters Students"
-#      subhref: "/stuff/masters/"
+#      subhref: "/staff/masters/"
 
 - title: "Publications"
   href: "/publications/"
