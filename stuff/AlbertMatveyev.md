@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Albert Matveyev
-permalink: /stuff/AlbertMatveyev/
+permalink: /staff/AlbertMatveyev/
 ---
 
 Albert Matveyev
