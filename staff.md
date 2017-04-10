@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Stuff
-permalink: /stuff/
+title: Staff
+permalink: /staff/
 ---
 
 **Group members at Skoltech**:
