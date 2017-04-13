@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alexander Korotin
-permalink: /stuff/AlexanderKorotin/
+permalink: /staff/AlexanderKorotin/
 ---
 
 Alexander Korotin
