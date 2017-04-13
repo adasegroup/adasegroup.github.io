@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alexander Notchenko
-permalink: /stuff/AlexanderNotchenko/
+permalink: /staff/AlexanderNotchenko/
 ---
 
 Alexander Notchenko
