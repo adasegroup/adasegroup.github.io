@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alexey Ryabykh
-permalink: /stuff/AlexeyRyabykh/
+permalink: /staff/AlexeyRyabykh/
 ---
 
 Alexey Ryabykh
