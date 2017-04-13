@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anton Rykachevsky
-permalink: /stuff/AntonRykachevsky/
+permalink: /staff/AntonRykachevsky/
 ---
 
 Anton Rykachevsky
