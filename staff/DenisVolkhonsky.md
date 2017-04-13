@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Denis Volkhonsky
-permalink: /stuff/DenisVolkhonsky/
+permalink: /staff/DenisVolkhonsky/
 ---
 
 Denis Volkhonsky
