@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anton Marin
-permalink: /stuff/AntonMarin/
+permalink: /staff/AntonMarin/
 ---
 
 Anton Marin
