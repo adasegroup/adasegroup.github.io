@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anton Pankratov
-permalink: /stuff/AntonPankratov/
+permalink: /staff/AntonPankratov/
 ---
 
 Anton Pankratov
