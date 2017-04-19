@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Evgeny Egorov
-permalink: /stuff/EvgenyEgorov/
+permalink: /staff/EvgenyEgorov/
 ---
 
 Evgeny Egorov
