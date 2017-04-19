@@ -4,7 +4,7 @@ title: Vladimir Ignatiev
 permalink: /staff/VladimirIgnatiev/
 ---
 
-![](/stuff/Ignatiev.bmp)
+![](/staff/Ignatiev.bmp)
 
 ## Vladimir Ignatiev
 
