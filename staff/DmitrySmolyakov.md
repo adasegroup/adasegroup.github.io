@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dmitry Smolyakov
-permalink: /stuff/DmitrySmolyakov/
+permalink: /staff/DmitrySmolyakov/
 ---
 
 Dmitry Smolyakov
