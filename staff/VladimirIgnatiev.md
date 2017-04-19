@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vladimir Ignatiev
-permalink: /stuff/VladimirIgnatiev/
+permalink: /staff/VladimirIgnatiev/
 ---
 
 ![](/stuff/Ignatiev.bmp)
