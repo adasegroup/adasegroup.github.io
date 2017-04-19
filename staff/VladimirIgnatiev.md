@@ -22,7 +22,7 @@ Data fusion techniques for:
 
 # All publications, sorted by year
 
-1. Ignatyev V.Yu., Matveev I.A., Murynin A.B., Trekin A.N. Herald of the Bauman Moscow State Technical University, Series Natural Sciences. 2017. No. 1. Vol. 70. P. 124-141. [doi:10.18698/1812-3368-2017-1-124-141](http://vestniken.ru/eng/catalog/it/sysan/742.html)
+1. Ignatyev V.Yu., Matveev I.A., Murynin A.B., Trekin A.N. Image Quality Assessment by Upsampling Methods Based on Spatial Spectrum Extrapolation. Herald of the Bauman Moscow State Technical University, Series Natural Sciences. 2017. No. 1. Vol. 70. P. 124-141. [doi:10.18698/1812-3368-2017-1-124-141](http://vestniken.ru/eng/catalog/it/sysan/742.html)
 
 2. Bondur, V.G., Dulov, V.A., Murynin, A.B., Ignatiev, V.Y. Retrieving sea-wave spectra using satellite-imagery spectra in a wide range of frequencies. Izvestiya - Atmospheric and Ocean Physics. 2016. No. 52. Vol. 6. P. 637-648. [doi:10.1134/S0001433816060049](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85010081538&doi=10.1134%2fS0001433816060049&partnerID=40&md5=6c889e1be27194cd7a6915114ab00962)
 
