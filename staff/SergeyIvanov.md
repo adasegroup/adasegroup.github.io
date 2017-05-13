@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sergey Ivanov
-permalink: /stuff/SergeyIvanov/
+permalink: /staff/SergeyIvanov/
 ---
 
 Sergey Ivanov
