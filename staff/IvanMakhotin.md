@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ivan Makhotin
-permalink: /stuff/IvanMakhotin/
+permalink: /staff/IvanMakhotin/
 ---
 
 Ivan Makhotin
