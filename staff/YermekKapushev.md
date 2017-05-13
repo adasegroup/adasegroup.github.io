@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yermek Kapushev
-permalink: /stuff/YermekKapushev/
+permalink: /staff/YermekKapushev/
 ---
 
 Yermek Kapushev
