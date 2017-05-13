@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nikita Gryaznov
-permalink: /stuff/NikitaGryaznov/
+permalink: /staff/NikitaGryaznov/
 ---
 
 Nikita Gryaznov
