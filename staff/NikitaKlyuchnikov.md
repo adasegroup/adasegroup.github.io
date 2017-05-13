@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nikita Klyuchnikov
-permalink: /stuff/NikitaKlyuchnikov/
+permalink: /staff/NikitaKlyuchnikov/
 ---
 
 Nikita Klyuchnikov
