@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vladislav Ishimtsev
-permalink: /stuff/VladislavIshimtsev/
+permalink: /staff/VladislavIshimtsev/
 ---
 
 Vladislav Ishimtsev
