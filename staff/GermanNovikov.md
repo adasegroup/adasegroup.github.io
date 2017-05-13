@@ -1,7 +1,7 @@
 ---
 layout: page
 title: German Novikov
-permalink: /stuff/GermanNovikov/
+permalink: /staff/GermanNovikov/
 ---
 
 German Novikov
