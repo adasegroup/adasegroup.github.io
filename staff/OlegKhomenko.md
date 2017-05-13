@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Oleg Khomenko
-permalink: /stuff/OlegKhomenko/
+permalink: /staff/OlegKhomenko/
 ---
 
 Oleg Khomenko
