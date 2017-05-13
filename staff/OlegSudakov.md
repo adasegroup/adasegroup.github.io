@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Oleg Sudakov
-permalink: /stuff/OlegSudakov/
+permalink: /staff/OlegSudakov/
 ---
 
 Oleg Sudakov
