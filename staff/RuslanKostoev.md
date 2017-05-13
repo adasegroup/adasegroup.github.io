@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ruslan Kostoev
-permalink: /stuff/RuslanKostoev/
+permalink: /staff/RuslanKostoev/
 ---
 
 Ruslan Kostoev
