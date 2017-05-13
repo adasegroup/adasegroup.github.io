@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ivan Nazarov
-permalink: /stuff/IvanNazarov/
+permalink: /staff/IvanNazarov/
 ---
 
 Ivan Nazarov
