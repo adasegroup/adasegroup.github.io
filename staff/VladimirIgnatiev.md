@@ -22,7 +22,7 @@ Data fusion techniques for:
 
 # All publications, sorted by year
 
-1. Gurchenkov A.A., Murynin A.B., Trekin A.N., Ignatyev V.Yu. Object-Oriented Classification of Substrate Surface Objects in Arctic Impact Regions Aerospace Monitoring. Herald of the Bauman Moscow State Technical University, Series Natural Sciences. 2017. No. 3. Vol. 72. P. ???-???. [10.18698/1812-3368-2017-3-135-146]
+1. Gurchenkov A.A., Murynin A.B., Trekin A.N., Ignatyev V.Yu. Object-Oriented Classification of Substrate Surface Objects in Arctic Impact Regions Aerospace Monitoring. Herald of the Bauman Moscow State Technical University, Series Natural Sciences. 2017. No. 3. Vol. 72. P. ???-???. [10.18698/1812-3368-2017-3-135-146](http://vestniken.ru/eng/catalog/it/sysan/763.html)
 
 2. Ignatyev V.Yu., Matveev I.A., Murynin A.B., Trekin A.N. Image Quality Assessment by Upsampling Methods Based on Spatial Spectrum Extrapolation. Herald of the Bauman Moscow State Technical University, Series Natural Sciences. 2017. No. 1. Vol. 70. P. 124-141. [doi:10.18698/1812-3368-2017-1-124-141](http://vestniken.ru/eng/catalog/it/sysan/742.html)
 
