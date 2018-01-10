@@ -5,23 +5,24 @@ permalink: /academic_projects/
 ---
 
 # Motivation
-Full-scale/computational experiments are often expensive; in some cases “physical” models are not available at all.
+Often, full-scale computational experiments are expensive. In addition, there are situations where “physical” models are unavailable.
 
-# Goal
-construct a data-driven (surrogate) model in order to:
-- predict behavior;
-- perform model-based control and recommend future actions;
-- optimize design and performance;
-- detect anomalies and predict failures.
+# Objective
+To achieve this, our objetive is to construct data-driven (surrogate) models capable of:
+- predicting behavior
+- performing model-based control and recommend future actions
+- optimizing design and performance
+- detecting anomalies and predict failures
 
 # Challenges
-1. Variable fidelity data sources (e.g. AT, computer models).
-2. Data with complex shapes and structure
-- sample is generated on a manifold;
-- anisotropic sample distribution, including imbalanced distribution of labels;
-- 3D object description (e.g. CAD model);
-- multidimensional time-series data.
-3. Local accuracy prediction is required.
+There are several challenges involved in the construction of surrogate models such as:
+1. The data sources have viariable degrees of fidelity (e.g. AT, computer models)
+2. Complex shapes and structure present in the data at hand. Some examples are:
+- The sample is generated on a manifold
+- The data represents an anisotropic sample distribution or includes imbalanced distribution of labels
+- The description of the data relates to a 3D object such as CAD models
+- The data set is a multidimensional time-series
+3. Local accuracy prediction is required
 
 # Tasks
 - surrogate model construction and surrogate optimization;
