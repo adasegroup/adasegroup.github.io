@@ -1,27 +1,22 @@
  <div class="user-details">
   <h1> {{site.about_title}} </h1>
   <p> {{site.user_description}} </p>
+  <h1>Research Areas</h1>
 </div>
   <div class="user">
     <div class="tech">
       <h2>{{site.block1_title}}</h2>
-      <i class="devicon-html5-plain-wordmark"></i>
-      <i class="devicon-bootstrap-plain-wordmark colored"></i>
-      <i class="devicon-sass-original colored"></i>
+      <img alt="{{site.block1_title}}" src="{{ "/assets/img/adase_1.png" | prepend: site.baseurl }}" />
       <p>{{site.block1_description}}</p>
     </div>
     <div class="tech">
       <h2>{{site.block2_title}}</h2>
-      <i class="devicon-javascript-plain colored"></i>
-      <i class="devicon-react-original-wordmark colored"></i>
-      <i class="devicon-nodejs-plain-wordmark"></i>
+      <img alt="{{site.block2_title}}" src="{{ "/assets/img/adase_2.jpg" | prepend: site.baseurl }}" />
       <p>{{site.block2_description}} gadaga</p>
     </div>
     <div class="tech">
       <h2>{{{site.block3_title}}</h2>
-      <i class="devicon-git-plain"></i>
-      <i class="devicon-gulp-plain colored"></i>
-      <i class="devicon-atom-original-wordmark"></i>
+      <img alt="{{site.block3_title}}" src="{{ "/assets/img/adase_3.gif" | prepend: site.baseurl }}" />
       <p>{{site.block3_description}}</p>
     </div>
 </div>
