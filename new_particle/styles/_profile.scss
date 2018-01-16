@@ -1,0 +1,18 @@
+.profile {
+    float: right !important;
+    img {
+        box-shadow: 0 0 5px $grey-color;
+        width: 100%;
+    }
+}
+.address {
+    font-family: monospace;
+
+    p { margin: 0; }
+}
+
+.social {
+    border-top: 1px solid $grey-color-light;
+    margin-top: 50px;
+    padding-top: 20px;
+}

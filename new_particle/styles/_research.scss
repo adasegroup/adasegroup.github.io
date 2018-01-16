@@ -1,0 +1,29 @@
+#research {
+  width: 90%;
+  margin: 0 auto;
+  max-width: 960px;
+  @media only screen and (min-width: $cut) {
+    width: 80%;
+  }
+}
+
+.research {
+  text-align: center;
+  font-size: 60px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  p {
+    font-size: 16px;
+  }
+  @media only screen and (min-width: $cut) {
+    flex-wrap: nowrap;
+    font-size: 75px;
+  }
+}
+
+.research-details {
+  text-align: center;
+  margin: 5px auto;
+}
