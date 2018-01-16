@@ -1,4 +1,5 @@
 Advanced Data Analytics in Science and Engineering group at Skoltech, Moscow
 =====================================
 
-Group  website
+Welcome to the ADASE group website!
+You can visit us here: http://adasegroup.github.io
