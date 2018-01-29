@@ -1,0 +1,12 @@
+<div class="staff-details">
+  <h1> {{site.staff_title}} </h1>
+  <p>
+    <!-- You can turn off the avatar in _config.yml by setting to false -->
+    {% if site.resume_avatar == 'true' %}
+    <img src="/assets/img/pb.jpg" alt="Evgeny Burnaev" class="no-print" itemprop="image">
+    {% endif %}</p>
+  <h3>Evgeny Burnaev</h3>
+  <h4>Leadership</h4>
+  <p>{{site.staff_description}}</p>
+  <a class="project-link" href="#">More...</a>
+</div>
