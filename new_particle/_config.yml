@@ -120,15 +120,18 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /news/:path/
+    permalink: /:collection/:path/
   lectures:
     defaults:
       layout: post
     output: true
-    permalink: /lectures/:path/
+    permalink: /:collection/:path/
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
     
 news_limit: 5
 lectures_limit: 5
@@ -145,34 +148,35 @@ highlighter: pygments
 include: ['_pages']
 
 # Gems
-gems:
-    - jekyll-paginate
-    - jekyll/scholar
-    - jemoji
+plugins:
+  - jekyll-paginate
+  - jemoji
+#-jekyll/scholar
+#- jekyll-scholar
 
 # Jekyll-Scholar
-scholar:
+#scholar:
 
-  last_name: Einstein
+#  last_name: Einstein
 
-  style: apa
-  locale: en
+#  style: apa
+#  locale: en
 
-  sort_by: year
-  order: descending
+#  sort_by: year
+#  order: descending
 
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
+#  source: /_bibliography/
+#  bibliography: papers.bib
+#  bibliography_template: bib
 
-  replace_strings: true
-  join_strings: true
+#  replace_strings: true
+#  join_strings: true
 
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
+#  details_dir: bibliography
+#  details_layout: bibtex.html
+#  details_link: Details
 
-  query: "@*"
+#  query: "@*"
 
 # -----------------------------------------------------------------------------
 # Other settings
@@ -180,3 +184,5 @@ scholar:
 jquery_version: "1.12.4"
 katex_version: "0.7.1"
 anchorjs_version: "3.2.2"
+
+
