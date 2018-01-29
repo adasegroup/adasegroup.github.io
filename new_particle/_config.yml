@@ -15,10 +15,9 @@ user_description: The Advanced Data Analytics in Science and Engineering Group i
   with industrial applications based at the Skolkovo Institute of Science and Technology (Skoltech). 
   The group is conformed by a research team consisting of academic experts, doctoral students and developers.
 user_title: Skoltech, Moscow, Russia
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+email: adase@skoltech.ru
+twitter_username: adase
+github_username:  adasegroup
 
 # Google-analytics
 google-analytics:
@@ -30,6 +29,8 @@ about_title: ADASE
 news_title: News
 research_title: Research Agenda
 industry_title: Industry Projects
+teaching_title: Teaching
+group_title: Research Group
 
 
 block1_title: Modelling with Surrogate Functions
