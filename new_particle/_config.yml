@@ -11,10 +11,8 @@ user_title: Advanced Data Analytics in Science and Engineering Group at Skoltech
 # User settings
 username: ADASE
 username_full: Advanced Data Analytics in Science and Engineering Group
-user_description: >
-  The Advanced Data Analytics in Science and Engineering Group is a research
-  organisation focused on the development of novel machine learning methods
-  with industrial applications based at the Skolkovo Institute of Science and Technology (Skoltech). 
+user_description: |
+  The Advanced Data Analytics in Science and Engineering Group is a research organisation focused on the development of novel machine learning methods with industrial applications based at the Skolkovo Institute of Science and Technology (Skoltech). 
   The group is conformed by a research team consisting of academic experts, doctoral students and developers.
 user_title: Skoltech, Moscow, Russia
 email: adase@skoltech.ru
@@ -51,7 +49,7 @@ research_description: >
   performing model-based control and recommend future actions, optimizing design and performance and detecting anomalies and predict failures. Aside from traditional convex and non-convex optimization techniques, 
   we see great potential in modern artificial intelligence, mainly deep learning, 
   in order to achieve these goals. 
-  Keywords - Machine Learning, Engineering Problems, Online Data, Kernel Methods, Gaussian Process, Deep Learning.
+  Keywords: Machine Learning, Engineering Problems, Online Data, Kernel Methods, Gaussian Process, Deep Learning.
   
 staff_description: >
   Since 2016 Evgeny Burnaev works as Associate Professor of Skoltech Center for Computational Data-Intensive Science and Engineering. 
