@@ -42,10 +42,22 @@
     color: #FFF;
     margin-top: 10px;
     @media only screen and (min-width:$cut){
-      font-size: 40px;
+      font-size: 32px;
+    }
+  }
+  .site-description2 {
+    font-size: 20px;
+    display: block;
+    line-height: 1;
+    color: #FFF;
+    margin-top: 10px;
+    @media only screen and (min-width:$cut){
+      font-size: 28px;
     }
   }
 }
+
+
 
 .header-links {
   margin: 50px;

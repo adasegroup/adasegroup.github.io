@@ -15,13 +15,19 @@
 }
 
 .user {
+  
   text-align: center;
   font-size: 60px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
+  h2 {
+    text-align: center;
+  }
   p {
+    text-align: justify;
+    text-align-last: center;
     font-size: 16px;
   }
   @media only screen and (min-width: $cut) {
@@ -31,6 +37,7 @@
 }
 
 .user-details {
-  text-align: center;
+  text-align: justify;
+  text-align-last: center;
   margin: 5px auto;
 }

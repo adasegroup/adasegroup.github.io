@@ -11,9 +11,6 @@ user_title: Advanced Data Analytics in Science and Engineering Group at Skoltech
 # User settings
 username: ADASE
 username_full: Advanced Data Analytics in Science and Engineering Group
-user_description: |
-  The Advanced Data Analytics in Science and Engineering Group is a research organisation focused on the development of novel machine learning methods with industrial applications based at the Skolkovo Institute of Science and Technology (Skoltech). 
-  The group is conformed by a research team consisting of academic experts, doctoral students and developers.
 user_title: Skoltech, Moscow, Russia
 email: adase@skoltech.ru
 twitter_username: adase
@@ -42,20 +39,6 @@ block3_title: Processing of online data
 block1_description: Prediction systems with kernel methods such as engineering problems with surrogate functions.
 block2_description: Processing 3D data in the areas of computer vision, brain image processing, chemoinformatics.
 block3_description: Processing of online data such as anomaly detection, forecasting, change point detection, time series.
-
-research_description: >
-  ADASE is a group of research enthusiasts pushing the state of the art at the intersection of kernel methods 3D data, 
-  deep learning, online data, and machine learning. Our research mission is to construct data-driven (surrogate) models capable of predicting behavior, 
-  performing model-based control and recommend future actions, optimizing design and performance and detecting anomalies and predict failures. Aside from traditional convex and non-convex optimization techniques, 
-  we see great potential in modern artificial intelligence, mainly deep learning, 
-  in order to achieve these goals. 
-  Keywords: Machine Learning, Engineering Problems, Online Data, Kernel Methods, Gaussian Process, Deep Learning.
-  
-staff_description: >
-  Since 2016 Evgeny Burnaev works as Associate Professor of Skoltech Center for Computational Data-Intensive Science and Engineering. 
-  Today, Evgeny’s research interests encompass the areas of regression based on Gaussian processes and kernel methods for multi-fidelity surrogate modeling and optimization, 
-  Deep Learning for 3D Data Analysis and manifold learning, on-line sequence learning for prediction and non-parametric anomaly detection. 
-  The main aim is development of new machine learning methods and their use for solution of applied engineering problems.
 
 publications_description: Many publications coming soon
 
