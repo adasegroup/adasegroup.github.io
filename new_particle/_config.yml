@@ -30,9 +30,11 @@ teaching_title: Teaching
 group_title: Research Group
 staff_title: Staff
 publications_title: Publications
+contact_title: Contact
 
 
-block1_title: Modelling with Surrogate Functions
+
+block1_title: Modelling of surrogates
 block2_title: Processing of 3D data
 block3_title: Processing of online data
 

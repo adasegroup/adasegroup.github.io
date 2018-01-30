@@ -5,25 +5,28 @@
       {% include nav_bar.html %}
       {% include header.html %}
       <section id="about">
-        {% include about.html %}
+        {% include _main/about.html %}
       </section>
       <section id="news">
-        {% include news.html %}
+        {% include _main/news.html %}
       </section>
       <section id="research">
-        {% include research.html %}
+        {% include _main/research.html %}
       </section>
       <section id="staff">
-        {% include staff.html %}
+        {% include _main/staff.html %}
       </section>
       <section id="news">
-        {% include teaching.html %}
+        {% include _main/teaching.html %}
       </section>
       <section id="projects">
-        {% include projects.html %}
+        {% include _main/projects.html %}
       </section>
       <section id="publications">
-        {% include publications.html %}
+        {% include _main/publications.html %}
+      </section>
+      <section id="contact">
+        {% include _main/contact.html %}
       </section>
         {{ content }}
       {% include footer.html %}

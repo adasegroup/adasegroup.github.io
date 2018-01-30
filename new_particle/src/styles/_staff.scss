@@ -23,11 +23,19 @@
   }
 }
 
+.staff-profile {
+  margin: 10px;
+  img {
+    width: 50%;
+    object-fit: cover;
+  }
+}
+
 .staff-details {
   text-align: center;
   margin: 5px auto;
   img {
-    width: 150px;
+    width: 130px;
     max-width: 100%;
     overflow: hidden;
     @include border-radius(100px);
