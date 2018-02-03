@@ -2,19 +2,19 @@
 @import "lib/fontawesome";
 @import "lib/devicon";
 
-@import 'base';
-@import 'vars';
-@import 'variables';
-@import 'animation';
-@import 'mixins';
-@import 'header';
-@import 'about';
-@import 'profile';
-@import 'staff';
-@import 'research';
-@import 'projects';
-@import 'footer';
-@import 'news';
+@import '_global/base';
+@import '_global/vars';
+@import '_global/variables';
+@import '_global/animation';
+@import '_global/mixins';
+@import '_global/header';
+@import '_global/footer';
+@import '_main/about';
+@import '_main/profile';
+@import '_main/staff';
+@import '_main/research';
+@import '_main/projects';
+@import '_main/news';
 
 //@import 'resume';
 

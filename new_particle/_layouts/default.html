@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-  {% include head.html %}
+  {% include _global/head.html %}
   <body>
-      {% include nav_bar.html %}
-      {% include header.html %}
+      {% include _global/nav_bar.html %}
+      {% include _global/header.html %}
       <section id="about">
         {% include _main/about.html %}
       </section>
@@ -29,5 +29,5 @@
         {% include _main/contact.html %}
       </section>
         {{ content }}
-      {% include footer.html %}
+      {% include _global/footer.html %}
   </body>
