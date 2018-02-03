@@ -3,7 +3,7 @@
 #
 - title: "Staff"
   href: "/staff/"
-  subcategories:
+#  subcategories:
 #    - subtitle: "Researchers"
 #      subhref: "/staff/researchers/"
 #    - subtitle: "Ph.D Students"
@@ -13,11 +13,6 @@
 
 - title: "Publications"
   href: "/publications/"
-#  subcategories:
-#    - subtitle: "Item 1"
-#      subhref: "/miscellany/item-1/"
-#    - subtitle: "Item 2"
-#      subhref: "/miscellany/item-2/"
 - title: "Academic Projects"
   href: "/academic_projects/"
 - title: "Industrial Projects"

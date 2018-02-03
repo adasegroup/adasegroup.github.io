@@ -2,19 +2,27 @@
 @import "lib/fontawesome";
 @import "lib/devicon";
 
-@import '_global/base';
 @import '_global/vars';
 @import '_global/variables';
+@import '_global/base';
 @import '_global/animation';
 @import '_global/mixins';
 @import '_global/header';
 @import '_global/footer';
+
 @import '_main/about';
 @import '_main/profile';
 @import '_main/staff';
 @import '_main/research';
 @import '_main/projects';
 @import '_main/news';
+
+@import '_content/clearfix';
+@import '_content/layout';
+@import '_content/header';
+@import '_content/pages';
+
+
 
 //@import 'resume';
 

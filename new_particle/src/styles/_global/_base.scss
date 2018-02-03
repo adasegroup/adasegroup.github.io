@@ -42,3 +42,13 @@ a img {
 sup, sub {
     line-height: 0;
 }
+
+.wrapper {
+    max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
+    max-width:         calc(800px - (#{$horizontal-spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $horizontal-spacing-unit;
+    padding-left: $horizontal-spacing-unit;
+    @extend .clearfix;
+}
