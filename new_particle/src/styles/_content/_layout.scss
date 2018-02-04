@@ -2,8 +2,10 @@
 /**
  * Page content
  */
+.content-layout{
+
 .page-content {
-    padding: $spacing-unit 0;
+    padding: 0;
 }
 
 .page-heading {
@@ -43,7 +45,7 @@ h1 /* .post-title */ {
     letter-spacing: -1px;
     line-height: 1;
 		font-family: 'Montserrat', sans-serif;
-		color: #522d80;
+		/*color: #522d80;*/
 
     @include media-query($on-laptop) {
 /*        font-size: 36px; */
@@ -114,3 +116,4 @@ ul.listing li.listing-item a {
 	font-family: 'Montserrat', sans-serif;
 }
 
+}

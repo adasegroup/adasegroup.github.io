@@ -7,29 +7,28 @@ permalink: /staff/
 **Group members at Skoltech**:
 ---
 
-- [Evgeny Burnaev (Head of Group)](http://faculty.skoltech.ru/people/evgenyburnaev) - Associate Professor
-- [Evgeny Egorov](/staff/EvgenyEgorov) - Ms student
-- [Nikita Gryaznov](/staff/NikitaGryaznov) - Ms student
-- [Vladimir Ignatiev](/staff/VladimirIgnatiev) - Junior Research Scientist
-- [Vladislav Ishimtsev](/staff/VladislavIshimtsev) - PhD student
-- [Sergey Ivanov](/staff/SergeyIvanov) - PhD student
-- [Yermek Kapushev](/staff/YermekKapushev) - PhD student
-- [Oleg Khomenko](/staff/OlegKhomenko) - Ms student
-- [Nikita Klyuchnikov](/staff/NikitaKlyuchnikov) - PhD student
-- [Ruslan Kostoev](/staff/RuslanKostoev) - Ms student
-- [Ivan Makhotin](/staff/IvanMakhotin) - Ms student
-- [Anton Marin](/staff/AntonMarin) - Ms student
-- [Albert Matveyev](/staff/AlbertMatveyev) - Ms student
-- [Ivan Nazarov](/staff/IvanNazarov) - PhD student
-- [Alexander Notchenko](/staff/AlexanderNotchenko) - PhD student
-- [German Novikov](/staff/GermanNovikov) - Ms student
-- [Anton Pankratov](/staff/AntonPankratov) - Ms student
-- [Rodrigo Rivera](/staff/RodrigoRivera) - PhD student
-- [Alexey Ryabykh](/staff/AlexeyRyabykh) - Ms student
-- [Anton Rykachevsky](/staff/AntonRykachevsky) - Ms student
-- [Dmitry Smolyakov](/staff/DmitrySmolyakov) - PhD student
-- [Oleg Sudakov](/staff/OlegSudakov) - Ms student
-- [Denis Volkhonsky](/staff/DenisVolkhonsky) - Ms student
+- [Evgeny Egorov](/staff/EvgenyEgorov) - Ms student ---
+- [Nikita Gryaznov](/staff/NikitaGryaznov) - Ms student --
+- [Vladimir Ignatiev](/staff/VladimirIgnatiev) - Junior Research Scientist --
+- [Vladislav Ishimtsev](/staff/VladislavIshimtsev) - PhD student --
+- [Sergey Ivanov](/staff/SergeyIvanov) - PhD student --
+- [Yermek Kapushev](/staff/YermekKapushev) - PhD student --
+- [Oleg Khomenko](/staff/OlegKhomenko) - Ms student --
+- [Nikita Klyuchnikov](/staff/NikitaKlyuchnikov) - PhD student --
+- [Ruslan Kostoev](/staff/RuslanKostoev) - Ms student --
+- [Ivan Makhotin](/staff/IvanMakhotin) - Ms student --
+- [Anton Marin](/staff/AntonMarin) - Ms student --
+- [Albert Matveyev](/staff/AlbertMatveyev) - Ms student --
+- [Ivan Nazarov](/staff/IvanNazarov) - PhD student --
+- [Alexander Notchenko](/staff/AlexanderNotchenko) - PhD student --
+- [German Novikov](/staff/GermanNovikov) - Ms student --
+- [Anton Pankratov](/staff/AntonPankratov) - Ms student --
+- [Rodrigo Rivera](/staff/RodrigoRivera) - PhD student --
+- [Alexey Ryabykh](/staff/AlexeyRyabykh) - Ms student --
+- [Anton Rykachevsky](/staff/AntonRykachevsky) - Ms student --
+- [Dmitry Smolyakov](/staff/DmitrySmolyakov) - PhD student --
+- [Oleg Sudakov](/staff/OlegSudakov) - Ms student --
+- [Denis Volkhonsky](/staff/DenisVolkhonsky) - Ms student --
 
 
 **External group members**
