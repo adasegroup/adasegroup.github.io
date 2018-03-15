@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Post-Doc position open
-date: 2018-03-15 09:59:00-0400
+date: 2018-03-15
 inline: false
 ---
 

@@ -126,6 +126,9 @@ lectures_limit: 5
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
+# Timezone
+timezone: 'Europe/Moscow'
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
