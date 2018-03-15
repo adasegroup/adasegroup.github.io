@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+plugins:
+  - 'github-pages'
+  - 'jekyll'
+  - 'jekyll-paginate'
+  - 'jekyll-scholar'
+  - 'jemoji'
+

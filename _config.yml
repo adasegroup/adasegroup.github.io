@@ -1,24 +1,174 @@
 # Site settings
-title: ADASE Group
+title: Advanced Data Analytics in Science and Engineering Group at Skoltech
+description: >
+  The Advanced Data Analytics in Science and Engineering Group is a research
+  organisation focused on the development of novel machine learning methods
+  with industrial applications based at the Skolkovo Institute of Science and Technology (Skoltech)
+user_title: Advanced Data Analytics in Science and Engineering Group at Skoltech, Moscow, Russia
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: ADASE
+username_full: Advanced Data Analytics in Science and Engineering Group
+user_title: Skoltech, Moscow, Russia
 email: adase@skoltech.ru
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://adasegroup.github.io" # the base hostname & protocol for your site
-#twitter_username: 
+twitter_username: adase
 github_username:  adasegroup
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
+
+about_title: ADASE
+news_title: News
+research_title: Research Agenda
+industry_title: Industry Projects
+teaching_title: Teaching
+group_title: Research Group
+staff_title: Staff
+publications_title: Publications
+contact_title: Contact
+
+
+
+block1_title: Modelling of surrogates
+block2_title: Processing of 3D data
+block3_title: Processing of online data
+
+block1_description: Prediction systems with kernel methods such as engineering problems with surrogate functions.
+block2_description: Processing 3D data in the areas of computer vision, brain image processing, chemoinformatics.
+block3_description: Processing of online data such as anomaly detection, forecasting, change point detection, time series.
+
+publications_description: Many publications coming soon
+
+teaching_description: Many courses coming soon
+
+# Resume settings
+resume_avatar: "true"
+
+
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+#name: Your Name
+#email: you@example.com
+#description: > # this means to ignore newlines until "url:"
+#  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+footer_text: >
+  Skoltech, Moscow, Russia
+#url:  # the base hostname & protocol for your site
+#baseurl: /al-folio # the subpath of your site, e.g. /blog/
+#last_updated: # leave blank if you don't want to display last updated
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+#github_username: # put your github username
+#twitter_username: # put your twitter username
+#linkedin_username: # put your linkedin username
+#scholar_authorid: # put your google scholar author id
+#contact_note: >
+#  You can even add a little note about which of these is the best way to reach you.
+
+# -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
+#blog_name: al-folio
+#blog_description: a simple whitespace theme for academics
+
+# Pagination
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
+
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+
+# Comments
+disqus_shortname: adase # put your disqus shortname
+
+# Optional features
+show_social_icons:  false
+enable_anchorjs:    false
+enable_katex:       true
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+collections_dir: _content
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /:collection/:path/
+  lectures:
+    defaults:
+      layout: post
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+    
+news_limit: 5
+lectures_limit: 5
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
 
-# Other options
-permalink: blog/:year/:month/:title
-#job.title: "Assistant Professor"
-excerpt_separator: "<!--more-->"
+# Includes
+include: ['_pages']
 
-# SEO stuff
-# google_author: ""
-# google_site_verification: ""
-# bing_webmastertools_id: ""
+# Gems
+plugins:
+  - jekyll-paginate
+  - jemoji
+#-jekyll/scholar
+#- jekyll-scholar
+
+# Jekyll-Scholar
+#scholar:
+
+#  last_name: Einstein
+
+#  style: apa
+#  locale: en
+
+#  sort_by: year
+#  order: descending
+
+#  source: /_bibliography/
+#  bibliography: papers.bib
+#  bibliography_template: bib
+
+#  replace_strings: true
+#  join_strings: true
+
+#  details_dir: bibliography
+#  details_layout: bibtex.html
+#  details_link: Details
+
+#  query: "@*"
+
+# -----------------------------------------------------------------------------
+# Other settings
+# -----------------------------------------------------------------------------
+jquery_version: "1.12.4"
+katex_version: "0.7.1"
+anchorjs_version: "3.2.2"
+
+

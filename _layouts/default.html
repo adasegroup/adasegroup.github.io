@@ -1,19 +1,32 @@
 <!DOCTYPE html>
-<html>
-
-  {% include head.html %}
-
+<html lang="en">
+  {% include _global/head.html %}
   <body>
-
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
+      {% include _global/header.html %}
+      <section id="about">
+        {% include _main/about.html %}
+      </section>
+      <section id="news">
+        {% include _main/news.html %}
+      </section>
+      <section id="research">
+        {% include _main/research.html %}
+      </section>
+      <section id="staff">
+        {% include _main/staff.html %}
+      </section>
+      <section id="news">
+        {% include _main/teaching.html %}
+      </section>
+      <section id="projects">
+        {% include _main/projects.html %}
+      </section>
+      <section id="publications">
+        {% include _main/publications.html %}
+      </section>
+      <section id="contact">
+        {% include _main/contact.html %}
+      </section>
         {{ content }}
-      </div>
-    </div>
-
-    {% include footer.html %}
+      {% include _global/footer.html %}
   </body>
-
-</html>
