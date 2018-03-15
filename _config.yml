@@ -133,11 +133,14 @@ timezone: 'Europe/Moscow'
 markdown: kramdown
 highlighter: rouge
 
+kramdown:
+  input: GFM
+
 # Includes
 include: ['_pages']
 
 # Gems
-plugins:
+gems:
   - jekyll-paginate
   - jemoji
 #-jekyll/scholar
