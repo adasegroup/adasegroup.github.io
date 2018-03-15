@@ -7,9 +7,10 @@ permalink: /staff/
 **Group members at Skoltech**:
 ---
 
-- [Evgeny Egorov](/staff/EvgenyEgorov) - Ms student ---
+- [Alexey Artemov](/staff/AlexeyArtemov) - Research Scientist --
+- [Evgeny Egorov](/staff/EvgenyEgorov) - Ms student --
 - [Nikita Gryaznov](/staff/NikitaGryaznov) - Ms student --
-- [Vladimir Ignatiev](/staff/VladimirIgnatiev) - Junior Research Scientist --
+- [Vladimir Ignatiev](/staff/VladimirIgnatiev) - Research Scientist --
 - [Vladislav Ishimtsev](/staff/VladislavIshimtsev) - PhD student --
 - [Sergey Ivanov](/staff/SergeyIvanov) - PhD student --
 - [Yermek Kapushev](/staff/YermekKapushev) - PhD student --

@@ -1,26 +1,26 @@
 #- title: "About"
 #  href: "/about/"
 #
-- title: "Associate Professor"
-  subcategories:
-   - subtitle: "Evgeny Burnaev (Head of Group)"
-      subhref: "http://faculty.skoltech.ru/people/evgenyburnaev"
+#- title: "Associate Professor"
+#  subcategories:
+#  - subtitle: "Evgeny Burnaev (Head of Group)"
+#    subhref: "http://faculty.skoltech.ru/people/evgenyburnaev"
 
-- title: "Research Scientists"
-  subcategories:
-    - subtitle: "Vladimir Ignatiev"
-      subhref: "/staff/VladimirIgnatiev"
-    - subtitle: "Alexey Artemov"
-      subhref: "/staff/AlexeyArtemov"
-    - subtitle: "Rodrigo Rivera"
-      subhref: "/staff/RodrigoRivera"
+#- title: "Research Scientists"
+#  subcategories:
+#    - subtitle: "Vladimir Ignatiev"
+#      subhref: "/staff/VladimirIgnatiev"
+#    - subtitle: "Alexey Artemov"
+#      subhref: "/staff/AlexeyArtemov"
+#    - subtitle: "Rodrigo Rivera"
+#      subhref: "/staff/RodrigoRivera"
       
-- title: "PhD Students"
-  subcategories:
-    - subtitle: "Evgeny Egorov"
-      subhref: "/staff/EvgenyEgorov"
-    - subtitle: "Vladislav Ishimtsev"
-      subhref: "/staff/VladislavIshimtsev"
+#- title: "PhD Students"
+#  subcategories:
+#    - subtitle: "Evgeny Egorov"
+#      subhref: "/staff/EvgenyEgorov"
+#    - subtitle: "Vladislav Ishimtsev"
+#      subhref: "/staff/VladislavIshimtsev"
     - subtitle: "Sergey Ivanov"
       subhref: "/staff/SergeyIvanov"
     - subtitle: "Yermek Kapushev"
