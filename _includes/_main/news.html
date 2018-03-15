@@ -2,8 +2,9 @@
   <h1>{{site.news_title}}</h1>
   {% if site.news  %}
     <table>
-    {% assign news = site.news | reverse %}
-    {% for item in news limit: site.news_limit %}
+      {% assign mid = site.news | sort: 'date' %}
+      {% assign news = mid | reverse %}
+      {% for item in news limit: site.news_limit %}
       <tr>
         <td class="date">{{ item.date | date: "%b %-d, %Y" }}</td>
         <td class="announcement">

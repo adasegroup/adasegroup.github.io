@@ -20,7 +20,13 @@ github_username:  adasegroup
 google-analytics:
   id: ""
 
-exclude: ['package.json', 'src' , 'node_modules', 'others']
+exclude: ['package.json', 'src' , 'node_modules', 'others',
+  'Gemfile',
+  'Gemfile.lock',
+  'LICENSE',
+  'README.md',
+  'CNAME'
+]
 
 about_title: ADASE
 news_title: News
@@ -128,6 +134,7 @@ lectures_limit: 5
 
 # Timezone
 timezone: 'Europe/Moscow'
+future: true
 
 # Build settings
 markdown: kramdown
@@ -140,9 +147,10 @@ kramdown:
 include: ['_pages']
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jemoji
+  - jekyll-sitemap
 #-jekyll/scholar
 #- jekyll-scholar
 
