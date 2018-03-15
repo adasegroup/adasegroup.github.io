@@ -4,4 +4,6 @@ title: Alexey Artemov
 permalink: /staff/AlexeyArtemov/
 ---
 
-Alexey Artemov
+![](/assets/img/staff/aa.png)
+
+## Research scientist

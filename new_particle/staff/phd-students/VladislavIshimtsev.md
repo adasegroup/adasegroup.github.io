@@ -4,9 +4,7 @@ title: Vladislav Ishimtsev
 permalink: /staff/VladislavIshimtsev/
 ---
 
-![](/staff/Vladislav Ishimtsev.bmp)
-
-## Vladislav Ishimtsev
+![](/staff/phd-students/VladislavIshimtsev.jpg)
 
 ## PhD Student
 

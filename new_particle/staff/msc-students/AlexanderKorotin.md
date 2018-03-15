@@ -4,4 +4,6 @@ title: Alexander Korotin
 permalink: /staff/AlexanderKorotin/
 ---
 
-Alexander Korotin
+![](/staff/phd-students/AlexanderKorotin.jpg)
+
+## Msc. Student

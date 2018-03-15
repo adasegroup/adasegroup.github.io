@@ -4,4 +4,6 @@ title: Ruslan Kostoev
 permalink: /staff/RuslanKostoev/
 ---
 
-Ruslan Kostoev
+![](/staff/phd-students/RuslanKostoev.jpg)
+
+## PhD Student

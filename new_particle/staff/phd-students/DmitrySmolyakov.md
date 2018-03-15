@@ -4,4 +4,4 @@ title: Dmitry Smolyakov
 permalink: /staff/DmitrySmolyakov/
 ---
 
-Dmitry Smolyakov
+## PhD Student

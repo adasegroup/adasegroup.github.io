@@ -4,4 +4,6 @@ title: Nikita Klyuchnikov
 permalink: /staff/NikitaKlyuchnikov/
 ---
 
-Nikita Klyuchnikov
+![](/staff/phd-students/NikitaKlyuchnikov.jpg)
+
+## PhD Student

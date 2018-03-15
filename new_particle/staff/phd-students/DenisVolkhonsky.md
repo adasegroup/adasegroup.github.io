@@ -4,4 +4,6 @@ title: Denis Volkhonsky
 permalink: /staff/DenisVolkhonsky/
 ---
 
-Denis Volkhonsky
+![](/staff/phd-students/DenisVolkhonsky.jpg)
+
+## PhD Student

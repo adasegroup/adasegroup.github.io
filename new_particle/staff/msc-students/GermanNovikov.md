@@ -4,4 +4,4 @@ title: German Novikov
 permalink: /staff/GermanNovikov/
 ---
 
-German Novikov
+## Msc Student

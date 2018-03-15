@@ -4,4 +4,4 @@ title: Anton Rykachevsky
 permalink: /staff/AntonRykachevsky/
 ---
 
-Anton Rykachevsky
+## Msc Student

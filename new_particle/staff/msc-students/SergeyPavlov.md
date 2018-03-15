@@ -4,4 +4,4 @@ title: Sergey Pavlov
 permalink: /staff/SergeyPavlov/
 ---
 
-Sergey Pavlov
+## Msc. Student

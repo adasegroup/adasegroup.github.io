@@ -4,4 +4,6 @@ title: Ivan Makhotin
 permalink: /staff/IvanMakhotin/
 ---
 
-Ivan Makhotin
+[](/staff/phd-students/IvanMakhotin.jpg)
+
+## Msc. Student

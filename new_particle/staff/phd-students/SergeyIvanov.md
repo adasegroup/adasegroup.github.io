@@ -4,4 +4,6 @@ title: Sergey Ivanov
 permalink: /staff/SergeyIvanov/
 ---
 
-Sergey Ivanov
+![](/staff/phd-students/SergeyIvanov.jpg)
+
+## PhD Student

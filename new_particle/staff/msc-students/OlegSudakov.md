@@ -4,4 +4,6 @@ title: Oleg Sudakov
 permalink: /staff/OlegSudakov/
 ---
 
-Oleg Sudakov
+[](/staff/phd-students/OlegSudakov.jpg)
+
+## Msc. Student

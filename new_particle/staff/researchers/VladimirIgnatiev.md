@@ -4,9 +4,7 @@ title: Vladimir Ignatiev
 permalink: /staff/VladimirIgnatiev/
 ---
 
-![](/staff/VladimirIgnatiev.bmp)
-
-## Vladimir Ignatiev
+![](/staff/researchers/VladimirIgnatiev.bmp)
 
 ## Junior research scientist
 

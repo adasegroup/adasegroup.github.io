@@ -10,7 +10,8 @@ inline: false
 ADASE Skoltech research group is inviting applications for a postdoctoral position. Applicants are expected to have experience in machine learning (experience with deep learning is particularly relevant), and 3D Data Processing. The postdoctoral researcher will be working on Computer Vision systems for  processing heterogeneous imaging data, object recognition, object detection, scene reconstruction and segmentation in 3D. 
 
 **Location:** Innovation Center Skolkovo (15 min by car / 20 min by bus from Slavyansky Boulevard station)
-**Compensation**: based on qualifications and experience  (on the scale 2-3k$ month + Insurance) <DZ: need to consult hr about what exactly can be said>
+
+**Compensation**: based on qualifications and experience  (on the scale 2-3k$ a month + Insurance)
 
 If you are interested, please send CV or resume to: [e.burnaev@skoltech.ru](mailto:e.burnaev@skoltech.ru)
 

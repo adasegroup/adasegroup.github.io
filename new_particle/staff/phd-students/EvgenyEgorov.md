@@ -4,4 +4,4 @@ title: Evgeny Egorov
 permalink: /staff/EvgenyEgorov/
 ---
 
-Evgeny Egorov
+## PhD Student
