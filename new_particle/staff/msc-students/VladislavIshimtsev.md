@@ -6,5 +6,5 @@ permalink: /staff/VladislavIshimtsev/
 
 ![](/staff/phd-students/VladislavIshimtsev.jpg)
 
-## PhD Student
+## Msc Student
 
