@@ -1,0 +1,9 @@
+
+            
+<ul class="menu">
+    {% for steve in site.data.menu %}
+    <li><a href="{{ steve.href }}" class="page-link">{{ steve.title }}</a></li>
+    {% endfor %}
+</ul>
+
+
