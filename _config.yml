@@ -20,7 +20,7 @@ github_username:  adasegroup
 google-analytics:
   id: ""
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ['package.json', 'src' , 'node_modules', 'others']
 
 about_title: ADASE
 news_title: News
@@ -128,7 +128,7 @@ lectures_limit: 5
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Includes
 include: ['_pages']
