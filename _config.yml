@@ -20,7 +20,7 @@ github_username:  adasegroup
 google-analytics:
   id: ""
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ['package.json', 'src' , 'node_modules', 'others']
 
 about_title: ADASE
 news_title: News
