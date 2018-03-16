@@ -5,7 +5,6 @@ date: 2018-03-15
 permalink: /openings/
 ---
 
-## Post-Doc position open
 
 ADASE Skoltech research group is inviting applications for a postdoctoral position. Applicants are expected to have experience in machine learning (experience with deep learning is particularly relevant), and 3D Data Processing. The postdoctoral researcher will be working on Computer Vision systems for  processing heterogeneous imaging data, object recognition, object detection, scene reconstruction and segmentation in 3D. 
 
