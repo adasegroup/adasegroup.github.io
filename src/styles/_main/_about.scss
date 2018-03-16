@@ -40,6 +40,14 @@
 
 .user-details {
   text-align: justify;
+  -moz-text-align-last: center; /* Code for Firefox */
   text-align-last: center;
   margin: 5px auto;
+  
+  h1 {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }
 }
