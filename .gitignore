@@ -5,3 +5,4 @@ node_modules
 .DS_STORE
 .jekyll-metadata
 new_particle/_site
+_site
