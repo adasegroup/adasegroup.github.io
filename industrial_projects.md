@@ -1,8 +1,59 @@
 ---
 layout: page
 title: Industrial Projects
-permalink: /industrial_projects/
+permalink: /industrial_projects
 ---
+
+<div class="user-projects">
+  <div class="images-right">
+    <img alt="ADASE: Model based predictive control and recommendations" src="{{ "/assets/img/project1.png" | prepend: site.baseurl }}" />
+  </div>
+  <div class="contents">
+    <h3> Model based predictive control and recommendations </h3>
+    <h4>Examples:</h4>
+    <h4>Optimize efficiency of sugar extraction (joint with I. Oseledets)</h4>
+      <p>
+      <strong>Input X:</strong> Beet chips shape, quality, temperature, sugar content and flux; wash water temperature, pH and flux; the temperature inside the diffuser, etc.
+      <br/><strong>Output Y:</strong> Costs, losses, efficiency of sugar extraction
+      </p>
+    <h4>Minimize fuel consumption of a cargo vessel, detect frauds with fuel, optimize expedition route</h4>
+      <p><strong>Input X:</strong> Dimensions (length, height, width), load capacity, type (ferry, barge, freighter, etc.), number of engines, etc.; Route data; information about weather and sea currents (historical, predictive and real-time); controls (vessel speed, etc.)
+      <br/><strong>Output Y:</strong> Fuel consumption
+      </p>
+    <p>Some challenges are the presence of heterogeneous data and noise, large volumes of high-dimensional stream data, missing values, outliers/incorrect values, etc.
+</p>
+  </div>
+</div>
+<div class="user-projects">
+  <div class="images-left">
+    <img alt="mountains" src="{{ "/assets/img/project2.png" | prepend: site.baseurl }}" />
+  </div>
+  <div class="contents-right">
+    <h3>Large-Scale Shape Retrieval and Classification via 3D Deep Neural Networks</h3>
+    <h4>Examples:</h4>
+    <h4>3D data is widespread, e.g.</h4>
+      <ul>
+        <li>3D CAD models</li>
+        <li>Remote sensing data from satellites</li>
+        <li>3D medical images, etc.</li>
+      </ul>
+    <h4>For applications it is necessary to</h4>
+      <ul>
+        <li>Recognize/categorize 3D shapes (e.g. CAD models)</li>
+        <li>Retrieve similar shapes</li>
+        <li>Predict characteristics of 3D objects</li>
+      </ul>
+    <h4>Used methods</h4>
+      <ul>
+        <li>Voxelization</li>
+        <li>Sparse 3D convolutional deep neural networks</li>
+        <li>Local features based on differential geometry</li>
+      </ul>      
+    <p>Some challenges are the presence of heterogeneous data and noise, large volumes of high-dimensional stream data, missing values, outliers/incorrect values, etc.
+</p>
+  </div>
+</div>
+
 
 ### Applications of massive data processing and predictive maintenance technology
 1. Prediction of failures in auxiliary power units

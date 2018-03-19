@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Staff
-permalink: /staff/
+permalink: /staff
 ---
 
 **Leadership**

@@ -1,16 +1,12 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /contact
 ---
 
-Evgeny Burnaev, Ph.D.<br/>
-Associate Professor
-
-Center for Computational Data-Intensive Science and Engineering, <br/>
-Skolkovo Institute of Science and Technology
-
-[http://crei.skoltech.ru/cdise/](http://crei.skoltech.ru/cdise/)<br/>
-[http://faculty.skoltech.ru/people/evgenyburnaev](http://faculty.skoltech.ru/people/evgenyburnaev)
-
-email: <E.Burnaev@skoltech.ru>
+  <p>Drop us an <strong>E-mail: </strong><a href="mailto:adase@skoltech.ru?subject=Contact ADASE Group">adase[at]skoltech.ru</a><br/>
+  or do not hesitate to drop by: <br/>
+  Skolkovo Institute of Science and Technology<br/>
+  Skolkovo Innovation Center, Building 3<br/>
+  143026 Moscow, Russia<br/>
+  For directions on how to reach us, please see <a href="http://www.skoltech.ru/en/about/contacts/">here</a></p>
