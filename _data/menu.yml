@@ -2,7 +2,7 @@
   href: "/about"
 #
 - title: "Staff"
-  href: "/staff/"
+  href: "/staff"
   subcategories:
 #    - subtitle: "Researchers"
 #      subhref: "/staff/researchers/"
@@ -12,17 +12,17 @@
 #      subhref: "/staff/masters/"
 
 - title: "Publications"
-  href: "/publications/"
+  href: "/publications"
 #  subcategories:
 #    - subtitle: "Item 1"
 #      subhref: "/miscellany/item-1/"
 #    - subtitle: "Item 2"
 #      subhref: "/miscellany/item-2/"
 - title: "Academic Projects"
-  href: "/academic_projects/"
+  href: "/academic_projects"
 - title: "Industrial Projects"
-  href: "/industrial_projects/"
+  href: "/industrial_projects"
 - title: "Openings"
   href: "/openings/"
 - title: "Contact"
-  href: "/contact/"
+  href: "/contact"

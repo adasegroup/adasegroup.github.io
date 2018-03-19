@@ -94,7 +94,7 @@
 <loc>http://localhost:4000/openings/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/publications/</loc>
+<loc>http://localhost:4000/publications</loc>
 </url>
 <url>
 <loc>http://localhost:4000/staff</loc>
