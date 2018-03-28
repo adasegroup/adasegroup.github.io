@@ -7,9 +7,9 @@ permalink: /openings/
 
 ## Post-Doc position
 
-ADASE Skoltech research group is inviting applications for a postdoctoral position. Applicants are expected to have experience in machine learning (experience with deep learning is particularly relevant), and 3D Data Processing. The postdoctoral researcher will be working on Computer Vision systems for  processing heterogeneous imaging data, object recognition, object detection, scene reconstruction and segmentation in 3D. 
+ADASE Skoltech research group is inviting applications for a **postdoctoral position**. Applicants are expected to have experience in machine learning (experience with deep learning is particularly relevant), and 3D Data Processing. The postdoctoral researcher will be working on Computer Vision systems for  processing heterogeneous imaging data, object recognition, object detection, scene reconstruction and segmentation in 3D. 
 
-**Location:** Innovation Center Skolkovo (15 min by car / 20 min by bus from Slavyansky Boulevard station)
+**Location: Moscow, Innovation Center Skolkovo** (15 min by car / 20 min by bus from Slavyansky Boulevard station)
 
 **Compensation**: Based on qualifications and experience, is on the scale of big companies like Mail.ru, Yandex or Google, Medical Insurance is Included.
 
@@ -31,14 +31,14 @@ For more details, please visit our [site](https://adasegroup.github.io/)
 - Experience with Deep Learning
 - Experience with image processing / computer vision algorithms
 
-If you not 100% sure that you qualify, just send us an email and we can talk about it.
+**If you not 100% sure that you qualify, just send us an email and we can talk about it.**
 
 
 ## Research Engineer position
 
-ADASE Skoltech research group is inviting applications for a postdoctoral position. Applicants are expected to have experience in machine learning (experience with deep learning is particularly relevant), and 3D Data Processing. The Research Engineer will be helping with Implementation of Computer Vision systems, organizing large-scale computational experiments and develop scientific software.
+ADASE Skoltech research group is inviting applications for a **Research Engineer position**. Applicants are expected to have experience in machine learning (experience with deep learning is particularly relevant), and 3D Data Processing. The Research Engineer will be helping with Implementation of Computer Vision systems, organizing large-scale computational experiments and develop scientific software.
 
-**Location:** Innovation Center Skolkovo (15 min by car / 20 min by bus from Slavyansky Boulevard station)
+**Location: Moscow, Innovation Center Skolkovo** (15 min by car / 20 min by bus from Slavyansky Boulevard station)
 
 **Compensation**: Based on qualifications and experience, is on the scale of big companies like Mail.ru, Yandex or Google, Medical Insurance is Included.
 
@@ -60,4 +60,4 @@ For more details, please visit our [site](https://adasegroup.github.io/)
 - Experience with image processing / computer vision algorithms
 - Experience of Scientific Research
 
-If you not 100% sure that you qualify, just send us an email and we can talk about it.
+**If you not 100% sure that you qualify, just send us an email and we can talk about it.**
