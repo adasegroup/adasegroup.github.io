@@ -4,6 +4,40 @@
  */
 .content-layout{
 
+
+.content-layout-left {
+  @media only screen and (min-width: $cut) {
+    margin-left: 0;
+    width: 70%;
+  }
+}
+
+.content-layout-right {
+  @media only screen and (min-width: $cut) {
+    float: right;
+    width: 26%;
+    font-size: 68%;
+  }
+  
+  table {
+        margin: auto;
+        border-collapse: collapse;
+        width: 100%;
+
+        .date { width: 15%; }
+        .announcement { width: 81%; }
+
+        tr { text-align: justify; }
+        td {
+            padding: 6px 0;
+            vertical-align: top;
+            border-bottom: 1px solid black;
+        }
+    }
+}
+    
+
+
 .page-content {
     padding: 0;
 }
@@ -117,3 +151,4 @@ ul.listing li.listing-item a {
 }
 
 }
+

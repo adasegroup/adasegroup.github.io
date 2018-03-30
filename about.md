@@ -53,7 +53,7 @@ permalink: /about/
       <h4>Alexey Artemov</h4>
     </div>
     <div class="staff-profile">
-      <h3>Junior Research Scientist</h3>
+      <h3>Jr. Research Scientist</h3>
       {% if site.resume_avatar == 'true' %}
       <img src="{{ "/assets/img/staff/rr.png" | prepend: site.baseurl }}" alt="Rodrigo Rivera" class="no-print" itemprop="image">
       {% endif %}
