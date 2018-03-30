@@ -5,10 +5,10 @@
 .site-header {
     border-top: 0px solid $main;
 	border-bottom: 4px solid $main;
-    min-height: 56px;
+    min-height: 60px;
     background: $main;
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: 10%;
+    padding-right: 10%;
     padding-top: 20px;
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -42,6 +42,10 @@
 
 .site-nav ul li a {
 	color: #fff;
+	hover {text-decoration: underline;}
+	link {text-decoration: none;}
+	visited {text-decoration: none;}
+	active {text-decoration: underline;}
 }
 
 .site-nav ul {
@@ -49,7 +53,7 @@
 	text-align: right;
 	float: right;
 	padding-top: 9px;
-	font-size: 75%;
+	font-size: 70%;
 	letter-spacing: 1px;
 	line-height: 1em;
 	font-weight: 600;
@@ -70,11 +74,22 @@
 	padding: 0 0 2px 0;
 	position: relative;
 	vertical-align: top;
+
 }
 
 .site-nav a {
 	display: block;
-        color: #ffffff;
+    color: #ffffff;
+    text-decoration: none;
+    
+    &:hover{
+      color: $sec;
+      text-decoration: underline;
+    }
+    &:active {
+      color: $sec;
+      text-decoration: underline;
+    }
 }
 
 /* Sub Menu */
