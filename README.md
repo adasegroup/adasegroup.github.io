@@ -1,13 +1,35 @@
-Advanced Data Analytics in Science and Engineering group at Skoltech, Moscow
-=====================================
+# Advanced Data Analytics in Science and Engineering group at Skoltech, Moscow
+====================================
 
 Welcome to the ADASE group website!
 You can visit us here: http://adasegroup.github.io
 
-=====================================
+====================================
 
-Compile this website with jekyll and gulp
-1. Run gulp
-2. Run jekyll serve --host $IP --port $PORT --baseurl ''
+## How to run this
 
-Last update: \today
+- Clone repository
+- Compile this website with jekyll and gulp
+- In the terminal run gulp
+- In the terminal run jekyll serve --host $IP --port $PORT --baseurl ''
+
+====================================
+
+## How to add an entry to the News section
+
+Add a new post by:
+- Go to '_content/_news'
+- Copy an existing '*.md' file
+- Name it with 'YYYY-MM-DD-announcement.md'
+- Put your content using markdown. 
+- Specify if it should be a separate post (inline: false) or not (inline: true)
+- Update the date. If it is a future date, the post will not be published until then
+
+====================================
+
+## How to edit your profile
+- Go to 'staff'
+- Find your respective section (Msc or PhD)
+- Edit a file '*.md' with your name using markup
+- Upload your picture with the same name as the '*.md' file
+
