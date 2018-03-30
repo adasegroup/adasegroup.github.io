@@ -1,12 +1,25 @@
- <div class="user-details">
-  <h1></h1>
-
-</div>
-
 <div class="user-projects">
-  <div class="images-right">
+  <div class="contents-right">
    <h1> {{site.news_title}} </h1>
-    here go some new new news
+    {% if site.news  %}
+    <table>
+      {% for item in site.news reversed limit: site.news_limit %}
+    
+      <tr>
+        <td class="date">{{ item.date | date: "%b %-d, %Y" }}</td>
+        <td class="announcement">
+          {% if item.inline %}
+            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+          {% else %}
+            <a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+          {% endif %}
+        </td>
+      </tr>
+    {% endfor %}
+    </table>
+  {% else %}
+    <p>No news so far...</p>
+  {% endif %}
   </div>
   <div class="contents">
     <h1>{{site.about_title}}  </h1>
