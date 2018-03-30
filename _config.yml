@@ -151,6 +151,7 @@ plugins:
   - jekyll-paginate
   - jemoji
   - jekyll-sitemap
+  - jekyll-avatar
 #-jekyll/scholar
 #- jekyll-scholar
 

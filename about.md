@@ -60,7 +60,7 @@ permalink: /about/
       <h4>Rodrigo Rivera</h4>
     </div>
 </div>
-<a class="project-link" href="/staff/">More...</a>  
+<a class="project-link" href="{{ "/staff/" | prepend: site.baseurl }}">More...</a>  
 
 
 </div>

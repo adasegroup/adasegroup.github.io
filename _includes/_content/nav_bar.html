@@ -1,9 +1,11 @@
 
             
 <ul class="menu">
-    {% for steve in site.data.nav_bar %}
-    <li><a href="{{ steve.href }}" class="page-link">{{ steve.title }}</a></li>
+    {% for steve in include.menu %}
+    <li>
+        <a href="{{ steve.href }}" class="page-link">{{ steve.title }}</a>
+        {% if steve.subcategories.size > 0 %}{% include _content/nav_bar.html menu=steve.subcategories %}{% endif %}
+    
+    </li>
     {% endfor %}
 </ul>
-
-

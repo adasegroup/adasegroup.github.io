@@ -4,10 +4,10 @@
 - title: "Staff"
   href: "/staff/"
 #  subcategories:
-#  - subtitle: "Researchers"
-#  subhref: "/staff/researchers/"
-#    - subtitle: "Ph.D Students"
-#      subhref: "/staff/phd/"
+#  - title: "Researchers"
+#    href: "/staff/researchers/"
+#  - title: "Ph.D Students"
+#    href: "/staff/phd/"
 #    - subtitle: "Masters Students"
 #      subhref: "/staff/masters/"
 
