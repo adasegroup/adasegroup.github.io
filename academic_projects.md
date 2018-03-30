@@ -17,7 +17,7 @@ permalink: /academic-projects/
       <p>{{site.block2_description}}</p>
     </div>
     <div class="tech">
-      <h3>{{{site.block3_title}}</h3>
+      <h3>{{site.block3_title}}</h3>
       <img alt="{{site.block3_title}}" src="{{ "/assets/img/adase_3.png" | prepend: site.baseurl }}" />
       <p>{{site.block3_description}}</p>
     </div>

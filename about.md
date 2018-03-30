@@ -17,11 +17,26 @@ permalink: /about/
 
 <div class="staff-details">
   <h1> {{site.staff_title}} </h1>
+  
+  <div class = "user">
+  <div class="staff-profile">
      <h3>Associate Professor</h3>
       {% if site.resume_avatar == 'true' %}
       <img src="{{ "/assets/img/staff/pb.png" | prepend: site.baseurl }}" alt="Evgeny Burnaev" class="no-print" itemprop="image">
       {% endif %}
       <h4>Evgeny Burnaev</h4>
+    </div>
+    
+     <div class="staff-profile">
+      <h3>Principal Research Scientist</h3>
+      {% if site.resume_avatar == 'true' %}
+      <img src="{{ "/assets/img/staff/ab.jpg" | prepend: site.baseurl }}" alt="Alexander Bernstein" class="no-print" itemprop="image">
+      {% endif %}
+      <h4>Alexander Bernstein</h4>
+    </div>
+    
+    </div>
+      
   <div class="user">
     <div class="staff-profile">
       <h3>Research Scientist</h3>

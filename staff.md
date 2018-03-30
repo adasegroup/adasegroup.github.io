@@ -14,7 +14,8 @@ permalink: /staff/
 ---
 
 - [Alexey Artemov](/staff/AlexeyArtemov/) -- Research Scientist
-- [Evgeny Egorov](/staff/EvgenyEgorov/) -- Ms student
+- [Alexander Bernstein](http://faculty.skoltech.ru/people/alexanderbernstein) -- Principal Research Scientist, CDISE, Skoltech
+- [Evgeny Egorov](/staff/EvgenyEgorov/) -- PhD student
 - [Nikita Gryaznov](/staff/NikitaGryaznov/) -- Ms student
 - [Vladimir Ignatiev](/staff/VladimirIgnatiev/) -- Research Scientist 
 - [Vladislav Ishimtsev](/staff/VladislavIshimtsev/) -- Ms student
@@ -47,7 +48,6 @@ permalink: /staff/
 **Collaborators**
 ---
 
-- [Alexander Bernstein](http://faculty.skoltech.ru/people/alexanderbernstein) -- Principal Research Scientist, CDISE, Skoltech
 - [Denis Belomestny](https://www.uni-due.de/~hm0124/index.php) -- Prof. Dr., Duisburg-Essen University
 - [Alex Gammerman](http://www.gammerman.com/) -- Doctor, Royal Holloway, University of London
 - [Ilia Nouretdinov](https://pure.royalholloway.ac.uk/portal/en/persons/ilia-nouretdinov(e4136840-3249-47a8-81b6-9f89fdabce36).html) -- Professor, Royal Holloway, University of London
