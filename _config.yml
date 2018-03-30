@@ -125,8 +125,8 @@ collections:
     output: true
     permalink: /:collection/:path/
     
-news_limit: 5
-lectures_limit: 5
+news_limit: 10
+lectures_limit: 100
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
