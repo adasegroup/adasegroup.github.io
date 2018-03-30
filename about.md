@@ -6,7 +6,7 @@ permalink: /about/
 
 <div class="research-details">
   <h1> {{site.research_title}} </h1>
-  <p>ADASE is a group of research enthusiasts pushing the state of the art at the intersection of kernel methods 3D data, 
+  <p>ADASE is a group of research enthusiasts pushing the state of the art at the intersection of kernel methods, prediction methods for 3D data, 
   deep learning, online data, and machine learning. Our research mission is to construct data-driven (surrogate) models capable of predicting behavior, 
   performing model-based control and recommend future actions, optimizing design and performance and detecting anomalies and predict failures. 
   Aside from traditional convex and non-convex optimization techniques, we see great potential in modern artificial intelligence, mainly deep learning, 
