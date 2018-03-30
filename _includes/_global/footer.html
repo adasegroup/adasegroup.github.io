@@ -1,6 +1,11 @@
+
 <footer class="footer">
-    <p>&copy; 2018 <a href="{{ site.baseurl }}/">{{site.username}}</a>. All rights reserved</p>
-    <p>{{site.footer_text}}</p>
+
+    {% for steve in site.data.footer %}
+    | <a href="{{ steve.href }}" class="page-link">{{ steve.title }}</a> |
+    {% endfor %}
+    <p>&copy; 2018 <a href="{{ site.baseurl }}/">{{site.username}}</a> - {{site.footer_text}}</p>
+    
 </footer>
 <script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 <script src="{{ "/assets/js/sweet-scroll.min.js" | prepend: site.baseurl }}"></script>

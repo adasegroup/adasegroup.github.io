@@ -3,9 +3,9 @@
 #
 - title: "Staff"
   href: "/staff/"
-  subcategories:
-#    - subtitle: "Researchers"
-#      subhref: "/staff/researchers/"
+#  subcategories:
+#  - subtitle: "Researchers"
+#  subhref: "/staff/researchers/"
 #    - subtitle: "Ph.D Students"
 #      subhref: "/staff/phd/"
 #    - subtitle: "Masters Students"
@@ -24,5 +24,5 @@
   href: "/industrial-projects/"
 - title: "Openings"
   href: "/openings/"
-- title: "Contact"
-  href: "/contact/"
+#- title: "Contact"
+#  href: "/contact/"
