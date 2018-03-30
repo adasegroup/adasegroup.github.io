@@ -4,17 +4,22 @@ title: Publications
 permalink: /publications/
 ---
 
+[2018](#2018)|
 [2017](#2017)|
 [2016](#2016)|
 [2015](#2015)|
 [2014](#2014)|
-[2013](#2015)
+[2013](#2013)
+
+## **2018**
+TBA
 
 ## **2017**
 1.	Laugerotte, A., Zaytsev, A., Burnaev, E., Khominich, D., Pons, L., & Alestr, S. (2016). Datafusion for biological simulations: Application to toxins. Toxicon, 123, S52-S53.
-2.	Burnaev E., Zaytsev A. Minimax approach to variable fidelity data interpolation // Under review at AISTAT, 2017.
+2.	Burnaev E., Zaytsev A. Minimax approach to variable fidelity data interpolation. // Under review at AISTAT, 2017.
 3.	Burnaev E., Zaytsev A. Large Scale Variable Fidelity Surrogate Modeling // Accepted in Annals of Mathematics and Artificial Intelligence, 2017.
-4. Burnaev E., Panin I., Sudret B. Effecient Design of Experiments for Sensitivity Analysis based on Polynomial Chaos Expansions // Accepted in Annals of Mathematics and Artificial Intelligence, 2017.
+4. Burnaev E., Panin I., Sudret B. Effecient Design of Experiments for Sensitivity Analysis based on Polynomial Chaos Expansions 
+Accepted in Annals of Mathematics and Artificial Intelligence, 2017.
 
 ## **2016**
 1.	Artemov, E. Burnaev. Optimal sequential estimation of a signal, observed in a fractional gaussian noise // Theory of Probability and Its Applications, 2016, vol. 60, № 1, pp. 126-134.
