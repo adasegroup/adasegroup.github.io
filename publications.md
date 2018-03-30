@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /publications
+permalink: /publications/
 ---
 
 [2017](#2017)|

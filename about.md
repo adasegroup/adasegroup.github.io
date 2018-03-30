@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About us
-permalink: /about
+permalink: /about/
 ---
 
 <div class="research-details">
@@ -12,7 +12,7 @@ permalink: /about
   Aside from traditional convex and non-convex optimization techniques, we see great potential in modern artificial intelligence, mainly deep learning, 
   in order to achieve these goals.<br/> <br/>
   <strong>Keywords:</strong> Machine Learning, Engineering Problems, Online Data, Kernel Methods, Gaussian Process, Deep Learning.</p>
-<a class="project-link" href="/academic_projects/">More...</a>
+<a class="project-link" href="/academic-projects/">More...</a>
 </div>
 
 <div class="staff-details">

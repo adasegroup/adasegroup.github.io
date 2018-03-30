@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Staff
-permalink: /staff
+permalink: /staff/
 ---
 
 **Leadership**
@@ -13,36 +13,36 @@ permalink: /staff
 **Group members at Skoltech**:
 ---
 
-- [Alexey Artemov](/staff/AlexeyArtemov) -- Research Scientist
-- [Evgeny Egorov](/staff/EvgenyEgorov) -- Ms student
-- [Nikita Gryaznov](/staff/NikitaGryaznov) -- Ms student
-- [Vladimir Ignatiev](/staff/VladimirIgnatiev) -- Research Scientist 
-- [Vladislav Ishimtsev](/staff/VladislavIshimtsev) -- Ms student
-- [Sergey Ivanov](/staff/SergeyIvanov) -- PhD student
-- [Yermek Kapushev](/staff/YermekKapushev) -- PhD student
-- [Oleg Khomenko](/staff/OlegKhomenko) -- Ms student
-- [Nikita Klyuchnikov](/staff/NikitaKlyuchnikov) -- PhD student
-- [Ruslan Kostoev](/staff/RuslanKostoev) -- PhD student
-- [Ivan Makhotin](/staff/IvanMakhotin) -- Ms student
-- [Anton Marin](/staff/AntonMarin) -- Ms student
-- [Albert Matveyev](/staff/AlbertMatveyev) -- Ms student
-- [Ivan Nazarov](/staff/IvanNazarov) -- PhD student
-- [Alexander Notchenko](/staff/AlexanderNotchenko) -- PhD student
-- [German Novikov](/staff/GermanNovikov) -- Ms student
-- [Anton Pankratov](/staff/AntonPankratov) -- Ms student
-- [Rodrigo Rivera](/staff/RodrigoRivera) -- PhD student
-- [Alexey Ryabykh](/staff/AlexeyRyabykh) -- Ms student
-- [Anton Rykachevsky](/staff/AntonRykachevsky) -- Ms student
-- [Dmitry Smolyakov](/staff/DmitrySmolyakov) -- PhD student
-- [Oleg Sudakov](/staff/OlegSudakov) -- Ms student
-- [Denis Volkhonsky](/staff/DenisVolkhonsky) -- Ms student
+- [Alexey Artemov](/staff/AlexeyArtemov/) -- Research Scientist
+- [Evgeny Egorov](/staff/EvgenyEgorov/) -- Ms student
+- [Nikita Gryaznov](/staff/NikitaGryaznov/) -- Ms student
+- [Vladimir Ignatiev](/staff/VladimirIgnatiev/) -- Research Scientist 
+- [Vladislav Ishimtsev](/staff/VladislavIshimtsev/) -- Ms student
+- [Sergey Ivanov](/staff/SergeyIvanov/) -- PhD student
+- [Yermek Kapushev](/staff/YermekKapushev/) -- PhD student
+- [Oleg Khomenko](/staff/OlegKhomenko/) -- Ms student
+- [Nikita Klyuchnikov](/staff/NikitaKlyuchnikov/) -- PhD student
+- [Ruslan Kostoev](/staff/RuslanKostoev/) -- PhD student
+- [Ivan Makhotin](/staff/IvanMakhotin/) -- Ms student
+- [Anton Marin](/staff/AntonMarin/) -- Ms student
+- [Albert Matveyev](/staff/AlbertMatveyev/) -- Ms student
+- [Ivan Nazarov](/staff/IvanNazarov/) -- PhD student
+- [Alexander Notchenko](/staff/AlexanderNotchenko/) -- PhD student
+- [German Novikov](/staff/GermanNovikov/) -- Ms student
+- [Anton Pankratov](/staff/AntonPankratov/) -- Ms student
+- [Rodrigo Rivera](/staff/RodrigoRivera/) -- PhD student
+- [Alexey Ryabykh](/staff/AlexeyRyabykh/) -- Ms student
+- [Anton Rykachevsky](/staff/AntonRykachevsky/) -- Ms student
+- [Dmitry Smolyakov](/staff/DmitrySmolyakov/) -- PhD student
+- [Oleg Sudakov](/staff/OlegSudakov/) -- Ms student
+- [Denis Volkhonsky](/staff/DenisVolkhonsky/) -- Ms student
 
 
 **External group members**
 ---
 
-- [Alexander Korotin](/staff/AlexanderKorotin) -- Ms student, MIPT (SU)
-- [Sergey Pavlov](/staff/SergeyPavlov) -- Ms student, MIPT (SU)
+- [Alexander Korotin](/staff/AlexanderKorotin/) -- Ms student, MIPT (SU)
+- [Sergey Pavlov](/staff/SergeyPavlov/) -- Ms student, MIPT (SU)
 
 **Collaborators**
 ---

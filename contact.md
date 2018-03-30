@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact
+permalink: /contact/
 ---
 
   <p>Drop us an <strong>E-mail: </strong><a href="mailto:adase@skoltech.ru?subject=Contact ADASE Group">adase[at]skoltech.ru</a><br/>
