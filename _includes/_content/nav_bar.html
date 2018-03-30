@@ -3,7 +3,7 @@
 <ul class="menu">
     {% for steve in include.menu %}
     <li>
-        <a href="{{ steve.href }}">{{ steve.title }}</a>
+        <a href="{{ steve.href }}" class="page-link">{{ steve.title }}</a>
         {% if steve.subcategories.size > 0 %}{% include _content/nav_bar.html menu=steve.subcategories %}{% endif %}
     
     </li>

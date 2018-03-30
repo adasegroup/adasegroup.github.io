@@ -170,6 +170,10 @@ z-index:999;
         &:not(:first-child) {
             margin-left: 20px;
         }
+        &:hover {
+            text-decoration: underline;
+            
+        }
     }
 
 
