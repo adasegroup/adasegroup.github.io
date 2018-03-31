@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Gryaznov Nikita
+title: Khomenko Oleg
 inline: true
-category: student
+category: alumnus
 position: Msc. Student
 picture: false
 ---

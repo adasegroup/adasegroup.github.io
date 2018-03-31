@@ -2,8 +2,8 @@
 layout: page
 title: Korotin Alexander
 inline: true
-category: student
-position: Msc. Student
+category: researcher
+position: Jr. Research Scientist
 picture: /staff/msc-students/AlexanderKorotin.jpg
 ---
 

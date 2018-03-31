@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Khomenko Oleg
+title: Ryabykh Alexey
 inline: true
-category: student
+category: alumnus
 position: Msc. Student
 picture: false
 ---
 
-## Msc. Student
+## Msc Student

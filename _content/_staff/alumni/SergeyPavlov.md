@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Ryabykh Alexey
+title: Sergey Pavlov
 inline: true
-category: student
+category: alumnus
 position: Msc. Student
 picture: false
 ---
 
-## Msc Student
+## Msc. Student

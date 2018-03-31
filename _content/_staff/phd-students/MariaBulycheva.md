@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Pankratov Anton
+title: Bulycheva Maria
 inline: true
 category: student
-position: Msc. Student
+position: PhD Student
 picture: false
 ---
 
-## Msc Student
+## PhD Student

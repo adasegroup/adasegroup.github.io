@@ -2,7 +2,7 @@
 layout: page
 title: Prikhodko Pavel
 inline: true
-category: collaborator
+category: alumnus
 position: PhD
 picture: false
 ---
