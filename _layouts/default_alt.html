@@ -9,9 +9,13 @@
   
       <div class="wrapper">
 
+         
+        <div class="content-layout-left">
+      {{ content }}
+      </div>
       
-       <div class="content-layout-right">
-        <h2>{{site.news_title}}</h2>
+             <div class="content-layout-right">
+        <h1>{{site.news_title}}</h1>
   {% if site.news  %}
     <table>
       {% for item in site.news reversed limit: site.news_limit %}
@@ -32,10 +36,6 @@
     <p>No news so far...</p>
   {% endif %}
          </div>
-         
-        <div class="content-layout-left">
-      {{ content }}
-      </div>     
     
       </div>
     </div>

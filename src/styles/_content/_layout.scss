@@ -7,6 +7,7 @@
 
 .content-layout-left {
   @media only screen and (min-width: $cut) {
+    float: left;
     margin-left: 0;
     width: 70%;
   }
@@ -16,7 +17,6 @@
   @media only screen and (min-width: $cut) {
     float: right;
     width: 26%;
-    font-size: 68%;
   }
   
   table {

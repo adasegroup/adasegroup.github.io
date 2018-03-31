@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Collaboration
-permalink: /collaboration/
+title: Research Topics
+permalink: /research-topics/
 ---
 
 

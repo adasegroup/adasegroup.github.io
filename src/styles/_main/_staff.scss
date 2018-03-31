@@ -1,7 +1,7 @@
 #staff {
   width: 90%;
   margin: 0 auto;
-  max-width: 960px;
+  max-width: 1366px;
   @media only screen and (min-width: $cut) {
     width: 80%;
   }
@@ -24,7 +24,9 @@
 }
 
 .staff-profile {
+  float: left;
   margin: 10px;
+  width: 20%;
   img {
     width: 50%;
     object-fit: cover;
