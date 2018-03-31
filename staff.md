@@ -87,8 +87,10 @@ permalink: /staff/
 </div>
 {% endif %}
 
+
 {% if site.staff %}
-<div class="user-details">
+<div class="staff-details">
+<h1>Students</h1>
 {% assign staff = site.staff | sort: 'title' %}
 <ul>
 {% for item in staff %}
