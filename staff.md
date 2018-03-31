@@ -4,58 +4,117 @@ title: Staff
 permalink: /staff/
 ---
 
-**Leadership**
----
+<div class="staff-details">
+<h1>Leadership<h1>
 
-- [Evgeny Burnaev](http://faculty.skoltech.ru/people/evgenyburnaev) -- Associate Professor
+{% if site.staff %}
+    <div class = "user">
+    {% assign staff = site.staff | sort: 'title' %}
+        {% for item in staff %}
+          {% if item.category == 'leadership' %}
+          <div class="staff-profile">
+            <h4>{{ item.position }}</h4>
+              {% if item.picture %}
+                <img src="{{ item.picture | prepend: site.baseurl }}" alt="{{ item.title }}" class="no-print" itemprop="image">
+              {% else %}
+                <img src="/assets/img/logo_square_transparent.png" alt="{{ item.title }}" class="no-print" itemprop="image">
+              {% endif %}
+              {% if item.inline %}
+                <h4>{{ item.title }}</h4>
+              {% else %}
+                <h4><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
+              {% endif %}          
+          </div>
+          {% endif %}
+          
+        {% endfor %}
+{% else %}
+  <p>No staff...</p>
+  </div>
+{% endif %}
+</div>
+
+<div class="staff-details">
+<h1>Researchers<h1>
+
+{% if site.staff %}
+    <div class = "user">
+    {% assign staff = site.staff | sort: 'title' %}
+        {% for item in staff %}
+          {% if item.category == 'scientist' %}
+          <div class="staff-profile">
+            <h4>{{ item.position }}</h4>
+              {% if item.picture %}
+                <img src="{{ item.picture | prepend: site.baseurl }}" alt="{{ item.title }}" class="no-print" itemprop="image">
+              {% else %}
+                <img src="/assets/img/logo_square_transparent.png" alt="{{ item.title }}" class="no-print" itemprop="image">
+              {% endif %}
+              {% if item.inline %}
+                <h4>{{ item.title }}</h4>
+              {% else %}
+                <h4><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
+              {% endif %}          
+          </div>
+          {% endif %}
+          
+        {% endfor %}
+{% else %}
+  <p>No staff...</p>
+  </div>
+{% endif %}
+</div>
 
 
-**Group members at Skoltech**:
----
-
-- [Alexey Artemov](/staff/AlexeyArtemov/) -- Research Scientist
-- [Alexander Bernstein](http://faculty.skoltech.ru/people/alexanderbernstein) -- Principal Research Scientist, CDISE, Skoltech
-- [Evgeny Egorov](/staff/EvgenyEgorov/) -- PhD student
-- [Nikita Gryaznov](/staff/NikitaGryaznov/) -- Ms student
-- [Vladimir Ignatiev](/staff/VladimirIgnatiev/) -- Research Scientist 
-- [Vladislav Ishimtsev](/staff/VladislavIshimtsev/) -- Ms student
-- [Sergey Ivanov](/staff/SergeyIvanov/) -- PhD student
-- [Yermek Kapushev](/staff/YermekKapushev/) -- PhD student
-- [Oleg Khomenko](/staff/OlegKhomenko/) -- Ms student
-- [Nikita Klyuchnikov](/staff/NikitaKlyuchnikov/) -- PhD student
-- [Ruslan Kostoev](/staff/RuslanKostoev/) -- PhD student
-- [Ivan Makhotin](/staff/IvanMakhotin/) -- Ms student
-- [Anton Marin](/staff/AntonMarin/) -- Ms student
-- [Albert Matveyev](/staff/AlbertMatveyev/) -- Ms student
-- [Ivan Nazarov](/staff/IvanNazarov/) -- PhD student
-- [Alexander Notchenko](/staff/AlexanderNotchenko/) -- PhD student
-- [German Novikov](/staff/GermanNovikov/) -- Ms student
-- [Anton Pankratov](/staff/AntonPankratov/) -- Ms student
-- [Rodrigo Rivera](/staff/RodrigoRivera/) -- PhD student
-- [Alexey Ryabykh](/staff/AlexeyRyabykh/) -- Ms student
-- [Anton Rykachevsky](/staff/AntonRykachevsky/) -- Ms student
-- [Dmitry Smolyakov](/staff/DmitrySmolyakov/) -- PhD student
-- [Oleg Sudakov](/staff/OlegSudakov/) -- Ms student
-- [Denis Volkhonsky](/staff/DenisVolkhonsky/) -- Ms student
+<h1>Students<h1>
+{% if site.staff %}
+<div class="staff-details">
+{% assign staff = site.staff | sort: 'title' %}
+{% for item in staff %}
+{% if item.category == 'student' %}
+<div class="staff-profile">
+<h4>{{ item.position }}</h4>
+{% if item.picture %}
+<img src="{{ item.picture | prepend: site.baseurl }}" alt="{{ item.title }}" class="no-print" itemprop="image">
+{% else %}
+<img src="/assets/img/logo_square_transparent.png" alt="{{ item.title }}" class="no-print" itemprop="image">
+{% endif %}
+{% if item.inline %}
+<h4>{{ item.title }}</h4>
+{% else %}
+<h4><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
+{% endif %}
+</div>
+{% endif %}
+{% endfor %}
+{% else %}
+<p>No staff...</p>
+</div>
+{% endif %}
 
 
-**External group members**
----
 
-- [Alexander Korotin](/staff/AlexanderKorotin/) -- Ms student, MIPT (SU)
-- [Sergey Pavlov](/staff/SergeyPavlov/) -- Ms student, MIPT (SU)
-
-**Collaborators**
----
-
-- [Denis Belomestny](https://www.uni-due.de/~hm0124/index.php) -- Prof. Dr., Duisburg-Essen University
-- [Alex Gammerman](http://www.gammerman.com/) -- Doctor, Royal Holloway, University of London
-- [Ilia Nouretdinov](https://pure.royalholloway.ac.uk/portal/en/persons/ilia-nouretdinov(e4136840-3249-47a8-81b6-9f89fdabce36).html) -- Professor, Royal Holloway, University of London
-- [Maxim Panov](http://faculty.skoltech.ru/people/maximpanov) -- Research Scientist, CDISE, Skoltech
-- [Pavel Prikhodko](/stuff/PavelPrikhodko)
-- [Albert Shiryaev](https://cees-www.mit.edu/index.php/team-2/item/20-albert-n-shiryaev.html) -- Professor, Head Theory of Probability, Chair, Department of Mechanics and Mathematics, M.V. Lomonosov Moscow State University
-- [Vladimir Spokoiny](http://www.wias-berlin.de/people/spokoiny/) -- Professor at the Departments of Mathematics and Economics of the Humboldt University of Berlin
-- [Bruno Sudret](http://www.sudret.ibk.ethz.ch/people/prof-dr-bruno-sudret.html) -- Prof., Dr., Department of Civil, Environmental and Geomatic Engineering
-- [Vladimir Vovk](http://www.vovk.net/) -- Professor, Royal Holloway, University of London
-- [Dmitry Yarotsky](http://faculty.skoltech.ru/people/dmitryyarotskiy) -- Leading Research Scientist, CDISE, Skoltech
-- [Alexey Zaytsev](http://faculty.skoltech.ru/people/alexeizaitsev) -- Junior Research Scientist, CDISE, Skoltech
+<h1>Collaborators<h1>
+{% if site.staff %}
+<div class="staff-details">
+{% assign staff = site.staff | sort: 'title' %}
+{% for item in staff %}
+{% if item.category == 'collaborator' %}
+<div class="staff-profile">
+<h4>{{ item.position }}</h4>
+{% if item.picture %}
+<img src="{{ item.picture | prepend: site.baseurl }}" alt="{{ item.title }}" class="no-print" itemprop="image">
+{% else %}
+<img src="/assets/img/logo_square_transparent.png" alt="{{ item.title }}" class="no-print" itemprop="image">
+{% endif %}
+{% if item.inline %}
+<h4>{{ item.title }}</h4>
+{% else %}
+<h4><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
+{% endif %}
+</div>
+{% endif %}
+{% endfor %}
+{% else %}
+<p>No staff...</p>
+</div>
+{% endif %}

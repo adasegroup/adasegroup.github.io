@@ -24,7 +24,10 @@
 }
 
 .staff-profile {
+  float: left;
+  display: block;
   margin: 10px;
+  width: calc( 100% / 3);
   img {
     width: 50%;
     object-fit: cover;
@@ -32,15 +35,15 @@
 }
 
 .staff-details {
+  
   text-align: center;
   margin: 5px auto;
   img {
-    width: 130px;
+    width: 115px;
     max-width: 100%;
     overflow: hidden;
     @include border-radius(100px);
     margin: 0 auto;
-    display: block; 
   }
 }
 

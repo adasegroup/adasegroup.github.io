@@ -127,6 +127,9 @@ collections:
   research-topics:
     output: true
     permalink: /:collection/:path/
+  staff:
+    output: true
+    permalink: /:collection/:path/
     
 news_limit: 10
 lectures_limit: 100

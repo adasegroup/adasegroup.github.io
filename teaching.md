@@ -22,7 +22,7 @@ permalink: /teaching/
     {% endfor %}
     </table>
   {% else %}
-    <p>No lectures so far...</p>
+    <p>No teachin at the moment...</p>
   {% endif %}
 </div>
 
