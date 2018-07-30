@@ -15,7 +15,7 @@
   href: "/publications/"
 - title: "Teaching"
   href: "/teaching/"
-- title: "Research Topics"
+- title: "Research"
   href: "/research-topics/"
 #  subcategories:
 #    - subtitle: "Item 1"
@@ -28,5 +28,5 @@
   href: "/industrial-projects/"
 - title: "Openings"
   href: "/openings/"
-#- title: "Contact"
-#  href: "/contact/"
+- title: "Reading Group"
+  href: "http://adase.group/scifi-seminar.html"
