@@ -38,7 +38,7 @@ There are several challenges involved in the construction of surrogate models su
 # Applications
 1. Conformal anomaly detection for time-series (with [PhD I. Nazarov](/stuff/IvanNazarov), [MSc V. Ishimtsev](/stuff/VladislavIshimtsev))
 2. Meta-learning for Bayesian optimization (with [PhD N. Klyuchnikov](/stuff/NikitaKlyuchnikov))
-3. Anomaly detection on graphs: case of different modalities (with [PhD S. Ivanov](/stuff/SergeyIvanov))
+3. Anomaly detection on graphs: case of different modalities (with [PhD S. Ivanov](https://nd7141.github.io/))
 4. Prediction of users’ web-sites preferences using variable fidelity gaussian processes (with [PhD N. Klyuchnikov](/stuff/NikitaKlyuchnikov))
 5. Efficient Learning of Deep Gaussian Processes (with PhD A. Kapushev)
 6. Distributed learning of one-class classification with privileged information. Applications to IoT (with PhD D. Smolyakov)
