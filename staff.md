@@ -20,7 +20,7 @@ permalink: /staff/
               {% endif %}
               {% if item.inline %}
                 <h4>{{ item.title }}</h4>
-              {% elif item.customurl %} 
+              {% else if item.customurl %} 
                 <h4><a class="news-title" href="{{ item.customurl }}">{{ item.title }}</a></h4>
               {% else %}
                 <h4><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
@@ -50,6 +50,8 @@ permalink: /staff/
               {% endif %}
               {% if item.inline %}
                 <h4>{{ item.title }}</h4>
+              {% else if item.customurl %} 
+                <h4><a class="news-title" href="{{ item.customurl }}">{{ item.title }}</a></h4>
               {% else %}
                 <h4><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
               {% endif %}          
@@ -78,6 +80,9 @@ permalink: /staff/
 {% endif %}
 {% if item.inline %}
 <h4>{{ item.title }}</h4>
+{% else if item.customurl %} 
+here
+<h4><a class="news-title" href="{{ item.customurl }}">{{ item.title }}</a></h4>
 {% else %}
 <h4><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
 {% endif %}
@@ -99,6 +104,8 @@ permalink: /staff/
 {% if item.category != 'collaborator' and item.picture == false %}
 {% if item.inline %}
 <li>{{ item.title }} - {{ item.position }}</li>
+{% else if item.customurl %} 
+<h4><a class="news-title" href="{{ item.customurl }}">{{ item.title }}</a></h4>
 {% else %}
 <li><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }} - {{ item.position }}</a></li>
 {% endif %}
@@ -122,6 +129,8 @@ permalink: /staff/
 {% if item.category == 'collaborator' %}
 {% if item.inline %}
 <li>{{ item.title }} - {{ item.position }}</li>
+{% else if item.customurl %} 
+                <h4><a class="news-title" href="{{ item.customurl }}">{{ item.title }}</a></h4>
 {% else %}
 <li><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }} - {{ item.position }}</a></li>
 {% endif %}
@@ -142,6 +151,8 @@ permalink: /staff/
 {% if item.category == 'alumnus' %}
 {% if item.inline %}
 <li>{{ item.title }} - {{ item.position }}</li>
+{% else if item.customurl %} 
+<h4><a class="news-title" href="{{ item.customurl }}">{{ item.title }}</a></h4>
 {% else %}
 <li><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }} - {{ item.position }}</a></li>
 {% endif %}
