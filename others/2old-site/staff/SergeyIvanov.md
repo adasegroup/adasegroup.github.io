@@ -4,4 +4,4 @@ title: Sergey Ivanov
 permalink: /staff/SergeyIvanov/
 ---
 
-Sergey Ivanov
+[Sergey Ivanov](https://nd7141.github.io/)

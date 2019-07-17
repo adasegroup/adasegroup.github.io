@@ -22,7 +22,7 @@
 #    - subtitle: "Vladislav Ishimtsev"
 #      subhref: "/staff/VladislavIshimtsev"
     - subtitle: "Sergey Ivanov"
-      subhref: "/staff/SergeyIvanov"
+      subhref: "https://nd7141.github.io/"
     - subtitle: "Yermek Kapushev"
       subhref: "/staff/YermekKapushev"
     - subtitle: "Nikita Klyuchnikov"

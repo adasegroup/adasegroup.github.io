@@ -12,7 +12,7 @@ permalink: /staff/
 - [Nikita Gryaznov](/staff/NikitaGryaznov) - Ms student
 - [Vladimir Ignatiev](/staff/VladimirIgnatiev) - Junior Research Scientist
 - [Vladislav Ishimtsev](/staff/VladislavIshimtsev) - PhD student
-- [Sergey Ivanov](/staff/SergeyIvanov) - PhD student
+- [Sergey Ivanov](https://nd7141.github.io/) - PhD student
 - [Yermek Kapushev](/staff/YermekKapushev) - PhD student
 - [Oleg Khomenko](/staff/OlegKhomenko) - Ms student
 - [Nikita Klyuchnikov](/staff/NikitaKlyuchnikov) - PhD student
