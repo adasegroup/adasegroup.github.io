@@ -20,6 +20,8 @@ permalink: /staff/
               {% endif %}
               {% if item.inline %}
                 <h4>{{ item.title }}</h4>
+              {% elif item.customurl %} 
+                <h4><a class="news-title" href="{{ item.customurl }}">{{ item.title }}</a></h4>
               {% else %}
                 <h4><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
               {% endif %}          
