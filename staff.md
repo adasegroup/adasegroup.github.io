@@ -81,7 +81,6 @@ permalink: /staff/
 {% if item.inline %}
 <h4>{{ item.title }}</h4>
 {% else if item.customurl %} 
-here
 <h4><a class="news-title" href="{{ item.customurl }}">{{ item.title }}</a></h4>
 {% else %}
 <h4><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
