@@ -1,22 +1,11 @@
-<div class="news-details">
-  <h1>{{site.news_title}}</h1>
-  {% if site.news  %}
-    <table>
-      {% for item in site.news reversed limit: site.news_limit %}
-    
-      <tr>
-        <td class="date">{{ item.date | date: "%b %-d, %Y" }}</td>
-        <td class="announcement">
-          {% if item.inline %}
-            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-          {% else %}
-            <a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
-          {% endif %}
-        </td>
-      </tr>
-    {% endfor %}
-    </table>
-  {% else %}
-    <p>No news so far...</p>
-  {% endif %}
-</div>
+<h2 id="news" class="anchor">News</h2>
+{%- assign news = site.data.adase.news | concat: site.data.3ddl.news | concat: site.news | where_exp: 'item', 'item.superseded != true' | sort: 'date' | reverse %}
+{%- assign containers = site.data | where: 'nil', nil %}
+{%- for news_item in news %}
+{%- capture new_container %}
+{%- include _content/plates/news_plate.html plate_data=news_item %}
+{%- endcapture %}
+{%- assign containers = containers | push: new_container %}
+{%- endfor %}
+{% include _content/title_sliders_for_devices.html class='news-plate' containers=containers -%}
+{{--}}

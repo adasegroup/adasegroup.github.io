@@ -1,0 +1,22 @@
+{%- if include.url -%}
+{%- assign url = include.url -%}
+{%- else -%}
+{%- assign url = include.link.url -%}
+{%- endif -%}
+{%- if include.name -%}
+{%- assign name = include.name -%}
+{%- else -%}
+{%- assign name = include.link.name -%}
+{%- endif -%}
+{%- if include.icon -%}
+{%- assign icon = include.icon -%}
+{%- else -%}
+{%- assign icon = include.link.icon -%}
+{%- endif -%}
+{%- if include.target -%}
+{%- assign target = include.target -%}
+{%- else -%}
+{%- assign target = 'target="_blank"' -%}
+{%- endif -%}
+<p><a href="{{url}}" {{target}} {{include.attributes}}><i class="{{icon}}"></i>{{name}}</a>
+{{--}}

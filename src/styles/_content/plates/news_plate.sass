@@ -1,0 +1,24 @@
+$news-plate-margin: 2em
+
+
+.news-plate
+  @extend %img-plus-info-vertical-container
+  margin: $news-plate-margin
+
+  .img-container-wrapper
+    width: 100%
+
+  .news-date
+    font-size: .75em
+
+  .news-title
+    margin: .25em 0
+
+    h4
+      margin: 0
+
+  .news-content
+    font-size: .875em
+
+
++make-slider-selector('.news-plate', $news-plate-margin)

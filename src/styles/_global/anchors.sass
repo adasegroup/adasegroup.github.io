@@ -1,0 +1,26 @@
+.anchor-helper
+  position: relative
+  top: calc(-1 * var(--page-header-height))
+  visibility: hidden
+
+  +on-smartphone
+    top: 0
+
+.anchor
+  .anchor-icon
+    font: .6em FontAwesome
+    margin-left: .5em
+    visibility: hidden
+    text-decoration: none
+
+  &:hover, &:active
+    .anchor-icon
+      visibility: visible
+
+.no-js
+  .anchor:before
+    display: block
+    content: ''
+    margin-top: calc(-1 * var(--page-header-height))
+    height: var(--page-header-height)
+    visibility: hidden

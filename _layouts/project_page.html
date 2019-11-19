@@ -1,0 +1,59 @@
+---
+layout: default
+---
+<article class="project-page">
+    <header id="project-header">
+        <h1 id="project-title">{{ page.title }}</h1>
+        <p id="authors">{%
+            for i in (1..page.authors.size) %}{%
+            assign id = i | minus: 1 %}{%
+            assign author = page.authors[id] %}{%
+            assign author_page = author.page %}{%
+            for staff_category in site.data.staff %}{% for author_in_data in staff_category[1] %}{%
+            assign author_data = author_in_data[1] %}{%
+            if author_data.name == author.name %}{%
+            if author_data.personal_page %}{% assign author_page = author_data.personal_page %}{% endif %}{%
+            endif %}{%
+            endfor %}{% endfor %}<span class="author">{%
+                if author_page %}<a href="{{author_page}}">{{author.name}}</a>{%
+                else %}{{author.name}}{%
+                endif %}{%
+                if author.affiliation %}<span class="author-affiliation">{{author.affiliation}}</span>{%
+                endif %}</span>{%
+            endfor %}</p>
+        <p id="affiliations">{%
+            for i in (1..page.affiliation.size) %}{%
+            assign id = i | minus: 1
+            %}<span class="affiliation"><span class="affiliation-id">{{i}}</span>{{page.affiliation[id]}}</span>{%
+            endfor %}</p>
+        <p id="venue">{{page.venue}}</p>
+
+        {% if page.visual_abstract %}
+        <section id="visual-abstract">
+            <div id="visual-abstract-container">
+                <img id="visual-abstract-img" src="{{page.visual_abstract}}">
+            </div>
+            {% if page.visual_abstract_description %}
+            <div id="visual-abstract-description">{{page.visual_abstract_description}}</div>
+            {% endif %}
+        </section>
+        {% endif %}
+    </header>
+    <div id="project-excerpt-container">
+        <section id="project-excerpt">
+            <section id="abstract">
+                <h2>Abstract</h2>
+                {{ page.abstract }}
+            </section>
+            {% if page.materials or page.bibtex %}
+            <section id="materials">
+                <h2>Materials</h2>
+                {%- include _content/projects/project_materials.html link_html='_global/page_link_medium.html' project=page %}
+            </section>
+            {% endif %}
+        </section>
+    </div>
+    <section id="project-details">
+        {{ content }}
+    </section>
+</article>

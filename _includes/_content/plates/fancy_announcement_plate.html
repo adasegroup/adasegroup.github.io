@@ -1,0 +1,28 @@
+{%- assign fancy_announcement = include.plate_data -%}
+{%- assign title = include.title | default: fancy_announcement.fancy_announcement | default: fancy_announcement.announcement | default: fancy_announcement.title -%}
+{%- assign excerpt = include.excerpt | default: fancy_announcement.fancy_excerpt | default: fancy_announcement.excerpt -%}
+{%- assign img = include.img | default: fancy_announcement.fancy_img | default: fancy_announcement.thumbnail -%}
+{%- assign url = include.url | default: fancy_announcement.url -%}
+{%- assign fancy_style = include.fancy_style | default: fancy_announcement.fancy_style -%}
+
+<div class="fancy-announcement-plate">
+    <div class="img-container-wrapper" style='background-image:url("{{img}}")'>
+        <div class="img-container"></div>
+    </div>
+    {%- if title %}
+    <div class="data-wrapper" {{fancy_style}}">
+        <div class="centered-section">
+            <div class="data">
+                <div class="fancy-announcement-title"><h4>{{title}}</h4></div>
+                <div class="fancy-announcement-excerpt">{{excerpt}}</div>
+                {%- if url %}
+                <div class="fancy-announcement-more">
+                    <a href="{{url}}">More ></a>
+                </div>
+                {%- endif %}
+            </div>
+        </div>
+    </div>
+    {%- endif %}
+</div>
+{{--}}

@@ -1,3 +1,42 @@
 ---
-layout: default
+custom_js: frontPage.js
 ---
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+{% include _global/head.html %}
+<body>
+<div id="front-page-container">
+    {% include _main/front_page_header.html %}
+    {% include _global/header.html nav_bar=site.data.adase.title_nav_bar %}
+    <div id="full-body-wrapper">
+        <article class="content-layout-front-page">
+            <section id="about-section">
+                <div class="centered-section">
+                    {% capture included %}{% include _main/about.md %}{% endcapture %}{{included | markdownify}}
+                    <section id="news-section">
+                        {% include _main/news.html %}
+                    </section>
+                </div>
+            </section>
+            <section id="research-section">
+                <div class="centered-section">
+                    {% capture included %}{% include _main/research/research.md %}{% endcapture %}{{included | markdownify}}
+                </div>
+            </section>
+            <section id="industry-section">
+                <div class="centered-section">
+                    {% capture included %}{% include _main/industry.md %}{% endcapture %}{{included | markdownify}}
+                </div>
+            </section>
+            <section id="contact-section">
+                <div class="centered-section">
+                    {% capture included %}{% include _main/contact.md %}{% endcapture %}{{included | markdownify}}
+                </div>
+            </section>
+        </article>
+    </div>
+    {% include _global/footer.html %}
+    {% include _global/hemline.html %}
+</div>
+</body>
+</html>

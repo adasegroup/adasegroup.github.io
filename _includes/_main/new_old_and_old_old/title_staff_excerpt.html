@@ -1,0 +1,22 @@
+{% assign person = include.person %}
+{% if include.description %}
+{% assign description = include.description %}
+{% else %}
+{% assign description = person.position | replace: 'Prof. ', 'Professor<br>' | replace: 'Prof ', 'Professor
+<br>' | replace_first: ', ', '<br>' %}
+{% endif %}
+{% if include.wide %}
+<div class="title-staff-excerpt-wide-container">
+{% else %}
+<div class="title-staff-excerpt-container">
+{% endif %}
+    <div class="title-staff-photo-container">
+        {% if person.photo %}
+        <img class="photo" src="{{person.photo}}">
+        {% endif %}
+    </div>
+    <div class="title-staff-info-container">
+        <h4 class="title-staff-name">{{ person.name }}</h4>
+        <div class="title-staff-description">{{ description }}</div>
+    </div>
+</div>

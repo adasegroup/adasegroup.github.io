@@ -1,0 +1,8 @@
+{%- for material in include.project.materials %}
+{% include {{include.link_html}} link=material %}
+{%- endfor %}
+{%- if include.project.bibtex %}
+{%- assign attributes = 'class="copy-citation" data-clipboard-text="' |append: include.project.bibtex |append: '"' %}
+{%- assign icon = 'fa fa-quote-left' %}
+{% include {{include.link_html}} name='Copy bibtex' url="javascript:void(0)" target='' attributes=attributes icon=icon %}
+{%- endif -%}

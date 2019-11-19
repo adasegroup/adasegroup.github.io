@@ -1,0 +1,13 @@
+$project-excerpt-margin: 2em
+$project-excerpt-img-min-width: 16rem
+
+.project
+  @extend %img-plus-info-horizontal-container
+  margin: $project-excerpt-margin
+
+  .img-container-wrapper
+    width: $project-excerpt-img-min-width
+    min-width: $project-excerpt-img-min-width
+
+  +on-smartphone
+    +img-plus-info-vertical-container

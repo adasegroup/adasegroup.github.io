@@ -1,0 +1,40 @@
+$staff-excerpt-margin: 1em
+$staff-photo-aspect: 4/3
+
+$title-size: 1em
+$title-margin: .5em
+$role-size: 1em
+$status-pages-size: .875em
+
+$local-line-height: 1.5
+$staff-photo-min-width: ($title-size * $local-line-height + $title-margin + $role-size * $local-line-height + 2 * $status-pages-size * $local-line-height + 2 * $status-pages-size * $local-line-height) / $staff-photo-aspect
+
+.person-container
+  @extend %img-plus-info-horizontal-container
+  margin: $staff-excerpt-margin
+
+  .img-container-wrapper
+    //width: 25%
+    width: $staff-photo-min-width
+    min-width: $staff-photo-min-width
+
+    .img-container
+      padding-top: $staff-photo-aspect * 100%
+
+  .data
+    .title-container
+      display: block
+      font-weight: bold
+      margin-bottom: $title-margin
+
+      h4
+        margin: 0
+
+    i.fa, i.fas
+      margin-left: .3em
+
+    .status, .pages
+      font-size: $status-pages-size
+
+
++make-grid-selector('.staff', $staff-excerpt-margin)

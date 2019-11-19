@@ -1,0 +1,72 @@
+$golden-ratio             : 1.62
+$inversed-golden-ratio    : .62
+
+// Base sizes
+$html-font-size: 16px
+
+$content-padding: 8px
+
+$content-width                        : 1200px
+$content-width-on-landscape-tablet    : 900px
+$content-width-on-portrait-tablet     : 600px
+$content-width-on-xl-desktop          : 18000px // add the version for ultra-large screens later
+
+$desktop-min-width             : $content-width + 2 * $content-padding
+$landscape-tablet-min-width    : $content-width-on-landscape-tablet + 2 * $content-padding
+$portrait-tablet-min-width     : $content-width-on-portrait-tablet + 2 * $content-padding
+$desktop-xl-min-width          : $content-width-on-xl-desktop + 2 * $content-padding
+
+
+// Media queries
+// default is regular desktop
+//@mixin on-desktop
+//  @media screen and (min-width: $desktop-min-width)
+//    @content
+
+=on-landscape-tablet
+  @media screen and (min-width: $landscape-tablet-min-width) and (max-width: $desktop-min-width - 1px)
+    @content
+
+=on-portrait-tablet
+  @media screen and (min-width: $portrait-tablet-min-width) and (max-width: $landscape-tablet-min-width - 1px)
+    @content
+
+=on-smartphone
+  @media screen and (max-width: $portrait-tablet-min-width - 1px)
+    @content
+
+=on-xl-desktop
+  @media screen and (min-width: $desktop-xl-min-width)
+    @content
+
+
+.on-landscape-tablet, .on-portrait-tablet, .on-smartphone, .on-xl-desktop
+  display: none
+.on-desktop
+  display: block
++on-landscape-tablet
+  .on-desktop
+    display: none
+  .on-landscape-tablet
+    display: block
++on-portrait-tablet
+  .on-desktop
+    display: none
+  .on-portrait-tablet
+    display: block
++on-smartphone
+  .on-desktop
+    display: none
+  .on-smartphone
+    display: block
+
+
+// Content
+
+
+// Typography
+$base-font-size:             1rem
+$line-height:                1.5
+$large-heading-line-height:  1.25
+
+$front-page-base-font-size:       1.25rem

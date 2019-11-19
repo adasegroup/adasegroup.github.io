@@ -1,0 +1,49 @@
+{%- assign person = include.person -%}
+{%- assign role = person.team_role[page.team] | default: person.team_role -%}
+{%- assign person_status = person.status[page.team] | default: person.status -%}
+
+<div class="person-container">
+    {% if person.personal_page -%}
+    <a href="{{person.personal_page}}" class="img-container-wrapper">
+        {% else -%}
+        <div class="img-container-wrapper">
+            {% endif -%}
+            <div class="img-container">
+                <img src="{{person.photo}}">
+            </div>
+            {%- unless person.personal_page %}
+        </div>
+        {%- else %}
+    </a>
+    {%- endunless %}
+    <div class="data">
+        {% if person.personal_page -%}
+        <a href="{{person.personal_page}}" class="title-container">
+            {% else -%}
+            <div class="title-container">
+                {% endif -%}
+                <h4>{{person.name}}</h4>
+                {%- unless person.personal_page %}
+            </div>
+            {%- else %}
+        </a>
+        {%- endunless %}
+        <div class="role">
+            {{role}}{% if person.email %}<a class="person-email" href="mailto:{{person.email}}"><i
+                class="icon fa fa-envelope"></i></a>{% endif %}
+        </div>
+        {%- if person_status %}
+        <div class="status">{{person_status}}</div>
+        {%- endif %}
+        {%- if person.pages %}
+        <div class="pages">
+            {%- for personal_link in person.pages %}
+            {% include _global/page_link_small.html link=personal_link %}
+            {%- endfor %}
+        </div>
+        {%- endif %}
+    </div>
+    {%-comment-%}
+    {%-endcomment%}
+</div>
+{{--}}

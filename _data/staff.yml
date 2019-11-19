@@ -1,0 +1,307 @@
+leadership:
+  Bernstein Alexander:
+    name: Alexander Bernstein
+    photo: /assets/img/staff/ab.jpg
+    category: leadership
+    position: Principal Research Scientist
+    personal_page: http://faculty.skoltech.ru/people/alexanderbernstein
+
+  Burnaev Evgeny:
+    name: Evgeny Burnaev
+    regalia: Ph.D
+    photo: /assets/img/staff/pb.png
+    category: leadership
+    position: Associate Professor
+    team: [adase, 3ddl]
+    team_role: Head of the research group
+    pages:
+      - name: ResearchGate profile
+        url: https://www.researchgate.net/profile/Evgeny_Burnaev
+      - name: Papers on arXiv
+        url: https://arxiv.org/a/burnaev_e_1.html
+    email: e.burnaev@skoltech.ru
+    personal_page: https://faculty.skoltech.ru/people/evgenyburnaev
+
+
+collaborators:
+  Belomestny Denis:
+    name: Denis Belomestny
+    category: collaborator
+    position: Prof. Duisburg-Essen University
+
+  Gammerman Alex:
+    name: Alex Gammerman
+    category: collaborator
+    position: Doctor, Royal Holloway
+
+  Niessner Matthias:
+    name: Matthias Nießner
+    category: collaborator
+    position: Professor, Technical University of Munich
+
+  Nouretdinov Ilia:
+    name: Ilia Nouretdinov
+    category: collaborator
+    position: Prof. Royal Holloway
+
+  Panov Maxim:
+    name: Maxim Panov
+    category: collaborator
+    position: Research Scientist, CDISE, Skoltech
+
+  Shiryaev Albert:
+    name: Albert Shiryaev
+    category: collaborator
+    position: Prof. Moscow State University
+
+  Solomon Justin:
+    name: Justin Solomon
+    category: collaborator
+    position: Assistant Professor, Massachusetts Institute of Technology
+
+  Spokoiny Vladimir:
+    name: Vladimir Spokoiny
+    category: collaborator
+    position: Prof. Humboldt University
+
+  Sudret Bruno:
+    name: Bruno Sudret
+    category: collaborator
+    position: Prof. ETH Zurich
+
+  Vovk Vladimir:
+    name: Vladimir Vovk
+    category: collaborator
+    position: Prof. Royal Holloway
+
+  Yarotsky Dmitry:
+    name: Dmitry Yarotsky
+    category: collaborator
+    position: Leading Research Scientist, Skoltech
+
+  Zaytsev Alexey:
+    name: Alexey Zaytsev
+    category: collaborator
+    position: Junior Research Scientist, Skoltech
+
+  Zorin Denis:
+    name: Denis Zorin
+    regalia: Ph.D
+    photo: /assets/img/staff/dz.jpg
+    category: collaborator
+    position: Professor, New York University
+    team: 3ddl
+    team_role: Expert in 3D geometry
+    personal_page: https://cs.nyu.edu/~dzorin/
+
+
+researchers:
+  Artemov Alexey:
+    name: Alexey Artemov
+    regalia: Ph.D
+    photo: /assets/img/staff/aa.png
+    category: scientist
+    position: Research Scientist
+    team: [adase, 3ddl]
+    team_role:
+      3ddl: Team lead
+      adase: Nice guy
+    status:
+      3ddl: Learnable geometry processing and understanding
+      adase: Helping with stuff
+    pages:
+      - name: Bio
+        url: /staff/researchers/AlexeyArtemov/#bio
+      - name: Publications
+        url: /staff/researchers/AlexeyArtemov/#pubs
+    email: a.artemov@skoltech.ru
+    personal_page: https://www.hse.ru/en/org/persons/200432883
+
+  Ignatiev Vladimir:
+    name: Vladimir Ignatiev
+    photo: /assets/img/staff/VladimirIgnatiev.jpg
+    category: scientist
+    position: Research Scientist
+    personal_page: /staff/VladimirIgnatiev
+
+  Kondratyeva Ekaterina:
+    name: Ekaterina Kondratyeva
+    category: researcher
+    position: Jr. Research Scientist
+
+  Korotin Alexander:
+    name: Alexander Korotin
+    category: researcher
+    position: Jr. Research Scientist
+    photo: /assets/img/staff/AlexanderKorotin.jpg
+
+  Kvasov Andrei:
+    name: Andrei Kvasov
+    category: researcher
+    position: Jr. Research Scientist
+
+  Rivera Rodrigo:
+    name: Rodrigo Rivera
+    category: scientist
+    position: Jr. Research Scientist
+    photo: /assets/img/staff/rr.png
+
+  Sushchinskaya Svetlana:
+    name: Svetlana Sushchinskaya
+    category: researcher
+    position: Jr. Research Scientist
+
+
+phd_students:
+  Bulycheva Maria:
+    name: Maria Bulycheva
+    category: student
+    position: PhD Student
+
+  Egorov Evgeny:
+    name: Evgeny Egorov
+    category: student
+    position: PhD Student
+
+  Ishimtsev Vladislav:
+    name: Vladislav Ishimtsev
+    category: student
+    position: PhD. Student
+    photo: /assets/img/staff/VladislavIshimtsev.jpg
+
+  Ivanov Sergey:
+    name: Sergey Ivanov
+    category: student
+    position: PhD Student
+    photo: /assets/img/staff/SergeyIvanov.jpg
+
+  Kachan Oleg:
+    name: Oleg Kachan
+    category: student
+    position: PhD Student
+
+  Kapushev Yermek:
+    name: Yermek Kapushev
+    category: student
+    position: PhD Student
+
+  Klyuchnikov Nikita:
+    name: Nikita Klyuchnikov
+    category: student
+    position: PhD Student
+    photo: /assets/img/staff/NikitaKlyuchnikov.jpg
+
+  Kostoev Ruslan:
+    name: Ruslan Kostoev
+    category: student
+    position: PhD Student
+    photo: /assets/img/staff/RuslanKostoev.jpg
+
+  Matveev Albert:
+    name: Albert Matveev
+    photo: /assets/img/staff/AlbertMatveyev.jpg
+    category: student
+    position: PhD Student
+    team: 3ddl
+    team_role: PhD student
+    status: Learnable processing of geometric features
+    email: a.b@c.ru
+    personal_page: https://faculty.skoltech.ru/people/albertmatveev
+
+  Nazarov Ivan:
+    name: Ivan Nazarov
+    category: student
+    position: PhD Student
+
+  Notchenko Alexander:
+    name: Alexander Notchenko
+    category: student
+    position: PhD Student
+
+  Smolyakov Dmitry:
+    name: Dmitry Smolyakov
+    category: student
+    position: PhD Student
+
+  Volkhonsky Denis:
+    name: Denis Volkhonsky
+    category: student
+    position: PhD Student
+    photo: /assets/img/staff/DenisVolkhonsky.jpg
+
+  Voynov Oleg:
+    name: Oleg Voynov
+    photo: /assets/img/staff/OlegVoynov.jpg
+    category: student
+    position: PhD Student
+    team: 3ddl
+    team_role: PhD student
+    status: Learnable range-image processing
+    #pages:
+    email: oleg.voinov@skoltech.ru
+
+
+msc_students:
+  Barabanov Ivan:
+    name: Ivan Barabanov
+    category: student
+    position: Msc. Student
+
+  Makhotin Ivan:
+    name: Ivan Makhotin
+    category: student
+    position: Msc. Student
+    photo: /assets/img/staff/IvanMakhotin.jpg
+
+  Marin Anton:
+    name: Anton Marin
+    category: student
+    position: Msc. Student
+
+  Novikov German:
+    name: German Novikov
+    category: student
+    position: Msc. Student
+
+  Rykachevsky Anton:
+    name: Anton Rykachevsky
+    category: student
+    position: Msc. Student
+
+  Sudakov Oleg:
+    name: Oleg Sudakov
+    category: student
+    position: Msc. Student
+    photo: /assets/img/staff/OlegSudakov.jpg
+
+
+alumni:
+  Gryaznov Nikita:
+    name: Nikita Gryaznov
+    category: alumnus
+    position: Msc. Student
+
+  Khomenko Oleg:
+    name: Oleg Khomenko
+    category: alumnus
+    position: Msc. Student
+
+  Pankratov Anton:
+    name: Anton Pankratov
+    category: alumnus
+    position: Msc. Student
+
+  Pavlov Sergey:
+    name: Sergey Pavlov
+    category: alumnus
+    position: Msc. Student
+
+  Prikhodko Pavel:
+    name: Pavel Prikhodko
+    category: alumnus
+    position: PhD
+
+  Ryabykh Alexey:
+    name: Alexey Ryabykh
+    category: alumnus
+    position: Msc. Student

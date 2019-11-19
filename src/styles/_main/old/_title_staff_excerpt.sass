@@ -1,0 +1,72 @@
+$title-staff-container-width:       12rem
+$mini-photo-height:                 9rem
+$mini-photo-width:                  9rem
+
+$title-staff-wide-container-min-width:  18rem
+$micro-photo-height:                    6rem
+$micro-photo-width:                     6rem
+
+
+.title-staff-excerpt-container
+  min-width: $mini-photo-width
+  max-width: $title-staff-container-width
+  padding: $vertical-spacing-unit/2 $horizontal-spacing-unit
+
+  .title-staff-photo-container
+    width: $mini-photo-width
+    height: $mini-photo-height
+    margin: $vertical-spacing-unit/2 0
+
+  .title-staff-info-container
+    .title-staff-name
+      margin: $vertical-spacing-unit/2 0
+
+    .title-staff-description
+      margin: $vertical-spacing-unit/2 0
+
+.title-staff-photo-container
+  overflow: hidden
+
+  .photo
+    width: inherit
+    height: inherit
+    object-fit: cover
+
+.title-staff-description
+  font-size: small
+
+
+.title-staff-excerpt-wide-container
+  display: flex
+  min-width: $title-staff-wide-container-min-width
+  width: 1/4 * 100%
+  +media-query($on-laptop)
+    width: 1/3 * 100%
+  +media-query($on-palm)
+    width: 1/2 * 100%
+
+  .title-staff-photo-container
+    width: $micro-photo-width
+    height: $micro-photo-height
+    margin: 0 $horizontal-spacing-unit/2
+
+  .title-staff-info-container
+    .title-staff-name
+      margin: 0 $horizontal-spacing-unit/2
+
+    .title-staff-description
+      margin: 0 $horizontal-spacing-unit/2
+
+  .title-staff-info-container
+    flex: 1 1 10%
+    margin-top: auto
+    margin-bottom: auto
+
+
+.title-staff-container
+  display: flex
+  overflow: auto
+
+  .title-staff-excerpt-container, .title-staff-excerpt-wide-container
+    margin-left: auto
+    margin-right: auto

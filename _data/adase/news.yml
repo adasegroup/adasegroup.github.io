@@ -1,0 +1,30 @@
+- title: Something about MLSS
+  date: 2019-09-06 00:00:00
+  thumbnail: https://static.tildacdn.com/tild6335-3630-4737-b131-383536313836/artwork-vasily-kandi.jpg
+  excerpt: ...
+  url: https://mlss2019.skoltech.ru/
+
+- title: Reading group started
+  date: 2018-07-29 00:00:00
+  excerpt: Our reading group has started. Come by!
+  url: /scifi-seminar/
+
+- title: Call for papers
+  date: 2018-03-27 00:00:00
+  excerpt: Workshop on Outlier Detection De-constructed @ KDD2018, deadline May 8th 2018
+  url: http://www.andrew.cmu.edu/user/lakoglu/odd/index.html
+
+- title: Theoretical foundations of data science
+  date: 2018-03-26 00:00:00
+  excerpt: Prof. Burnaev will be teaching Theoretical Foundations of Data Science in term 4
+  url: /lectures/2018-03-15-Theoretical-Foundations-of-Data-Science/
+
+- title: Post-Doc position open
+  date: 2018-03-15 00:00:00
+  excerpt: We are hiring! Click for more information
+  url: /openings/
+
+- title: Machine learning
+  date: 2018-01-29 00:00:00
+  excerpt: Prof. Burnaev will be lecturing Machine Learning in term 3
+  url: /lectures/2018-01-28-Machine-Learning/
