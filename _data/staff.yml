@@ -34,6 +34,13 @@ collaborators:
     category: collaborator
     position: Doctor, Royal Holloway
 
+  Ignatiev Vladimir:
+    name: Vladimir Ignatiev
+    photo: /assets/img/staff/VladimirIgnatiev.jpg
+    category: scientist
+    position: Research Scientist
+    personal_page: /staff/VladimirIgnatiev
+
   Niessner Matthias:
     name: Matthias Nießner
     category: collaborator
@@ -105,6 +112,133 @@ researchers:
     team: [adase, 3ddl]
     team_role:
       3ddl: Team lead
+      adase: 3D deep learning team lead
+    status: Deep learning for geometric computing
+    email: a.artemov@skoltech.ru
+    personal_page: https://www.hse.ru/en/org/persons/200432883
+
+  Bogomolov Emil:
+    name: Emil Bogomolov
+    photo: /assets/img/staff/BogomolovEmil.jpg
+    position: Research Engineer
+    team: 3ddl
+    team role: Junior Research Engineer
+    status: DensePose for human pose estimation
+    email: e.bogomolov@skoltech.ru
+
+  Lange Andrey:
+    name: Andrey Lange
+    photo: /assets/img/staff/xzibit.jpg
+    position: Senior Research Engineer
+    team_role: Senior researcher
+    status: Cybersport
+    email: a.lange@skoltech.ru
+
+
+phd_students:
+  Egiazarian Vage:
+    name: Vage Egiazarian
+    photo: /assets/img/staff/VageEgiazarian.jpg
+    position: PhD Student
+    team: 3ddl
+    team_role: PhD student
+    status: Deep learning for image vectorization
+    email: vage.egiazarian@skoltech.ru
+
+  Notchenko Alexandr:
+    name: Alexandr Notchenko
+    photo: /assets/img/staff/NotchenkoAlexandr.jpg
+    position: PhD Student
+    team: 3ddl
+    team_role: PhD student
+    status: Deep learning systems for Inverse Graphics problems
+    email: alexandr.notchenko@skolkovotech.ru
+
+  Volkhonskiy Denis:
+    name: Denis Volkhonskiy
+    photo: /assets/img/staff/VolkhonskiyDenis.jpg
+    position: PhD Student
+    team: 3ddl
+    team_role: PhD student
+    status: Deep Learning for 3D Data Processing
+    email: denis.volkhonskiy@skoltech.ru
+
+
+  Voynov Oleg:
+    name: Oleg Voynov
+    photo: /assets/img/staff/OlegVoynov.jpg
+    category: student
+    position: PhD Student
+    team: 3ddl
+    team_role: PhD student
+    status: Deep learning for range-image processing
+    #pages:
+    email: oleg.voinov@skoltech.ru
+
+
+msc_students:
+  Bokhovkin Alexey:
+    name: Alexey Bokhovkin
+    photo: /assets/img/staff/BokhovkinAlexey.jpg
+    position: Msc. Student
+    team: 3ddl
+    team_role: Msc. Student
+    status: 3D scene understanding and shape fitting
+    email: a.bokhovkin@skoltech.ru
+
+  Rakhimov Ruslan:
+    name: Ruslan Rakhimov
+    photo: /assets/img/staff/RakhimovRuslan.jpg
+    position: Msc. Student
+    team: 3ddl
+    team_role: Msc. Student
+    status: DensePose for human pose estimation, graph neural networks
+    email: ruslan.rakhimov@skoltech.ru
+
+
+
+alumni:
+  Gryaznov Nikita:
+    name: Nikita Gryaznov
+    category: alumnus
+    position: Msc. Student
+
+  Khomenko Oleg:
+    name: Oleg Khomenko
+    category: alumnus
+    position: Msc. Student
+
+  Pankratov Anton:
+    name: Anton Pankratov
+    category: alumnus
+    position: Msc. Student
+
+  Pavlov Sergey:
+    name: Sergey Pavlov
+    category: alumnus
+    position: Msc. Student
+
+  Prikhodko Pavel:
+    name: Pavel Prikhodko
+    category: alumnus
+    position: PhD
+
+  Ryabykh Alexey:
+    name: Alexey Ryabykh
+    category: alumnus
+    position: Msc. Student
+
+
+_researchers:
+  Artemov Alexey:
+    name: Alexey Artemov
+    regalia: Ph.D
+    photo: /assets/img/staff/aa.png
+    category: scientist
+    position: Research Scientist
+    team: [adase, 3ddl]
+    team_role:
+      3ddl: Team lead
       adase: Nice guy
     status:
       3ddl: Learnable geometry processing and understanding
@@ -116,13 +250,6 @@ researchers:
         url: /staff/researchers/AlexeyArtemov/#pubs
     email: a.artemov@skoltech.ru
     personal_page: https://www.hse.ru/en/org/persons/200432883
-
-  Ignatiev Vladimir:
-    name: Vladimir Ignatiev
-    photo: /assets/img/staff/VladimirIgnatiev.jpg
-    category: scientist
-    position: Research Scientist
-    personal_page: /staff/VladimirIgnatiev
 
   Kondratyeva Ekaterina:
     name: Ekaterina Kondratyeva
@@ -152,7 +279,7 @@ researchers:
     position: Jr. Research Scientist
 
 
-phd_students:
+_phd_students:
   Bulycheva Maria:
     name: Maria Bulycheva
     category: student
@@ -213,35 +340,13 @@ phd_students:
     category: student
     position: PhD Student
 
-  Notchenko Alexander:
-    name: Alexander Notchenko
-    category: student
-    position: PhD Student
-
   Smolyakov Dmitry:
     name: Dmitry Smolyakov
     category: student
     position: PhD Student
 
-  Volkhonsky Denis:
-    name: Denis Volkhonsky
-    category: student
-    position: PhD Student
-    photo: /assets/img/staff/DenisVolkhonsky.jpg
 
-  Voynov Oleg:
-    name: Oleg Voynov
-    photo: /assets/img/staff/OlegVoynov.jpg
-    category: student
-    position: PhD Student
-    team: 3ddl
-    team_role: PhD student
-    status: Learnable range-image processing
-    #pages:
-    email: oleg.voinov@skoltech.ru
-
-
-msc_students:
+_msc_students:
   Barabanov Ivan:
     name: Ivan Barabanov
     category: student
@@ -274,34 +379,3 @@ msc_students:
     position: Msc. Student
     photo: /assets/img/staff/OlegSudakov.jpg
 
-
-alumni:
-  Gryaznov Nikita:
-    name: Nikita Gryaznov
-    category: alumnus
-    position: Msc. Student
-
-  Khomenko Oleg:
-    name: Oleg Khomenko
-    category: alumnus
-    position: Msc. Student
-
-  Pankratov Anton:
-    name: Anton Pankratov
-    category: alumnus
-    position: Msc. Student
-
-  Pavlov Sergey:
-    name: Sergey Pavlov
-    category: alumnus
-    position: Msc. Student
-
-  Prikhodko Pavel:
-    name: Pavel Prikhodko
-    category: alumnus
-    position: PhD
-
-  Ryabykh Alexey:
-    name: Alexey Ryabykh
-    category: alumnus
-    position: Msc. Student
