@@ -22,10 +22,13 @@ layout: default
                 endif %}</span>{%
             endfor %}</p>
         <p id="affiliations">{%
+            if page.affiliation.size == 1
+            %}<span class="affiliation">{{page.affiliation[0]}}</span>{%
+            else %}{%
             for i in (1..page.affiliation.size) %}{%
             assign id = i | minus: 1
             %}<span class="affiliation"><span class="affiliation-id">{{i}}</span>{{page.affiliation[id]}}</span>{%
-            endfor %}</p>
+            endfor %}{% endif %}</p>
         <p id="venue">{{page.venue}}</p>
 
         {% if page.visual_abstract %}
