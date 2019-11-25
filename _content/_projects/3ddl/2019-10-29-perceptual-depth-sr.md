@@ -15,10 +15,10 @@ authors:
     affiliation: 1
   - name: Gleb Bobrovskikh
     affiliation: '1, 2'
-  - name: Denis Zorin
-    affiliation: '3, 1'
   - name: Evgeny Burnaev
     affiliation: 1
+  - name: Denis Zorin
+    affiliation: '3, 1'
 affiliation:
   - Skolkovo Institute of Science and Technology
   - Higher School of Economics
@@ -30,12 +30,23 @@ abstract: RGB-D images, combining high-resolution color and lower-resolution dep
 
 visual_abstract: /assets/img/projects/perceptual_depth_sr/teaser-pic.jpg
 visual_abstract_description: Visually inferior super-resolution result in the middle gets higher score according to direct depth deviation but lower score according to perceptual deviation of the rendered image of the 3D surface. While the surfaces differ significantly, the corresponding depth maps do not capture this difference and look almost identical.
-# bibtex:
+bibtex: "\
+@inproceedings{voynov2019perceptual,
+  title={Perceptual deep depth super-resolution},
+  author={Voynov, Oleg and Artemov, Alexey and Egiazarian, Vage and Notchenko, Alexander and Bobrovskikh, Gleb and Burnaev, Evgeny and Zorin, Denis},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={5653--5663},
+  year={2019}
+}"
 
 materials:
     - name: Paper
       url: https://arxiv.org/pdf/1812.09874.pdf
       icon: fa fa-file-pdf-o
+    - name: Code
+      url: https://github.com/voyleg/perceptual-depth-sr
+      icon: fa fa-github-alt
 ---
+<span style="background-color: #F00;color: #FFF">Oleg Voynov fill this with project details</span>
 ## Contact
 If you have any questions about this work, please contact us under [adase-3ddl@skoltech.ru](mailto:adase-3ddl@skoltech.ru).
