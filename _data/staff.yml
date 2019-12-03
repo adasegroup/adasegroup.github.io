@@ -150,7 +150,7 @@ researchers:
     position: Research Scientist
     team: ???
     team_role: Project Manager / Research Advisor
-    status: '<span style="background-color: #F00;color: #FFF">What currently working on</span>'
+    status: '<span style="background-color: #F00;color: #FFF">What currently working on, or research interests</span>'
     email: ilya.trofimov@skoltech.ru
 
 
@@ -163,6 +163,20 @@ phd_students:
     team_role: PhD student
     status: Deep learning for image vectorization
     email: vage.egiazarian@skoltech.ru
+
+  Egorov Evgenii:
+    name: Evgenii Egorov
+    photo: /assets/img/staff/EgorovEvgenii.jpg
+    position: PhD Student
+    team: ???
+    team_role: Master of probability
+    status: '<span style="background-color: #F00;color: #FFF">What currently working on, or research interests</span>'
+    pages:
+      - name: Google Scholar
+        url: https://scholar.google.ru/citations?user=LwVVunEAAAAJ
+    email: e.egorov@skoltech.ru
+    personal_page: https://scholar.google.ru/citations?user=LwVVunEAAAAJ
+
 
   Ignatiev Savva:
     name: Savva Ignatiev
@@ -181,6 +195,28 @@ phd_students:
     team_role: PhD Student
     status: 3d scene understanding and shape fitting
     email: vladislav.ishimtsev@skoltech.ru
+
+  Klyuchnikov Nikita:
+    name: Nikita Klyuchnikov
+    photo: /assets/img/staff/KlyuchnikovNikita.jpg
+    position: PhD Student
+    team: ???
+    team_role: PhD student
+    status: Multi fidelity active search
+    email: nikita.klyuchnikov@skolkovotech.ru
+
+  Kondrateva Ekaterina:
+    name: Ekaterina Kondrateva
+    photo: /assets/img/staff/KondratevaEkaterina.jpg
+    position: PhD Student
+    team: ???
+    team_role: PhD Student
+    status: '<span style="background-color: #F00;color: #FFF">What currently working on, or research interests</span>'
+    pages:
+      - name: Google Scholar
+        url: https://scholar.google.ru/citations?user=qlmVoMQAAAAJ&hl=ru
+    email: ekaterina.kondrateva@skoltech.ru
+    personal_page: https://github.com/kondratevakate
 
   Matveev Albert:
     name: Albert Matveev
@@ -267,6 +303,23 @@ msc_students:
     status: DensePose for human pose estimation, graph neural networks
     email: ruslan.rakhimov@skoltech.ru
 
+  Selyutin Vadim:
+    name: Vadim Selyutin
+    photo: /assets/img/staff/SelyutinVadim.jpg
+    position: Msc. Student
+    team: ???
+    team_role: Msc. Student
+    status: Neural architecture search for time series analysis
+    email: vadim.selyutin@skoltech.ru
+
+  Zhuzhel Vladislav:
+    name: Vladislav Zhuzhel
+    photo: /assets/img/staff/ZhuzhelVladislav.jpg
+    position: Msc. Student
+    team: ???
+    team_role: Msc. Student
+    status: '<span style="background-color: #F00;color: #FFF">What currently working on, or research interests</span>'
+    email: vladislav.zhuzhel@skoltech.ru
 
 
 alumni:
