@@ -1,7 +1,7 @@
 leadership:
   Bernstein Alexander:
     name: Alexander Bernstein
-    photo: /assets/img/staff/ab.jpg
+    photo: /assets/img/staff/BernsteinAlexander.jpg
     category: leadership
     position: Principal Research Scientist
     personal_page: http://faculty.skoltech.ru/people/alexanderbernstein
@@ -9,7 +9,7 @@ leadership:
   Burnaev Evgeny:
     name: Evgeny Burnaev
     regalia: Ph.D
-    photo: /assets/img/staff/pb.png
+    photo: /assets/img/staff/BurnaevEvgeny.png
     category: leadership
     position: Associate Professor
     team: [adase, 3ddl]
@@ -36,7 +36,7 @@ collaborators:
 
   Ignatiev Vladimir:
     name: Vladimir Ignatiev
-    photo: /assets/img/staff/VladimirIgnatiev.jpg
+    photo: /assets/img/staff/IgnatievVladimir.jpg
     category: scientist
     position: Research Scientist
     personal_page: /staff/VladimirIgnatiev
@@ -106,7 +106,7 @@ researchers:
   Artemov Alexey:
     name: Alexey Artemov
     regalia: Ph.D
-    photo: /assets/img/staff/aa.png
+    photo: /assets/img/staff/ArtemovAlexey.png
     category: scientist
     position: Research Scientist
     team: [adase, 3ddl]
@@ -117,12 +117,21 @@ researchers:
     email: a.artemov@skoltech.ru
     personal_page: https://www.hse.ru/en/org/persons/200432883
 
+  Bobrovskikh Gleb:
+    name: Gleb Bobrovskikh
+    photo: /assets/img/staff/xzibit.jpg
+    position: Research Intern
+    team: 3ddl
+    team_role: Researcher
+    status: Deep learning for RGB-D restoration and learnable geometry
+    email: G.Bobrovskih@skoltech.ru
+
   Bogomolov Emil:
     name: Emil Bogomolov
     photo: /assets/img/staff/BogomolovEmil.jpg
-    position: Research Engineer
+    position: Junior Sesearch Engineer
     team: 3ddl
-    team role: Junior Research Engineer
+    team_role: Research engineer
     status: DensePose for human pose estimation
     email: e.bogomolov@skoltech.ru
 
@@ -130,20 +139,66 @@ researchers:
     name: Andrey Lange
     photo: /assets/img/staff/xzibit.jpg
     position: Senior Research Engineer
+    team: ???
     team_role: Senior researcher
     status: Cybersport
     email: a.lange@skoltech.ru
+
+  Trofimov Ilya:
+    name: Ilya Trofimov
+    photo: /assets/img/staff/TrofimovIlya.jpg
+    position: Research Scientist
+    team: ???
+    team_role: Project Manager / Research Advisor
+    status: '<span style="background-color: #F00;color: #FFF">What currently working on</span>'
+    email: ilya.trofimov@skoltech.ru
 
 
 phd_students:
   Egiazarian Vage:
     name: Vage Egiazarian
-    photo: /assets/img/staff/VageEgiazarian.jpg
+    photo: /assets/img/staff/EgiazarianVage.jpg
     position: PhD Student
     team: 3ddl
     team_role: PhD student
     status: Deep learning for image vectorization
     email: vage.egiazarian@skoltech.ru
+
+  Ignatiev Savva:
+    name: Savva Ignatiev
+    photo: /assets/img/staff/xzibit.jpg
+    position: PhD student
+    team: 3ddl
+    team_role: PhD student
+    status: 3D scene alignment with deep learning
+    email: Savva.Ignatyev@skoltech.ru
+
+  Ishimtsev Vladislav:
+    name: Vladislav Ishimtsev
+    photo: /assets/img/staff/IshimtsevVladislav.jpg
+    position: PhD Student
+    team: 3ddl
+    team_role: PhD Student
+    status: 3d scene understanding and shape fitting
+    email: vladislav.ishimtsev@skoltech.ru
+
+  Matveev Albert:
+    name: Albert Matveev
+    photo: /assets/img/staff/MatveevAlbert.jpg
+    position: PhD Student
+    team: 3ddl
+    team_role: PhD student
+    status: Learnable geometric features
+    email: albert.matveev@skoltech.ru
+
+  Mazyavkina Nina:
+    name: Nina Mazyavkina
+    photo: /assets/img/staff/MazyavkinaNina.jpg
+    position: PhD Student
+    team: ???
+    team_role: PhD Student
+    status: Neural architecture search for reinforcement learning, digital predistortion
+    email: Nina.Mazyavkina@skoltech.ru
 
   Notchenko Alexandr:
     name: Alexandr Notchenko
@@ -154,19 +209,36 @@ phd_students:
     status: Deep learning systems for Inverse Graphics problems
     email: alexandr.notchenko@skolkovotech.ru
 
+  Rivera Rodrigo:
+    name: Rodrigo Rivera-Castro
+    photo: /assets/img/staff/RiveraRodrigo.jpg
+    position: PhD Student
+    team: ???
+    team_role: Jack of all trades
+    status: 'Working on #UnsupervisedLearning #Causality #TDA for #TimeSeries'
+    email: rodrigo.riveracastro@skoltech.ru
+
+  Safin Aleksandr:
+    name: Aleksandr Safin
+    photo: /assets/img/staff/xzibit.jpg
+    position: PhD Student
+    team: 3ddl
+    team_role: PhD student
+    status: Deep learning for generative models
+    email: aleksandr.safin@skoltech.ru
+
   Volkhonskiy Denis:
     name: Denis Volkhonskiy
     photo: /assets/img/staff/VolkhonskiyDenis.jpg
     position: PhD Student
     team: 3ddl
     team_role: PhD student
-    status: Deep Learning for 3D Data Processing
+    status: Deep learning for 3D data processing
     email: denis.volkhonskiy@skoltech.ru
-
 
   Voynov Oleg:
     name: Oleg Voynov
-    photo: /assets/img/staff/OlegVoynov.jpg
+    photo: /assets/img/staff/VoynovOleg.jpg
     category: student
     position: PhD Student
     team: 3ddl
@@ -221,12 +293,13 @@ alumni:
   Prikhodko Pavel:
     name: Pavel Prikhodko
     category: alumnus
-    position: PhD
+    position: PhD Student
 
   Ryabykh Alexey:
     name: Alexey Ryabykh
     category: alumnus
     position: Msc. Student
+    where_is_now: now X at Y
 
 
 _researchers:
@@ -293,7 +366,7 @@ _phd_students:
   Ishimtsev Vladislav:
     name: Vladislav Ishimtsev
     category: student
-    position: PhD. Student
+    position: PhD Student
     photo: /assets/img/staff/VladislavIshimtsev.jpg
 
   Ivanov Sergey:
