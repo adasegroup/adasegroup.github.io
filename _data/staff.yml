@@ -94,7 +94,7 @@ collaborators:
   Zorin Denis:
     name: Denis Zorin
     regalia: Ph.D
-    photo: /assets/img/staff/dz.jpg
+    photo: /assets/img/staff/ZorinDenis.jpg
     category: collaborator
     position: Professor, New York University
     team: 3ddl
@@ -119,7 +119,7 @@ researchers:
 
   Bobrovskikh Gleb:
     name: Gleb Bobrovskikh
-    photo: /assets/img/staff/xzibit.jpg
+    photo: /assets/img/staff/BobrovskikhGleb.jpg
     position: Research Intern
     team: 3ddl
     team_role: Researcher
@@ -137,7 +137,7 @@ researchers:
 
   Lange Andrey:
     name: Andrey Lange
-    photo: /assets/img/staff/xzibit.jpg
+    photo: /assets/img/staff/LangeAndrey.jpg
     position: Senior Research Engineer
     team: ???
     team_role: Senior researcher
@@ -180,7 +180,7 @@ phd_students:
 
   Ignatiev Savva:
     name: Savva Ignatiev
-    photo: /assets/img/staff/xzibit.jpg
+    photo: /assets/img/staff/IgnatievSavva.jpg
     position: PhD student
     team: 3ddl
     team_role: PhD student
@@ -256,7 +256,7 @@ phd_students:
 
   Safin Aleksandr:
     name: Aleksandr Safin
-    photo: /assets/img/staff/xzibit.jpg
+    photo: /assets/img/staff/SafinAleksandr.jpg
     position: PhD Student
     team: 3ddl
     team_role: PhD student
@@ -294,6 +294,15 @@ msc_students:
     status: 3D scene understanding and shape fitting
     email: a.bokhovkin@skoltech.ru
 
+  Kolos Maria:
+    name: Maria Kolos
+    photo: /assets/img/staff/KolosMaria.jpg
+    position: Msc. Student
+    team: 3ddl
+    team_role: Msc. Student
+    status: 'Sharp features/ joint Samsung project <span style="background-color: #F00;color: #FFF">What is this project about</span>'
+    email: maria.kolos@skoltech.ru
+
   Rakhimov Ruslan:
     name: Ruslan Rakhimov
     photo: /assets/img/staff/RakhimovRuslan.jpg
@@ -311,6 +320,15 @@ msc_students:
     team_role: Msc. Student
     status: Neural architecture search for time series analysis
     email: vadim.selyutin@skoltech.ru
+
+  Taktasheva Maria:
+    name: Maria Taktasheva
+    photo: /assets/img/staff/TaktashevaMaria.jpg
+    position: Msc. Student
+    team: 3ddl
+    team_role: Msc. Student
+    status: Learnable geometric features
+    email: maria.taktasheva@skoltech.ru
 
   Zhuzhel Vladislav:
     name: Vladislav Zhuzhel
