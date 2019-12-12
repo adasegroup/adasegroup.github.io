@@ -303,6 +303,15 @@ msc_students:
     status: 'Sharp features/ joint Samsung project <span style="background-color: #F00;color: #FFF">What is this project about</span>'
     email: maria.kolos@skoltech.ru
 
+  Maksimov Ivan:
+    name: Ivan Maksimov
+    photo: /assets/img/staff/xzibit.jpg
+    position: Msc. Student
+    team: ???
+    team_role: Msc. Student
+    status: Graph neural networks for recommender systems
+    email: Ivan.Maksimov@skoltech.ru
+
   Rakhimov Ruslan:
     name: Ruslan Rakhimov
     photo: /assets/img/staff/RakhimovRuslan.jpg
