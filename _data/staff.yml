@@ -91,13 +91,12 @@ phd_students:
     position: PhD Student
     team: ???
     team_role: Master of probability
-    status: '<span style="background-color: #F00;color: #FFF">Bayesian keks</span>'
+    status: MCMC, Optimizations, Bayesian methods in machine learning
     pages:
       - name: Google Scholar
         url: https://scholar.google.ru/citations?user=LwVVunEAAAAJ
     email: e.egorov@skoltech.ru
     personal_page: https://scholar.google.ru/citations?user=LwVVunEAAAAJ
-
 
   Ignatiev Savva:
     name: Savva Ignatiev
