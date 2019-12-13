@@ -150,7 +150,7 @@ researchers:
     position: Research Scientist
     team: ???
     team_role: Project Manager / Research Advisor
-    status: '<span style="background-color: #F00;color: #FFF">What currently working on, or research interests</span>'
+    status: Neural Architecture Search, Data Reduction for AutoML
     email: ilya.trofimov@skoltech.ru
 
 
