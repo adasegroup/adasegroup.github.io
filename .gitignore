@@ -6,4 +6,5 @@ node_modules
 .jekyll-metadata
 new_particle/_site
 _site
+assets
 ._*

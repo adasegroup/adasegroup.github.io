@@ -18,8 +18,8 @@ venue: Analysis of Images, Social networks and Texts 2019
 excerpt: '<span style="background-color: #F00;color: #FFF">Somebody fill this with short description of the project that will appear in the list of publications</span>'
 abstract: Reconstruction of directional fields is a need in many geometry processing tasks, such as image tracing, extraction of 3D geometric features, and finding principal surface directions. A common approach to the construction of directional fields from data relies on complex optimization procedures, which are usually poorly formalizeable, require a considerable computational effort, and do not transfer across applications. In this work, we propose a deep learning-based approach and study the expressive power and generalization ability.
 
-visual_abstract: '" alt="Somebody add teaser picture'
-visual_abstract_description: '<span style="background-color: #F00;color: #FFF">Somebody add teaser picture; Somebody add the description of the picture above</span>'
+visual_abstract: '" style="background-color: red" alt="Somebody add visual abstract'
+visual_abstract_description: '<span style="background-color: #F00;color: #FFF">Somebody add visual abstract; Somebody add the description of the picture above</span>'
 #bibtex: '<span style="background-color: #F00;color: #FFF">Somebody fill this with bibtex when it is published'
 
 materials:

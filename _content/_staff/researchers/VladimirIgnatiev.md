@@ -2,7 +2,7 @@
 layout: page
 title: Vladimir Ignatiev
 ---
-![](/assets/img/staff/VladimirIgnatiev.jpg)
+![](/assets/img/staff/IgnatievVladimir.jpg)
 
 ## Research scientist
 
