@@ -484,7 +484,6 @@ _phd_students:
     team_role: PhD student
     status: Learnable processing of geometric features
     email: a.b@c.ru
-    personal_page: https://faculty.skoltech.ru/people/albertmatveev
 
   Nazarov Ivan:
     name: Ivan Nazarov
