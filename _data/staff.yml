@@ -344,7 +344,7 @@ msc_students:
     position: Msc. Student
     team: ???
     team_role: Msc. Student
-    status: '<span style="background-color: #F00;color: #FFF">What currently working on, or research interests</span>'
+    status: Causality for time series data
     email: vladislav.zhuzhel@skoltech.ru
 
 
