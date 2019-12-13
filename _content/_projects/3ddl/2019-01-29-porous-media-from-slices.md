@@ -26,11 +26,11 @@ affiliation:
   - Gazprom Neft Science & Technology Center
 venue: arXiv 2019
 
-excerpt: '<span style="background-color: #F00;color: #FFF">Somebody fill this with short description of the project that will appear in the list of publications</span>'
+excerpt: We propose a novel deep learning architecture for three-dimensional porous media reconstruction from two-dimensional slices. Given central slices, we recover the three-dimensional structure around such slices as the most probable one.
 abstract: We propose a novel deep learning architecture for three-dimensional porous media structure reconstruction from two-dimensional slices. A high-level idea is that we fit a distribution on all possible three-dimensional structures of a specific type based on the given dataset of samples. Then, given partial information (central slices) we recover the three-dimensional structure that is built around such slices. Technically, it is implemented as a deep neural network with encoder, generator and discriminator modules. Numerical experiments show that this method gives a good reconstruction in terms of Minkowski functionals.
 
-visual_abstract: '" style="background-color: red" alt="Somebody add visual abstract'
-visual_abstract_description: '<span style="background-color: #F00;color: #FFF">Somebody add visual abstract; Somebody add the description of the picture above</span>'
+visual_abstract: /assets/img/projects/porous_media_from_slices/teaser-pic.jpg
+visual_abstract_description: '<span style="background-color: #F00;color: #FFF">Somebody add the description of the picture above</span>'
 #bibtex: '<span style="background-color: #F00;color: #FFF">Somebody fill this with bibtex when it is published'
 
 materials:
@@ -38,6 +38,5 @@ materials:
       url: https://arxiv.org/pdf/1901.10233.pdf
       icon: fa fa-file-pdf-o
 ---
-<span style="background-color: #F00;color: #FFF">Somebody fill this with project details</span>
 ## Contact
 If you have any questions about this work, please contact us under [adase-3ddl@skoltech.ru](mailto:adase-3ddl@skoltech.ru).
