@@ -17,6 +17,7 @@ affiliation:
   - Skolkovo Institute of Science and Technology, ADASE group
   - Skolkovo Institute of Science and Technology, Aeronet group
 venue: International Symposium on Neural Networks 2019
+to_front: True
 
 excerpt: We propose a simple and efficient method for creating realistic targeted synthetic datasets in the remote sensing domain, leveraging the opportunities offered by game development engines. Our evaluations demonstrate that our pipeline helps to improve the performance and convergence of deep learning models when the amount of real-world data is severely limited.
 abstract: Data-driven methods such as convolutional neural networks (CNNs) are known to deliver state-of-the-art performance on image recognition tasks when the training data are abundant. However, in some instances, such as change detection in remote sensing images, annotated data cannot be obtained in sufficient quantities. In this work, we propose a simple and efficient method for creating realistic targeted synthetic datasets in the remote sensing domain, leveraging the opportunities offered by game development engines. We provide a description of the pipeline for procedural geometry generation and rendering as well as an evaluation of the efficiency of produced datasets in a change detection scenario. Our evaluations demonstrate that our pipeline helps to improve the performance and convergence of deep learning models when the amount of real-world data is severely limited.
