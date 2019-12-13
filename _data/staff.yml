@@ -115,7 +115,6 @@ researchers:
       adase: 3D deep learning team lead
     status: Deep learning for geometric computing
     email: a.artemov@skoltech.ru
-    personal_page: https://www.hse.ru/en/org/persons/200432883
 
   Bobrovskikh Gleb:
     name: Gleb Bobrovskikh
@@ -150,7 +149,7 @@ researchers:
     position: Research Scientist
     team: ???
     team_role: Project Manager / Research Advisor
-    status: '<span style="background-color: #F00;color: #FFF">What currently working on, or research interests</span>'
+    status: Neural architecture search
     email: ilya.trofimov@skoltech.ru
 
 
@@ -402,7 +401,6 @@ _researchers:
       - name: Publications
         url: /staff/researchers/AlexeyArtemov/#pubs
     email: a.artemov@skoltech.ru
-    personal_page: https://www.hse.ru/en/org/persons/200432883
 
   Kondratyeva Ekaterina:
     name: Ekaterina Kondratyeva
