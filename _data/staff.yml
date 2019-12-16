@@ -3,12 +3,14 @@ leadership:
     name: Alexander Bernstein
     photo: /assets/img/staff/BernsteinAlexander.jpg
     category: leadership
-    position: Principal Research Scientist
+    position: Full Professor
+    team: ???
+    team_role: Principal research scientist
+    email: a.bernstein@skoltech.ru
     personal_page: http://faculty.skoltech.ru/people/alexanderbernstein
 
   Burnaev Evgeny:
     name: Evgeny Burnaev
-    regalia: Ph.D
     photo: /assets/img/staff/BurnaevEvgeny.png
     category: leadership
     position: Associate Professor
@@ -23,89 +25,9 @@ leadership:
     personal_page: https://faculty.skoltech.ru/people/evgenyburnaev
 
 
-collaborators:
-  Belomestny Denis:
-    name: Denis Belomestny
-    category: collaborator
-    position: Prof. Duisburg-Essen University
-
-  Gammerman Alex:
-    name: Alex Gammerman
-    category: collaborator
-    position: Doctor, Royal Holloway
-
-  Ignatiev Vladimir:
-    name: Vladimir Ignatiev
-    photo: /assets/img/staff/IgnatievVladimir.jpg
-    category: scientist
-    position: Research Scientist
-    personal_page: /staff/VladimirIgnatiev
-
-  Niessner Matthias:
-    name: Matthias Nießner
-    category: collaborator
-    position: Professor, Technical University of Munich
-
-  Nouretdinov Ilia:
-    name: Ilia Nouretdinov
-    category: collaborator
-    position: Prof. Royal Holloway
-
-  Panov Maxim:
-    name: Maxim Panov
-    category: collaborator
-    position: Research Scientist, CDISE, Skoltech
-
-  Shiryaev Albert:
-    name: Albert Shiryaev
-    category: collaborator
-    position: Prof. Moscow State University
-
-  Solomon Justin:
-    name: Justin Solomon
-    category: collaborator
-    position: Assistant Professor, Massachusetts Institute of Technology
-
-  Spokoiny Vladimir:
-    name: Vladimir Spokoiny
-    category: collaborator
-    position: Prof. Humboldt University
-
-  Sudret Bruno:
-    name: Bruno Sudret
-    category: collaborator
-    position: Prof. ETH Zurich
-
-  Vovk Vladimir:
-    name: Vladimir Vovk
-    category: collaborator
-    position: Prof. Royal Holloway
-
-  Yarotsky Dmitry:
-    name: Dmitry Yarotsky
-    category: collaborator
-    position: Leading Research Scientist, Skoltech
-
-  Zaytsev Alexey:
-    name: Alexey Zaytsev
-    category: collaborator
-    position: Junior Research Scientist, Skoltech
-
-  Zorin Denis:
-    name: Denis Zorin
-    regalia: Ph.D
-    photo: /assets/img/staff/ZorinDenis.jpg
-    category: collaborator
-    position: Professor, New York University
-    team: 3ddl
-    team_role: Expert in 3D geometry
-    personal_page: https://cs.nyu.edu/~dzorin/
-
-
 researchers:
   Artemov Alexey:
     name: Alexey Artemov
-    regalia: Ph.D
     photo: /assets/img/staff/ArtemovAlexey.png
     category: scientist
     position: Research Scientist
@@ -115,7 +37,6 @@ researchers:
       adase: 3D deep learning team lead
     status: Deep learning for geometric computing
     email: a.artemov@skoltech.ru
-    personal_page: https://www.hse.ru/en/org/persons/200432883
 
   Bobrovskikh Gleb:
     name: Gleb Bobrovskikh
@@ -170,13 +91,12 @@ phd_students:
     position: PhD Student
     team: ???
     team_role: Master of probability
-    status: '<span style="background-color: #F00;color: #FFF">What currently working on, or research interests</span>'
+    status: MCMC, Optimizations, Bayesian methods in machine learning
     pages:
       - name: Google Scholar
         url: https://scholar.google.ru/citations?user=LwVVunEAAAAJ
     email: e.egorov@skoltech.ru
     personal_page: https://scholar.google.ru/citations?user=LwVVunEAAAAJ
-
 
   Ignatiev Savva:
     name: Savva Ignatiev
@@ -211,7 +131,7 @@ phd_students:
     position: PhD Student
     team: ???
     team_role: PhD Student
-    status: '<span style="background-color: #F00;color: #FFF">What currently working on, or research interests</span>'
+    status: ML applications for neuroimaging
     pages:
       - name: Google Scholar
         url: https://scholar.google.ru/citations?user=qlmVoMQAAAAJ&hl=ru
@@ -300,12 +220,12 @@ msc_students:
     position: Msc. Student
     team: 3ddl
     team_role: Msc. Student
-    status: 'Sharp features/ joint Samsung project <span style="background-color: #F00;color: #FFF">What is this project about</span>'
+    status: Sharp features, differential rendering & SLAM
     email: maria.kolos@skoltech.ru
 
   Maksimov Ivan:
     name: Ivan Maksimov
-    photo: /assets/img/staff/xzibit.jpg
+    photo: /assets/img/staff/MaksimovIvan.jpg
     position: Msc. Student
     team: ???
     team_role: Msc. Student
@@ -345,8 +265,86 @@ msc_students:
     position: Msc. Student
     team: ???
     team_role: Msc. Student
-    status: '<span style="background-color: #F00;color: #FFF">What currently working on, or research interests</span>'
+    status: Causality for time series data
     email: vladislav.zhuzhel@skoltech.ru
+
+
+collaborators:
+  Belomestny Denis:
+    name: Denis Belomestny
+    category: collaborator
+    position: Prof. Duisburg-Essen University
+
+  Gammerman Alex:
+    name: Alex Gammerman
+    category: collaborator
+    position: Doctor, Royal Holloway
+
+  Ignatiev Vladimir:
+    name: Vladimir Ignatiev
+    photo: /assets/img/staff/IgnatievVladimir.jpg
+    category: scientist
+    position: Research Scientist
+    personal_page: /staff/VladimirIgnatiev
+
+  Niessner Matthias:
+    name: Matthias Nießner
+    category: collaborator
+    position: Professor, Technical University of Munich
+
+  Nouretdinov Ilia:
+    name: Ilia Nouretdinov
+    category: collaborator
+    position: Prof. Royal Holloway
+
+  Panov Maxim:
+    name: Maxim Panov
+    category: collaborator
+    position: Research Scientist, CDISE, Skoltech
+
+  Shiryaev Albert:
+    name: Albert Shiryaev
+    category: collaborator
+    position: Prof. Moscow State University
+
+  Solomon Justin:
+    name: Justin Solomon
+    category: collaborator
+    position: Assistant Professor, Massachusetts Institute of Technology
+
+  Spokoiny Vladimir:
+    name: Vladimir Spokoiny
+    category: collaborator
+    position: Prof. Humboldt University
+
+  Sudret Bruno:
+    name: Bruno Sudret
+    category: collaborator
+    position: Prof. ETH Zurich
+
+  Vovk Vladimir:
+    name: Vladimir Vovk
+    category: collaborator
+    position: Prof. Royal Holloway
+
+  Yarotsky Dmitry:
+    name: Dmitry Yarotsky
+    category: collaborator
+    position: Leading Research Scientist, Skoltech
+
+  Zaytsev Alexey:
+    name: Alexey Zaytsev
+    category: collaborator
+    position: Junior Research Scientist, Skoltech
+
+  Zorin Denis:
+    name: Denis Zorin
+    photo: /assets/img/staff/ZorinDenis.jpg
+    category: collaborator
+    position: Professor, New York University
+    team: 3ddl
+    team_role: Expert in 3D geometry
+    personal_page: https://cs.nyu.edu/~dzorin/
 
 
 alumni:
@@ -379,13 +377,12 @@ alumni:
     name: Alexey Ryabykh
     category: alumnus
     position: Msc. Student
-    where_is_now: now X at Y
+    where_is_now: '<span style="background-color: #F00;color: #FFF">now X at Y</span>'
 
 
 _researchers:
   Artemov Alexey:
     name: Alexey Artemov
-    regalia: Ph.D
     photo: /assets/img/staff/aa.png
     category: scientist
     position: Research Scientist
@@ -402,7 +399,6 @@ _researchers:
       - name: Publications
         url: /staff/researchers/AlexeyArtemov/#pubs
     email: a.artemov@skoltech.ru
-    personal_page: https://www.hse.ru/en/org/persons/200432883
 
   Kondratyeva Ekaterina:
     name: Ekaterina Kondratyeva
@@ -486,7 +482,6 @@ _phd_students:
     team_role: PhD student
     status: Learnable processing of geometric features
     email: a.b@c.ru
-    personal_page: https://faculty.skoltech.ru/people/albertmatveev
 
   Nazarov Ivan:
     name: Ivan Nazarov
