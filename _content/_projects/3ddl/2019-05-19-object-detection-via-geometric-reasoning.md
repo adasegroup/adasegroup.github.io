@@ -23,7 +23,7 @@ abstract: Monocular 3D object detection is well-known to be a challenging vision
 
 thumbnail: /assets/img/projects/od_via_geom_reasoning/thumbnail.jpg
 visual_abstract: /assets/img/projects/od_via_geom_reasoning/teaser-pic.jpg
-visual_abstract_description: '<span style="background-color: #F00;color: #FFF">Somebody fill this with description of the figure above</span>'
+visual_abstract_description: 'Geometric reasoning about instance depth. We use camera intrinsic parameters, predicted 2D keypoints and dimension predictions to ”lift” the keypoints to 3D space.'
 #bibtex: '<span style="background-color: #F00;color: #FFF">Somebody fill this with bibtex when it is published'
 
 materials:

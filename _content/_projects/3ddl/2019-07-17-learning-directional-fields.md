@@ -20,7 +20,7 @@ abstract: Reconstruction of directional fields is a need in many geometry proces
 
 thumbnail: /assets/img/projects/learning_directional_fields/thumbnail.jpg
 visual_abstract: /assets/img/projects/learning_directional_fields/teaser-pic.jpg
-visual_abstract_description: '<span style="background-color: #F00;color: #FFF">Somebody add the description of the picture above</span>'
+visual_abstract_description: 'Examples of rasterized vector primitives with accompanying discretized ground-truth 2-PolyVector field derived according to our scheme'
 bibtex: "\
 @inproceedings{inproceedings,
 author = {Taktasheva, Maria and Matveev, Albert and Artemov, Alexey and Burnaev, Evgeny},

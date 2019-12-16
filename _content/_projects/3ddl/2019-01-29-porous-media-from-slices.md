@@ -31,7 +31,7 @@ abstract: We propose a novel deep learning architecture for three-dimensional po
 
 thumbnail: /assets/img/projects/porous_media_from_slices/thumbnail.jpg
 visual_abstract: /assets/img/projects/porous_media_from_slices/teaser-pic.jpg
-visual_abstract_description: '<span style="background-color: #F00;color: #FFF">Somebody add the description of the picture above</span>'
+visual_abstract_description: 'Generated 3D samples of three different types: Berea, Ketton, South-Russian sandstone'
 #bibtex: '<span style="background-color: #F00;color: #FFF">Somebody fill this with bibtex when it is published'
 
 materials:

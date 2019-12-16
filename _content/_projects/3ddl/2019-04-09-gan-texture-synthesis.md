@@ -30,7 +30,7 @@ abstract: We propose a novel multi-texture synthesis model based on generative a
 
 thumbnail: /assets/img/projects/gan_texture_synth/thumbnail.jpg
 visual_abstract: /assets/img/projects/gan_texture_synth/teaser-pic.jpg
-visual_abstract_description: '<span style="background-color: #F00;color: #FFF">Somebody add the description of the picture above</span>'
+visual_abstract_description: 'One can take 1) New Guinea 3264 × 4928 landscape photo, learn 2) a manifold of 2D texture embeddings for this photo, visualize 3) texture map for the image and perform 4) texture detection for a patch using distances between learned embeddings'
 #bibtex: '<span style="background-color: #F00;color: #FFF">Somebody fill this with bibtex when it is published'
 
 materials:

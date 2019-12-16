@@ -20,7 +20,7 @@ abstract: In response to the growing importance of geospatial data, its analysis
 
 thumbnail: /assets/img/projects/boundary_loss/thumbnail.jpg
 visual_abstract: /assets/img/projects/boundary_loss/teaser-pic.jpg
-visual_abstract_description: '<span style="background-color: #F00;color: #FFF">Somebody fill this with description of the figure above</span>'
+visual_abstract_description: '(a) original orthophoto; (b) ground truth segment (gt); (c) predicted segment (pred); (d) boundary of gt; (e) boundary of pred; (f) expanded boundary of gt; (g) expanded boundary of pred; (h) pixel-wise multiplication of masks (d) and (g); (i) pixel-wise multiplication of masks (e) and (f)'
 bibtex: "\
 @inproceedings{bokhovkin2019boundary,
   title={Boundary Loss for Remote Sensing Imagery Semantic Segmentation},
