@@ -9,7 +9,7 @@ We develop deep network architectures that operate on 3D geometric data such as 
 
 <div class="buttons-container-wrapper">
     <div class="buttons-container">
-        <a class="threeddl-more flat-button" href="/3ddl/">More about our 3DDL research</a>
+        <a class="threeddl-more flat-button" href="/3ddl/publications/">More about our 3DDL research</a>
     </div>
 </div>
 {{--}}
