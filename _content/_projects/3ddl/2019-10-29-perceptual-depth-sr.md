@@ -49,6 +49,5 @@ materials:
       url: https://github.com/voyleg/perceptual-depth-sr
       icon: fa fa-github-alt
 ---
-<span style="background-color: #F00;color: #FFF">Oleg Voynov fill this with project details</span>
 ## Contact
 If you have any questions about this work, please contact us under [adase-3ddl@skoltech.ru](mailto:adase-3ddl@skoltech.ru).
