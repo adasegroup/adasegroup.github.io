@@ -1,164 +1,19 @@
 ---
 layout: page
 title: Staff
-permalink: /staff/
+team: adase
 ---
+{%- assign staff_group = site.data.staff.collaborators | where: 'name', nil | push: site.data.staff.leadership['Burnaev Evgeny'] | push: site.data.staff.leadership['Bernstein Alexander'] %}
+{% include _content/staff/staff_grid.html staff=staff_group %}
 
-<div class="staff-details">
+## Post-docs & Research staff
+{%- assign staff_group = site.data.staff.researchers | where_exp: 'item', 'item.name' | sort_natural: 'name' %}
+{% include _content/staff/staff_grid.html staff=staff_group %}
 
-{% if site.staff %}
-    <div class = "user">
-    {% assign staff = site.staff | sort: 'title' %}
-        {% for item in staff %}
-          {% if item.category == 'leadership' %}
-          <div class="staff-profile">
-            <h4>{{ item.position }}</h4>
-              {% if item.picture %}
-                <img src="{{ item.picture | prepend: site.baseurl }}" alt="{{ item.title }}" class="no-print" itemprop="image">
-              {% else %}
-                <img src="/assets/img/logo_square_transparent.png" alt="{{ item.title }}" class="no-print" itemprop="image">
-              {% endif %}
-              {% if item.inline %}
-                <h4>{{ item.title }}</h4>
-              {% else if item.customurl %} 
-                <h4><a class="news-title" href="{{ item.customurl }}">{{ item.title }}</a></h4>
-              {% else %}
-                <h4><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
-              {% endif %}          
-          </div>
-          {% endif %}
-          
-        {% endfor %}
-{% else %}
-  <p>No staff...</p>
-  </div>
-{% endif %}
-</div>
+## PhD students
+{%- assign staff_group = site.data.staff.phd_students | where_exp: 'item', 'item.name' | sort_natural: 'name' %}
+{% include _content/staff/staff_grid.html staff=staff_group %}
 
-<div class="staff-details">
-{% if site.staff %}
-    <div class = "user">
-    {% assign staff = site.staff | sort: 'title' %}
-        {% for item in staff %}
-          {% if item.category == 'scientist' %}
-          <div class="staff-profile">
-            <h4>{{ item.position }}</h4>
-              {% if item.picture %}
-                <img src="{{ item.picture | prepend: site.baseurl }}" alt="{{ item.title }}" class="no-print" itemprop="image">
-              {% else %}
-                <img src="/assets/img/logo_square_transparent.png" alt="{{ item.title }}" class="no-print" itemprop="image">
-              {% endif %}
-              {% if item.inline %}
-                <h4>{{ item.title }}</h4>
-              {% else if item.customurl %} 
-                <h4><a class="news-title" href="{{ item.customurl }}">{{ item.title }}</a></h4>
-              {% else %}
-                <h4><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
-              {% endif %}          
-          </div>
-          {% endif %}
-          
-        {% endfor %}
-{% else %}
-  <p>No staff...</p>
-  </div>
-{% endif %}
-</div>
-
-
-{% if site.staff %}
-<div class="staff-details">
-{% assign staff = site.staff | sort: 'title' %}
-{% for item in staff %}
-{% if item.category == 'student' and item.picture %}
-<div class="staff-profile">
-<h4>{{ item.position }}</h4>
-{% if item.picture %}
-<img src="{{ item.picture | prepend: site.baseurl }}" alt="{{ item.title }}" class="no-print" itemprop="image">
-{% else %}
-<img src="/assets/img/logo_square_transparent.png" alt="{{ item.title }}" class="no-print" itemprop="image">
-{% endif %}
-{% if item.inline %}
-<h4>{{ item.title }}</h4>
-{% else if item.customurl %} 
-<h4><a class="news-title" href="{{ item.customurl }}">{{ item.title }}</a></h4>
-{% else %}
-<h4><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
-{% endif %}
-</div>
-{% endif %}
-{% endfor %}
-{% else %}
-<p>No staff...</p>
-</div>
-{% endif %}
-
-
-{% if site.staff %}
-<div class="staff-details">
-<h1>Students</h1>
-{% assign staff = site.staff | sort: 'title' %}
-<ul>
-{% for item in staff %}
-{% if item.category != 'collaborator' and item.picture == false %}
-{% if item.inline %}
-<li>{{ item.title }} - {{ item.position }}</li>
-{% else if item.customurl %} 
-<h4><a class="news-title" href="{{ item.customurl }}">{{ item.title }}</a></h4>
-{% else %}
-<li><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }} - {{ item.position }}</a></li>
-{% endif %}
-{% endif %}
-{% endfor %}
-</ul>
-{% else %}
-<p>No staff...</p>
-</div>
-{% endif %}
-
-
-
-
-{% if site.staff %}
-<div class="staff-details">
-<h1>Collaborators</h1>
-{% assign staff = site.staff | sort: 'title' %}
-<ul>
-{% for item in staff %}
-{% if item.category == 'collaborator' %}
-{% if item.inline %}
-<li>{{ item.title }} - {{ item.position }}</li>
-{% else if item.customurl %} 
-                <h4><a class="news-title" href="{{ item.customurl }}">{{ item.title }}</a></h4>
-{% else %}
-<li><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }} - {{ item.position }}</a></li>
-{% endif %}
-{% endif %}
-{% endfor %}
-</ul>
-{% else %}
-<p>No staff...</p>
-</div>
-{% endif %}
-
-{% if site.staff %}
-<div class="staff-details">
-<h1>Alumni</h1>
-{% assign staff = site.staff | sort: 'title' %}
-<ul>
-{% for item in staff %}
-{% if item.category == 'alumnus' %}
-{% if item.inline %}
-<li>{{ item.title }} - {{ item.position }}</li>
-{% else if item.customurl %} 
-<h4><a class="news-title" href="{{ item.customurl }}">{{ item.title }}</a></h4>
-{% else %}
-<li><a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }} - {{ item.position }}</a></li>
-{% endif %}
-{% endif %}
-{% endfor %}
-</ul>
-{% else %}
-<p>No staff...</p>
-</div>
-{% endif %}
+## MSc and BSc students
+{%- assign staff_group = site.data.staff.msc_students | where_exp: 'item', 'item.name' | sort_natural: 'name' %}
+{% include _content/staff/staff_grid.html staff=staff_group %}

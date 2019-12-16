@@ -1,0 +1,63 @@
+$fancy-announcement-max-height: 700
+$fancy-announcement-font-size: $fancy-announcement-max-height / 35
+$fancy-announcement-image-aspect: $inversed-golden-ratio
+
+
+.fancy-announcement-plate
+  position: relative
+
+  .img-container-wrapper
+    background-color: $theme-accent-color
+    background-repeat: no-repeat
+    background-size: cover
+    background-position: center top
+    max-height: #{$fancy-announcement-max-height}px
+
+    .img-container
+      visibility: hidden
+      z-index: -999
+
+  .data-wrapper
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    display: flex
+    flex-direction: column
+
+  .centered-section
+    margin-top: auto
+    margin-bottom: auto
+
+  .data
+    color: white
+    text-shadow: 1px 1px rgba(0, 0, 0, .6)
+    font-size: #{$fancy-announcement-font-size}px
+    +media_max(#{$fancy-announcement-max-height / $fancy-announcement-image-aspect}px)
+      font-size: ( $fancy-announcement-font-size * $fancy-announcement-image-aspect / $fancy-announcement-max-height ) * 100vw
+
+    .fancy-announcement-title
+      font-weight: bold
+      font-size: 3.5em
+
+      h4
+        margin: 0
+
+    =min-font-size
+      +media_max(#{$fancy-announcement-max-height / ($fancy-announcement-font-size * $fancy-announcement-image-aspect) * .75 * $base-font-size})
+         @content
+
+    .fancy-announcement-excerpt
+      +min-font-size
+        font-size: .75 * $base-font-size
+
+    .fancy-announcement-more
+      display: block
+      margin-top: 1em
+      font-size: 1.5em
+      +min-font-size
+        font-size: 1.5 * .75 * $base-font-size
+
+      a
+        color: inherit

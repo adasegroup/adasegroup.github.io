@@ -1,0 +1,77 @@
+$page-link-margin: 1em
+
+
+#page-header-wrapper
+  position: fixed // IE
+  position: -webkit-sticky // Safari
+  position: sticky
+  top: 0
+  width: 100%
+  z-index: 3
+  background-color: $background-color
+  color: $text-on-bg-color
+  border-bottom: 1px solid rgba($text-on-bg-color, .1)
+
+
+#page-header
+  padding-top: .5em
+  padding-bottom: .5em
+  display: flex
+
+  a, a:active, a:hover, a:visited
+    color: $text-on-bg-color
+
+    &.active-navigation
+      color: $theme-color
+
+  .site-title
+    white-space: nowrap
+    font-size: 1.5rem
+    margin: auto auto auto 0
+    letter-spacing: -1px
+
+    a, a:active, a:hover, a:visited
+      text-decoration: none
+
+    a.site-title-team
+      &, &:active, &:hover, &:visited
+        color: $theme-color
+
+  .site-nav
+    font-size: .75em
+    font-weight: bold
+    line-height: 2
+    margin: auto 0 auto $page-link-margin
+
+    .menu
+      margin: 0 (-$page-link-margin/2)
+      padding: 0
+      display: flex
+      flex-wrap: wrap
+      justify-content: flex-end
+
+      > li
+        display: inline-block
+        margin: 0 $page-link-margin/2
+        text-transform: uppercase
+
+
++on-smartphone
+  #page-header-wrapper
+    position: static
+
+
+#front-page-container
+  #full-body-wrapper
+    padding-top: 100vh
+
+  #page-header
+    padding-top: .5em
+
+  #page-header-wrapper
+    transition: opacity .2s ease-in-out, visibility .2s ease-in-out
+
+
+  +on-smartphone
+    #page-header-wrapper
+      display: none

@@ -1,0 +1,64 @@
+$visual-abstract-height: 30rem
+
+.project-page
+  text-align: justify
+
+  #project-title, #authors, #affiliations, #venue
+    text-align: center
+
+#project-header
+  #authors
+    .author
+      display: inline-block
+      margin: 0 1em
+
+      .author-affiliation
+        vertical-align: super
+        font-size: small
+
+  #affiliations
+    .affiliation
+      display: inline-block
+      margin: 0 1em
+
+      .affiliation-id
+        vertical-align: super
+        font-size: small
+
+  #visual-abstract
+    #visual-abstract-container
+      max-height: $visual-abstract-height
+      #visual-abstract-img
+        width: 100%
+        max-height: inherit
+        object-fit: contain
+        border: none
+
+#project-excerpt
+  display: flex
+
+  #materials
+    flex: 1 0 25%
+
+    i.fa, i.fas
+      margin-right: .3em
+
+  #abstract
+    flex: 3 1 75%
+
+#project-excerpt-container
+  overflow-x: hidden
+
+  #project-excerpt
+    margin-right: -2em
+
+    #abstract, #materials
+      margin-right: 2em
+
++on-portrait-tablet
+  #project-excerpt
+    flex-wrap: wrap
+
++on-smartphone
+  #project-excerpt
+    flex-wrap: wrap

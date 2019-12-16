@@ -2,6 +2,8 @@ var gulp = require('gulp');
 var csso = require('gulp-csso');
 var uglify = require('gulp-uglify');
 var concat = require('gulp-concat');
+var path = require('path');
+var folders = require('gulp-folders');
 var sass = require('gulp-sass');
 var plumber = require('gulp-plumber');
 var cp = require('child_process');
@@ -33,7 +35,10 @@ gulp.task('browser-sync', ['jekyll-build'], function() {
 	browserSync({
 		server: {
 			baseDir: '_site'
-		}
+		},
+		port: 2000,
+        open: false,
+		ghostMode: false
 	});
 });
 
@@ -55,7 +60,7 @@ gulp.task('fonts', function() {
 	gulp.src('src/fonts/**/*.{ttf,woff,woff2}')
 	.pipe(plumber())
 	.pipe(gulp.dest('assets/fonts/'));
-})
+});
 
 /*
  * Minify images
@@ -70,20 +75,28 @@ gulp.task('imagemin', function() {
 /**
  * Compile and minify js
  */
-gulp.task('js', function(){
-	return gulp.src('src/js/**/*.js')
+// gulp.task('js', function(){
+// 	return gulp.src('src/js/**/*.js')
+// 		.pipe(plumber())
+// 		.pipe(concat('main.js'))
+// 		.pipe(uglify())
+// 		.pipe(gulp.dest('assets/js/'))
+// });
+
+gulp.task('js', folders('src/js', function(folder){
+    return gulp.src(path.join('src/js', folder, '**/*.js'))
 		.pipe(plumber())
-		.pipe(concat('main.js'))
+        .pipe(concat(folder + '.js'))
 		.pipe(uglify())
-		.pipe(gulp.dest('assets/js/'))
-});
+        .pipe(gulp.dest('assets/js/'));
+}));
 
 gulp.task('watch', function() {
-  gulp.watch('src/styles/**/*.scss', ['sass', 'jekyll-rebuild']);
-  gulp.watch('src/js/**/*.js', ['js']);
+  gulp.watch(['*.{html,md}', '{3ddl,_content,_includes,_layouts}/**/*.{md,html}', '_data/**/*.yml'], ['jekyll-rebuild']);
+  gulp.watch('src/**/*.s{a,c}ss', ['sass', 'jekyll-rebuild']);
+  gulp.watch('src/js/**/*.js', ['js', 'jekyll-rebuild']);
   gulp.watch('src/fonts/**/*.{tff,woff,woff2}', ['fonts']);
   gulp.watch('src/img/**/*.{jpg,png,gif}', ['imagemin']);
-  gulp.watch(['*html', '_includes/*html', '_layouts/*.html'], ['jekyll-rebuild']);
 });
 
-gulp.task('default', ['js', 'sass', 'fonts', 'browser-sync', 'watch']);
+gulp.task('default', ['js', 'sass', 'fonts', 'imagemin', 'browser-sync', 'watch']);

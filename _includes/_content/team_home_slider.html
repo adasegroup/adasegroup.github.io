@@ -1,0 +1,10 @@
+<div class="team-home-slider-container">
+    <div class="fancy-slider">
+        {%- for item in include.announcements %}
+        <div class="slide-wrapper">
+            {%- include _content/plates/fancy_announcement_plate.html plate_data=item %}
+        </div>
+        {%- endfor %}
+    </div>
+</div>
+{{--}}

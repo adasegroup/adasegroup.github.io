@@ -1,0 +1,7 @@
+{% assign author_names = '' %}
+{% for author in include.authors %}
+    {% assign full_name = author.name | default: author %}
+    {% assign last_name = full_name | split: ' ' | last %}
+    {% assign author_names = author_names | append: ', ' | append: last_name %}
+{% endfor %}
+{{ author_names | slice: 2, 999 }}

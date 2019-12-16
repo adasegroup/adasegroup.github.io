@@ -1,0 +1,28 @@
+{%- assign project = include.project -%}
+{%- if project.authors[0].name -%}
+{%- assign authors = project.authors |map: 'name' |join: ', ' -%}
+{%- else -%}
+{%- assign authors = project.authors |join: ', ' -%}
+{%- endif -%}
+
+<div class="project-short">
+    <div class="data">
+        <div class="project-title">
+            {%- if project.url %}
+            <a href="{{project.url}}"><h4>{{project.title}}</h4></a>
+            {%- else %}
+            <h4>{{project.title}}</h4>
+            {%- endif %}
+        </div>
+        <div class="project-authors">
+            {{authors}}
+        </div>
+        <div class="project-venue">{{project.venue}}</div>
+        {%- if project.materials or project.bibtex %}
+        <div class="project-materials">
+            {%- include _content/projects/project_materials.html link_html='_global/page_link_small.html' project=project %}
+        </div>
+        {%- endif %}
+    </div>
+</div>
+{{--}}
