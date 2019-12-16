@@ -1,0 +1,35 @@
+<div class="user-projects">
+  <div class="contents-right">
+   <h1> {{site.news_title}} </h1>
+    {% if site.news  %}
+    <table>
+      {% for item in site.news reversed limit: site.news_limit %}
+    
+      <tr>
+        <td class="date">{{ item.date | date: "%b %-d, %Y" }}</td>
+        <td class="announcement">
+          {% if item.inline %}
+            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+          {% else %}
+            <a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+          {% endif %}
+        </td>
+      </tr>
+    {% endfor %}
+    </table>
+  {% else %}
+    <p>No news so far...</p>
+  {% endif %}
+  </div>
+  <div class="contents">
+    <h1>{{site.about_title}}  </h1>
+      <p>The Advanced Data Analytics in Science and Engineering Group is a research organisation focused on the development of novel machine learning methods with industrial applications based at the Skolkovo Institute of Science and Technology (Skoltech). 
+  The group is conformed by a research team consisting of academic experts, doctoral students and developers.</p>
+  <h3>In a nutshell, we are</h3>
+  <p>Developing novel predictive modeling & engineering optimization approaches<br/>
+    Applying new advanced ML methods to industrial applications<br/>
+    Collaborating closely with the industry
+  </p>
+
+  </div>
+</div>

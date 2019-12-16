@@ -32,6 +32,6 @@ Add a new post by:
 - Find your respective section (Msc or PhD)
 - Edit a file '*.md' with your name using markup
 - Upload your picture with the same name as the '*.md' file
-- In your .md file add the path to your image on the 'photo field', for example: photo: /staff/phd-students/AlbertMatveyev.jpg
+- In your .md file add the path to your image on the 'picture field', for example: picture: /staff/phd-students/AlbertMatveyev.jpg
 - If you will have a profile page, change 'inline' to false
 

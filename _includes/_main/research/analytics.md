@@ -1,3 +1,0 @@
-## Deep Learning for Predictive analytics
-{:#analytics-team .anchor}
-Coming soon...

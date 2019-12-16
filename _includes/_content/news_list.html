@@ -1,9 +1,0 @@
-<div class="news-list-container">
-    {%- for item in include.news %}
-		<a href="{{item.url}}" class="news-item">
-			<h4 class='content'>{{item.title}}</h4>
-			<span class="date">{{item.date | date: '%e %B %Y'}}</span>
-		</a>
-    {%- endfor %}
-</div>
-{{--}}

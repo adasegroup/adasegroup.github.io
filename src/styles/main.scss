@@ -2,41 +2,27 @@
 @import "lib/fontawesome";
 @import "lib/devicon";
 
-@import '_global/_variables/sizes';
-@import '_global/_variables/colors';
-@import '_global/_variables/fonts';
-
-@import '_global/anchors';
 @import '_global/vars';
 @import '_global/variables';
-@import '_global/mixins';
 @import '_global/base';
-@import '_global/interactive_elements';
-@import '_global/filtering';
-@import '_global/page_link_short';
-@import '_global/img';
 @import '_global/animation';
+@import '_global/mixins';
 @import '_global/header';
 @import '_global/footer';
-@import '_global/wip';
-@import '_content/containers';
-@import '_content/slider';
-@import '_content/plates/fancy_announcement_plate';
-@import '_content/plates/news_plate';
-@import '_content/plates/project_plate';
-@import '_content/staff/staff_excerpt';
-@import '_content/staff/staff_grid';
-@import '_content/news_list';
 
-@import '_main/front_page';
-@import '_main/front_page_header';
+@import '_main/about';
 @import '_main/profile';
-@import '_main/team_home';
+@import '_main/staff';
+@import '_main/research';
 @import '_main/projects';
-@import '_content/projects/project_page';
-@import '_content/projects/project_excerpt';
-@import '_content/projects/project_list';
-@import '_content/projects/project_short';
+@import '_main/news';
 
 @import '_content/clearfix';
 @import '_content/layout';
+@import '_content/header';
+@import '_content/pages';
+
+
+
+//@import 'resume';
+

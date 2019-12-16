@@ -1,0 +1,154 @@
+
+/**
+ * Page content
+ */
+.content-layout{
+
+
+.content-layout-left {
+  @media only screen and (min-width: $cut) {
+    float: left;
+    margin-left: 0;
+    width: 70%;
+  }
+}
+
+.content-layout-right {
+  @media only screen and (min-width: $cut) {
+    float: right;
+    width: 26%;
+  }
+  
+  table {
+        margin: auto;
+        border-collapse: collapse;
+        width: 100%;
+
+        .date { width: 15%; }
+        .announcement { width: 81%; }
+
+        tr { text-align: justify; }
+        td {
+            padding: 6px 0;
+            vertical-align: top;
+            border-bottom: 1px solid black;
+        }
+    }
+}
+    
+
+
+.page-content {
+    padding: 0;
+}
+
+.page-heading {
+    font-size: 20px;
+}
+
+.post-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}
+
+.post-meta {
+    font-size: $small-font-size;
+    color: $grey-color;
+}
+
+.post-link {
+    display: block;
+    font-size: 24px;
+}
+
+
+
+/**
+ * Posts
+ */
+.post-header {
+    margin-bottom: $spacing-unit;
+}
+
+h1 /* .post-title */ {
+/*    font-size: 42px; */
+    letter-spacing: -1px;
+    line-height: 1;
+		font-family: 'Montserrat', sans-serif;
+		/*color: #522d80;*/
+
+    @include media-query($on-laptop) {
+/*        font-size: 36px; */
+    }
+}
+
+.post-content {
+    margin-bottom: $spacing-unit;
+
+    h2 {
+		font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+/*        font-size: 32px; */
+
+        @include media-query($on-laptop) {
+/*            font-size: 28px; */
+        }
+    }
+
+    h3 {
+		font-style: italic;
+/*        font-size: 26px; */
+
+        @include media-query($on-laptop) {
+/*            font-size: 22px; */
+        }
+    }
+
+    h4 {
+/*       font-size: 20px; */
+
+        @include media-query($on-laptop) {
+/*            font-size: 18px; */
+        }
+    }
+}
+
+						.footnotes ol li {list-style-type:decimal;}
+						.footnotes ol {font-size:.85em; color:#666666;}	
+	
+html {
+  overflow-y: scroll;
+}
+
+ul.listing {
+	list-style-type: none;
+	margin-left: 0px;
+}
+
+ul.listing li.listing-seperator {
+	padding-top: 15px;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.17em;
+}
+
+ul.listing li.listing-item time {
+
+	color: #555;
+	font-weight: 500;
+	text-transform: uppercase;
+	padding-right: 10px;
+}
+
+ul.listing li.listing-item a {
+	color: #555;
+	font-weight: 400;
+	font-family: 'Montserrat', sans-serif;
+}
+
+}
+

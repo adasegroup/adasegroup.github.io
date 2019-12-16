@@ -4,6 +4,7 @@ description: >
   The Advanced Data Analytics in Science and Engineering Group is a research
   organisation focused on the development of novel machine learning methods
   with industrial applications based at the Skolkovo Institute of Science and Technology (Skoltech)
+user_title: Advanced Data Analytics in Science and Engineering Group at Skoltech, Moscow, Russia
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -13,14 +14,19 @@ username_full: Advanced Data Analytics in Science and Engineering Group
 user_title: Skoltech, Moscow, Russia
 email: adase@skoltech.ru
 twitter_username: adase
-github_username: adasegroup
+github_username:  adasegroup
 
 # Google-analytics
-#google-analytics:
-#  id: ""
+google-analytics:
+  id: ""
 
-exclude: ['package.json', 'gulpfile.js', 'src' , 'node_modules', 'others',
-          'Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', 'CNAME']
+exclude: ['package.json', 'src' , 'node_modules', 'others',
+  'Gemfile',
+  'Gemfile.lock',
+  'LICENSE',
+  'README.md',
+  'CNAME'
+]
 
 about_title: ADASE
 news_title: News
@@ -32,7 +38,7 @@ staff_title: Staff
 publications_title: Publications
 contact_title: Contact
 
-
+repository: adasegroup/adasegroup.github.io
 
 block1_title: Modelling of surrogates
 block2_title: Processing of 3D data
@@ -94,6 +100,7 @@ disqus_shortname: adase # put your disqus shortname
 
 # Optional features
 show_social_icons:  false
+enable_anchorjs:    false
 enable_katex:       true
 
 # -----------------------------------------------------------------------------
@@ -111,19 +118,19 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:path/
-  openings:
-    output: true
-    permalink: /:categories/:collection/:title/
   projects:
     output: true
-    permalink: /:categories/:collection/:title/
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
   research-topics:
     output: true
     permalink: /:collection/:path/
   staff:
     output: true
-    permalink: /:collection/:title/
-
+    permalink: /:collection/:path/
+    
 news_limit: 10
 lectures_limit: 100
 
@@ -141,7 +148,6 @@ highlighter: rouge
 
 kramdown:
   input: GFM
-  auto_ids: false
 
 # Includes
 include: ['_pages']
@@ -167,7 +173,7 @@ plugins:
 #  order: descending
 
 #  source: /_bibliography/
-#  bibliography: projects.bib
+#  bibliography: papers.bib
 #  bibliography_template: bib
 
 #  replace_strings: true
@@ -182,9 +188,8 @@ plugins:
 # -----------------------------------------------------------------------------
 # Other settings
 # -----------------------------------------------------------------------------
-lib_versions:
-  jquery: 3.4.1
-  katex: 0.7.1
-  sweet_scroll: 4.0.0
-  slick: 1.8.1
-  clipboard: 2.0.4
+jquery_version: "1.12.4"
+katex_version: "0.7.1"
+anchorjs_version: "3.2.2"
+
+

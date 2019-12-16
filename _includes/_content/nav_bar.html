@@ -1,13 +1,11 @@
+
+            
 <ul class="menu">
-    {%- for page in include.menu %}
+    {% for steve in include.menu %}
     <li>
-        {%- assign first_href_symbol = page.href | slice: 0 -%}
-        {%- if first_href_symbol == '#' %}
-        <a href="{{page.href}}" class="page-link" data-scroll>{{page.title}}</a>
-        {%- else %}
-        <a href="{{page.href}}" class="page-link">{{page.title}}</a>
-        {%- endif %}
+        <a href="{{ steve.href }}" class="page-link">{{ steve.title }}</a>
+        {% if steve.subcategories.size > 0 %}{% include _content/nav_bar.html menu=steve.subcategories %}{% endif %}
+    
     </li>
-    {%- endfor %}
+    {% endfor %}
 </ul>
-{{--}}

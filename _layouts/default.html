@@ -1,8 +1,14 @@
----
-layout: default_wrapper
----
-<div id="wrapper">
-    <div class="content-layout">
-        {{ content -}}
-    </div>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+  {% include _global/head.html %}
+  <body>
+      {% include _global/header.html %}
+      <section id="about">
+        {% include _main/about.html %}
+      </section>
+      
+      
+  
+        {{ content }}
+      {% include _global/footer.html %}
+  </body>

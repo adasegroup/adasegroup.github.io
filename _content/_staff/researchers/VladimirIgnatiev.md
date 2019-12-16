@@ -1,8 +1,13 @@
 ---
 layout: page
-title: Vladimir Ignatiev
+title: Ignatiev Vladimir
+inline: false
+category: scientist
+position: Research Scientist
+picture: /assets/img/staff/vi.png
 ---
-![](/assets/img/staff/IgnatievVladimir.jpg)
+
+![](/staff/researchers/VladimirIgnatiev.bmp)
 
 ## Research scientist
 

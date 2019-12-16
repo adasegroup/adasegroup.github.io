@@ -1,7 +1,0 @@
-{%- assign containers = site.data | where: 'nil', nil %}
-{%- for item in include.projects %}
-{%- capture new_container %}
-{%- include _content/plates/project_plate.html plate_data=item %}
-{%- endcapture %}
-{%- assign containers = containers | push: new_container %}
-{%- endfor %}
