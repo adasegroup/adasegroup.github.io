@@ -1,6 +1,6 @@
 <h2 id="news" class="anchor">News</h2>
 {%- assign news = site.data.adase.news | concat: site.data.3ddl.news | concat: site.news | where_exp: 'item', 'item.superseded != true' | sort: 'date' | reverse %}
-{%- assign containers = site.data | where: 'nil', nil %}
+{%- assign containers = site.data | where_exp: 'data', 'data.nil' %}
 {%- for news_item in news %}
 {%- capture new_container %}
 {%- include _content/plates/news_plate.html plate_data=news_item %}
