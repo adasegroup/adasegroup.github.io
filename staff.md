@@ -3,7 +3,7 @@ layout: page
 title: Staff
 team: adase
 ---
-{%- assign staff_group = site.data.staff.collaborators | where: 'name', nil | push: site.data.staff.leadership['Burnaev Evgeny'] | push: site.data.staff.leadership['Bernstein Alexander'] %}
+{%- assign staff_group = site.data.staff.leadership | where_exp: 'person', 'person.nil' | push: site.data.staff.leadership['Burnaev Evgeny'] | push: site.data.staff.leadership['Bernstein Alexander'] %}
 {% include _content/staff/staff_grid.html staff=staff_group %}
 
 ## Post-docs & Research staff
