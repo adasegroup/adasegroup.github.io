@@ -232,6 +232,22 @@ msc_students:
     status: Graph neural networks for recommender systems
     email: Ivan.Maksimov@skoltech.ru
 
+  Pilyugina Polina:
+    name: Polina Pilyugina
+    photo: /assets/img/staff/PilyuginaPolina.jpg
+    position: Msc. Student
+    team_role: Msc. Student
+    status: Topological data analysis for time series clustering and classification
+    email: polina.pilyugina@skoltech.ru
+
+  Pletnev Aleksandr:
+    name: Aleksandr Pletnev
+    photo: /assets/img/staff/PletnevAleksandr.jpg
+    position: Msc. Student
+    team_role: Msc. Student
+    status: Graph neural network for model recommendation using time series data
+    email: aleksandr.pletnev@skoltech.ru
+
   Rakhimov Ruslan:
     name: Ruslan Rakhimov
     photo: /assets/img/staff/RakhimovRuslan.jpg
