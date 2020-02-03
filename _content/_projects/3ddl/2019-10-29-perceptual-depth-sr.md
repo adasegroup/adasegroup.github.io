@@ -45,6 +45,9 @@ materials:
     - name: Paper
       url: https://arxiv.org/pdf/1812.09874.pdf
       icon: fa fa-file-pdf-o
+    - name: Poster
+      url: https://box.skoltech.ru/index.php/s/FnMfn56p5oxZxc0
+      icon: fa fa-file-pdf-o
     - name: Code
       url: https://github.com/voyleg/perceptual-depth-sr
       icon: fa fa-github-alt
