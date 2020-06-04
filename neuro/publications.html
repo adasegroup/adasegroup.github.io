@@ -1,0 +1,12 @@
+---
+layout: publications
+team: neuro
+title: Publications
+filter:
+    id: project-filter
+    selector: .project
+    child_selector: .data
+    hint: 'filter, e.g, Kondrateva'
+---
+{%- assign projects = site.projects | where_exp: 'project', 'project.path contains "_projects/3ddl"' %}
+{%- include _content/projects/project_list.html projects=projects %}
