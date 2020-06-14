@@ -152,6 +152,7 @@ plugins:
   - jemoji
   - jekyll-sitemap
   - jekyll-avatar
+  - jekyll-redirect-from
 #-jekyll/scholar
 #- jekyll-scholar
 
