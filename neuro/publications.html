@@ -1,12 +1,12 @@
 ---
-layout: publications
+layout: neuro_publications
 team: neuro
 title: Publications
 filter:
     id: project-filter
     selector: .project
     child_selector: .data
-    hint: 'filter, e.g, Kondrateva'
+    hint: 'filter, e.g, Artemov & International'
 ---
-{%- assign projects = site.projects | where_exp: 'project', 'project.path contains "_projects/3ddl"' %}
+{%- assign projects = site.projects | where_exp: 'project', 'project.path contains "_projects/neuro"' %}
 {%- include _content/projects/project_list.html projects=projects %}

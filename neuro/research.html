@@ -1,12 +1,7 @@
 ---
-layout: research
+layout: neuro_page
 team: neuro
 title: Research
-filter:
-    id: project-filter
-    selector: .project
-    child_selector: .data
-    hint: 'filter, e.g, Sharaev &'
 ---
-{%- assign projects = site.projects | where_exp: 'project', 'project.path contains "_projects/3ddl"' %}
-{%- include _content/projects/project_list.html projects=projects %}
+{% assign researches = site.researches | where_exp: 'researches', 'researches.path contains page.team' %}
+{% include _content/researches.html researches=researches %}

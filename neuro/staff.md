@@ -3,6 +3,7 @@ layout: page
 title: People
 team: neuro
 ---
+
 {%- assign heads = site.data.staff.leadership | where_exp: 'person', 'person.nil' | push: site.data.staff.leadership['Burnaev Evgeny'] | push: site.data.staff.collaborators['Zorin Denis'] %}
 {% include _content/staff/staff_grid.html staff=heads %}
 
