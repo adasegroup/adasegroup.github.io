@@ -6,7 +6,7 @@ filter:
     id: project-filter
     selector: .project
     child_selector: .data
-    hint: 'filter, e.g, Artemov & International'
+    hint: 'filter, e.g, Yarkin & International'
 ---
 
 {%- assign projects = site.projects | where_exp: 'project', 'project.path contains "_projects/neuro"' %}
