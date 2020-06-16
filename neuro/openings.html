@@ -3,5 +3,6 @@ layout: neuro_page
 title: Vacancies
 team: neuro
 ---
+
 {% assign openings = site.openings | where_exp: 'opening', 'opening.path contains page.team' %}
 {% include _content/openings.html openings=openings %}

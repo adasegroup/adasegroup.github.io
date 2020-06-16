@@ -8,5 +8,6 @@ filter:
     child_selector: .data
     hint: 'filter, e.g, Artemov & International'
 ---
+
 {%- assign projects = site.projects | where_exp: 'project', 'project.path contains "_projects/neuro"' %}
 {%- include _content/projects/project_list.html projects=projects %}
