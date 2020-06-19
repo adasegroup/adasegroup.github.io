@@ -27,6 +27,15 @@ thumbnail: /assets/img/projects/latent_video_transformer/thumbnail.jpg
 visual_abstract: /assets/img/projects/latent_video_transformer/teaser-pic.jpg
 visual_abstract_description: 'Generated Kinetics-600 videos with 5 priming frames.'
 #bibtex: '<span style="background-color: #F00;color: #FFF">Somebody fill this with bibtex when it is published'
+
+materials:
+    - name: Paper
+      url: https://arxiv.org/pdf/2006.10704.pdf
+      icon: fa fa-file-pdf-o
+    - name: Code
+      url: https://github.com/rakhimovv/lvt
+      icon: fa fa-github
+
 ---
 ## Contact
 If you have any questions about this work, please contact us under [adase-3ddl@skoltech.ru](mailto:adase-3ddl@skoltech.ru).
