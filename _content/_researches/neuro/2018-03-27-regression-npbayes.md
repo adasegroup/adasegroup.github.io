@@ -1,5 +1,7 @@
 ---
 layout: post
+team: neuro
+categories: neuro
 date: 2018-03-27
 title: Survey of bayesian non-parametric regression methods
 excerpt: vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
