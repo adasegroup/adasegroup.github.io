@@ -3,6 +3,8 @@ layout: project_page
 team: dlpa
 categories: dlpa
 
+to_front: True
+
 title: NAS-Bench-NLP: Neural Architecture SearchBenchmark for Natural Language Processing
 authors:
   - name: Nikita Klyuchnikov
