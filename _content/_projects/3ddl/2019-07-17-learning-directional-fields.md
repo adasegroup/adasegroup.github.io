@@ -2,6 +2,7 @@
 layout: project_page
 team: 3ddl
 categories: 3ddl
+front_id: 5
 
 title: Learning to Approximate Directional Fields Defined over 2D Planes
 authors:

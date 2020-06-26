@@ -2,6 +2,7 @@
 layout: project_page
 team: 3ddl
 categories: 3ddl
+front_id: 2
 
 title: Monocular 3D Object Detection via Geometric Reasoning on Keypoints
 authors:

@@ -2,6 +2,7 @@
 layout: project_page
 team: 3ddl
 categories: 3ddl
+front_id: 1002
 
 title: Deep Vectorization of Technical Drawings
 authors:
@@ -25,7 +26,6 @@ affiliation:
   - Skolkovo Institute of Science and Technology
   - New York University
 venue: arXiv 2020
-to_front: True
 
 excerpt: We present a new method for vectorization of technical line drawings which consists of (1) a deep learning-based cleaning stage, (2) a transformer-based network to estimate vector primitives, and (3) an optimization procedure to obtain the final primitive configurations.
 abstract: We present a new method for vectorization of technical line drawings, such as floor plans, architectural drawings, and 2D CAD images. Our method includes (1) a deep learning-based cleaning stage to eliminate the background and imperfections in the image and fill in missing parts, (2) a transformer-based network to estimate vector primitives, and (3) optimization procedure to obtain the final primitive configurations. We train the networks on synthetic data, renderings of vector line drawings, and manually vectorized scans of line drawings. Our method quantitatively and qualitatively outperforms a number of existing techniques on a collection of representative technical drawings. 

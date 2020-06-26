@@ -2,6 +2,7 @@
 layout: project_page
 team: 3ddl
 categories: 3ddl
+front_id: 7
 
 title: Latent Video Transformer
 authors:

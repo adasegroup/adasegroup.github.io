@@ -2,6 +2,7 @@
 layout: project_page
 team: 3ddl
 categories: 3ddl
+front_id: 1
 
 title: User-Controllable Multi-Texture Synthesis with Generative Adversarial Networks
 authors:

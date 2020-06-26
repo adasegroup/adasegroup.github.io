@@ -3,7 +3,7 @@ layout: project_page
 team: dlpa
 categories: dlpa
 
-to_front: True
+front_id: 0
 
 title: 'NAS-Bench-NLP: Neural Architecture SearchBenchmark for Natural Language Processing'
 authors:

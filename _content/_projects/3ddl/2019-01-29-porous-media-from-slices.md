@@ -2,6 +2,7 @@
 layout: project_page
 team: 3ddl
 categories: 3ddl
+front_id: 0
 
 title: Reconstruction of 3D Porous Media From 2D Slices
 authors:

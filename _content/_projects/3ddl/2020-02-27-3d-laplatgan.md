@@ -2,6 +2,7 @@
 layout: project_page
 team: 3ddl
 categories: 3ddl
+front_id: 6
 
 title: Latent-Space Laplacian Pyramids for Adversarial Representation Learning with 3D Point Clouds
 authors:
