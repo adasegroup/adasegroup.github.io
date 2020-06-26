@@ -1,6 +1,30 @@
+#### Example
+#- authors: [Name Lastname, Evgeny Burnaev]
+#  date: 2020-12-30 00:00:00
+#  title: Title of the paper
+#  venue: arXiv 2020
+#  materials:
+#    - name: Paper
+#      url: https://arxiv.org/pdf/1812.09874.pdf
+#    - name: Code
+#      url: https://github.com/adasegroup/adasegroup.github.io
+#    - name: Dataset
+#      url: https://deep-geometry.github.io/abc-dataset/data/00000050_80d90bfdd2e74e709956122a_parasolid_000.zip
+#    - name: Blog post
+#      url: https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html
+#    - name: Project page
+#      url: https://deep-geometry.github.io/abc-dataset/
+#  bibtex: "@InProceedings{Koch_2019_CVPR,
+#  author = {Koch, Sebastian and Matveev, Albert and Jiang, Zhongshi and Williams, Francis and Artemov, Alexey and Burnaev, Evgeny and Alexa, Marc and Zorin, Denis and Panozzo, Daniele},
+#  title = {ABC: A Big CAD Model Dataset For Geometric Deep Learning},
+#  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+#  month = {June},
+#  year = {2019}
+#  }"
+
 - authors: [Alexandra Laugerotte, Alexey Zaytsev, Evgeny Burnaev, Dmitry Khominich,
     Laurent Pons, Stephane Alestr]
-  date: 2016-01-01 00:33:00
+  date: 2016-01-01 00:34:00
   title: 'Datafusion for biological simulations: Application to toxins'
   venue: Toxicon 2016
 - authors: [Alexey Zaytsev, Evgeny Burnaev]
