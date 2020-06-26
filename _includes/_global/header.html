@@ -1,6 +1,6 @@
 {%- assign team = page.team | default: 'adase' -%}
 {%- assign team_params = site.data.teams[team] -%}
-{%- assign nav_bar = include.nav_bar | default: site.data[team].nav_bar -%}
+{%- assign nav_bar = include.nav_bar | default: site.data[team].nav_bar | default: site.data['adase'].nav_bar -%}
 
 <header id="page-header-wrapper">
     <div id="page-header">
