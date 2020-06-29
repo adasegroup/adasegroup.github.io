@@ -9,6 +9,7 @@ $(document).ready(function () {
         var $this = $(this);
         $this.slick({
             autoplay: true,
+            pauseOnHover: true,
             autoplaySpeed: 5000,
             speed: 1000,
             prevArrow: '<a type="button" class="slider-scroll-left" aria-label="Previous"><i class="icon fa fa-chevron-left" aria-hidden="true"></i></a>',
