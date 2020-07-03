@@ -5,7 +5,7 @@ categories: dlpa
 
 front_id: 0
 
-title: 'NAS-Bench-NLP: Neural Architecture SearchBenchmark for Natural Language Processing'
+title: 'NAS-Bench-NLP: Neural Architecture Search Benchmark for Natural Language Processing'
 authors:
   - name: Nikita Klyuchnikov
     affiliation: '1,∗'
