@@ -36,7 +36,7 @@ visual_abstract_description: Qualitative comparison of different models. We depi
 
 materials:
   - name: Paper
-    url: https://arxiv.org/abs/2006.15190
+    url: https://arxiv.org/pdf/2006.15190.pdf
     icon: fa fa-file-pdf-o
   - name: Code
     url: https://github.com/zetyquickly/DensePoseFnL
