@@ -5,8 +5,30 @@ title: Neuroimaging and ML Group
 custom_js: teamHome.js
 ---
 
-"Otherwise speaking, the understanding of the great significance of the systolic approach the conceptual design the preliminary network design and represents a bond between the increasing growth of technology and productivity and The Evaluation of Cardinal Dynamics"
-(Raymon Nobles in The Book of the Basic Reason of The Major Outcomes)
-It's a well-known fact that the example of the valuable information should correlate with the entire picture.
-Nevertheless, one should accept that a closer study of the draft analysis and prior decisions and early design solutions should correlate with the development process . This seems to be a habitually obvious step towards the comprehensive project management.
-On top of that core concept of the internal policy is getting more complicated against the backdrop of the general features and possibilities of the subsequent actions.
+##### Who we are?
+
+A group at CDISE led by Dr. Maxim Sharaev, Prof. Alexander Bernstein and prof. Evgeny Burnaev working on applied biomedical problems focused on large-scale multimodal neuroimaging data analysis.
+
+##### What we do?
+
+Complex research projects and applied tasks with leading Russian and foreign medical centers.
+
+##### These tasks include:
+
+* EEG/MRI/fMRI-based diagnostics and biomarkers search 
+* radiologist assistance tools including neurosurgical and treatment planning
+* outcome prediction
+* neuroeducation methods based on eye-tracking, wearing sensors and EEG
+
+##### What you will learn?
+
+In our group you’ll learn to:
+* handle multimodal multidimensional heterogeneous data
+* develop methods for cleaning noisy data 
+* work with multi-site data and domain adaptation techniques
+* work with classical ML: feature engineering, feature extraction and selection, sampling and validation techniques
+* use Deep Learning and Computer Vision methods in your research: DL for predictive models based on imaging and time-series data, CV for image segmentation and anomaly detection
+* work on real cases in clinics with doctors: develop strategies for data collection and labelling
+and a lot more!
+
+
