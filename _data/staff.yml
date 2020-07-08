@@ -123,6 +123,15 @@ researchers:
         url: https://www.researchgate.net/profile/Vyacheslav_Yarkin
     email: v.yarkin@skoltech.ru
 
+  Ledovsky Alexander:
+    name: Ledovsky Alexander
+    photo: /assets/img/staff/LedovskyAlexander.jpg
+    position: Research Engineer
+    team: neuro
+    team_role: Research Engineer
+    status: Machine learning on EEG data
+    email: a.ledovsky@skoltech.ru
+
 phd_students:
   Egiazarian Vage:
     name: Vage Egiazarian
@@ -331,6 +340,42 @@ msc_students:
     team_role: Msc. Student
     status: Causality for time series data
     email: vladislav.zhuzhel@skoltech.ru
+
+  Druzhinina Polina:
+      name: Druzhinina Polina 
+      photo: /assets/img/staff/DruzhininaPolina.jpg
+      position: Msc. Student
+      team: neuro
+      team_role: Msc. Student
+      status: 3D MRI classification
+      email: pvdruzhinina@gmail.com
+  
+  Aliev Ruslan:
+      name:  Aliev Ruslan
+      photo: /assets/img/staff/AlievRuslan.jpg
+      position: Msc. Student
+      team: neuro
+      team_role: Msc. Student
+      status: MRI Analysis, FCD detection
+      email: ruslan.aliev@skoltech.ru
+
+  Vladimir Dmitriev:
+    name: DmitrievV ladimir
+    photo: /assets/img/staff/DmitrievVladimir.jpg
+    position: Msc. Student
+    team: neuro
+    team_role: Msc. Student
+    status: EEG data analysis
+    email: Vladimir.Dmitriev@skoltech.ru
+
+  Petrova Daria:
+        name: Daria Petrova
+        photo: /assets/img/staff/xzibit.jpg
+        position: ВSc. Student
+        team: neuro
+        team_role: BSc. Student
+        status: Machine Learning in Magnetic Resonance Imaging
+        email: dar99p@yandex.ru
 
 
 collaborators:
