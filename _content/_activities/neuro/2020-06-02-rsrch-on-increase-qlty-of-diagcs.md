@@ -1,14 +1,12 @@
 ---
-layout: post
+layout: page
 team: neuro
 categories: neuro
-date: 2018-03-27
-title: Bayesian Time Series
-excerpt: vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
-thumbnail: https://static.tildacdn.com/tild6335-3630-4737-b131-383536313836/artwork-vasily-kandi.jpg
-inline: false
+date: 2020-06-02
+title: Разработки столичных специалистов повысят качество диагностики болезней
+excerpt: Ученые Сколтеха занимаются разработкой программ, которые помогают медицинским специалистам диагностировать и лечить опасные болезни.
 ---
-vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
 
 Vix dico eius nominati cu, ex zril commodo fuisset mea. Habeo adhuc audiam ius no. In quis virtute officiis has. Vix ad honestatis accommodare, quis virtute et sit, pertinax expetenda eam id. Duo an fuisset delectus dissentias, justo altera ea per.
 

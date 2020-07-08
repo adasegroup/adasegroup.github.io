@@ -19,16 +19,3 @@ Complex research projects and applied tasks with leading Russian and foreign med
 * radiologist assistance tools including neurosurgical and treatment planning
 * outcome prediction
 * neuroeducation methods based on eye-tracking, wearing sensors and EEG
-
-##### What you will learn?
-
-In our group you’ll learn to:
-* handle multimodal multidimensional heterogeneous data
-* develop methods for cleaning noisy data 
-* work with multi-site data and domain adaptation techniques
-* work with classical ML: feature engineering, feature extraction and selection, sampling and validation techniques
-* use Deep Learning and Computer Vision methods in your research: DL for predictive models based on imaging and time-series data, CV for image segmentation and anomaly detection
-* work on real cases in clinics with doctors: develop strategies for data collection and labelling
-and a lot more!
-
-

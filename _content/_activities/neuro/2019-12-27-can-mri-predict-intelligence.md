@@ -1,17 +1,12 @@
 ---
-layout: post
+layout: page
 team: neuro
 categories: neuro
-date: 2018-03-27
-title: Survey & development of new methods for dynamic hierarchical time series models
-excerpt: vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
-thumbnail: https://static.tildacdn.com/tild6335-3630-4737-b131-383536313836/artwork-vasily-kandi.jpg
-inline: false
+date: 2019-12-27
+title: Can MRI predict intelligence levels in children
+excerpt: Combining deep learning technology with MRI brain scans, researchers were able to predict fluid intelligence in children.
 ---
 
-vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
-
-Vix dico eius nominati cu, ex zril commodo fuisset mea. Habeo adhuc audiam ius no. In quis virtute officiis has. Vix ad honestatis accommodare, quis virtute et sit, pertinax expetenda eam id. Duo an fuisset delectus dissentias, justo altera ea per.
 
 ##### Todo
 
