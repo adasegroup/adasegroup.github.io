@@ -3,7 +3,7 @@ layout: project_page
 team: dlpa
 categories: dlpa
 
-front_id: 0
+front_id: 2
 
 title: 'NAS-Bench-NLP: Neural Architecture Search Benchmark for Natural Language Processing'
 authors:
@@ -31,10 +31,21 @@ abstract: 'Neural Architecture Search (NAS) is a promising and rapidly evolving 
 thumbnail: /assets/img/projects/nas_bench_nlp/thumbnail.jpg
 visual_abstract: /assets/img/projects/nas_bench_nlp/teaser-pic.jpg
 visual_abstract_description: 'Architectures examples and metrics.'
-#bibtex: '<span style="background-color: #F00;color: #FFF">This bibtex will be filled when the paper is published'.
+bibtex: "\
+@misc{klyuchnikov2020nasbenchnlp,
+    title={NAS-Bench-NLP: Neural Architecture Search Benchmark for Natural Language Processing},
+    author={Nikita Klyuchnikov and Ilya Trofimov and Ekaterina Artemova and Mikhail Salnikov and Maxim Fedorov and Evgeny Burnaev},
+    year={2020},
+    eprint={2006.07116},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}"
 
 materials:
     - name: Paper
       url: https://arxiv.org/pdf/2006.07116.pdf
       icon: fa fa-file-pdf-o
+    - name: Code
+      url: https://github.com/fmsnew/nas-bench-nlp-release
+      icon: fa fa-github-alt
 ---
