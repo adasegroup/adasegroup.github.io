@@ -32,11 +32,13 @@ thumbnail: /assets/img/projects/nas_bench_nlp/thumbnail.jpg
 visual_abstract: /assets/img/projects/nas_bench_nlp/teaser-pic.jpg
 visual_abstract_description: 'Architectures examples and metrics.'
 bibtex: "\
-@article{trofimov2020multi,
-  title={Multi-fidelity Neural Architecture Search with Knowledge Distillation},
-  author={Trofimov, Ilya and Klyuchnikov, Nikita and Salnikov, Mikhail and Filippov, Alexander and Burnaev, Evgeny},
-  journal={arXiv preprint arXiv:2006.08341},
-  year={2020}
+@misc{klyuchnikov2020nasbenchnlp,
+    title={NAS-Bench-NLP: Neural Architecture Search Benchmark for Natural Language Processing},
+    author={Nikita Klyuchnikov and Ilya Trofimov and Ekaterina Artemova and Mikhail Salnikov and Maxim Fedorov and Evgeny Burnaev},
+    year={2020},
+    eprint={2006.07116},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
 }"
 
 materials:
