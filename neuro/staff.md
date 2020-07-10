@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: neuro_page
 title: People
 team: neuro
 ---
 
-{%- assign heads = site.data.staff.leadership | where_exp: 'person', 'person.nil' | push: site.data.staff.leadership['Burnaev Evgeny'] | push: site.data.staff.collaborators['Zorin Denis'] %}
+{%- assign heads = site.data.staff.leadership | where_exp: 'person', 'person.nil' | push: site.data.staff.leadership['Burnaev Evgeny'] | push: site.data.staff.leadership['Bernstein Alexander'] | push: site.data.staff.leadership['Sharaev Maxim'] %}
 {% include _content/staff/staff_grid.html staff=heads %}
 
 {%- assign research_scientists = site.data.staff.researchers | where_exp: 'person', 'person.team contains page.team' %}
