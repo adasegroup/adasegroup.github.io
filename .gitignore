@@ -7,3 +7,4 @@ node_modules
 new_particle/_site
 _site
 ._*
+.idea/
