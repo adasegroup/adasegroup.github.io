@@ -1,0 +1,22 @@
+{% for research in include.researches %}
+<div class="project-list">
+    <section class="project">
+        <a href="{{research.url}}" class="img-container-wrapper">
+            <div class="img-container">
+                {%- if research.thumbnail %}<img class="thumbnail" src="{{research.thumbnail}}">{% endif -%}
+            </div>
+        </a>
+        <div class="data">
+            <div class="project-title">
+                <a href="{{research.url}}">
+                    <h4>{{research.title}}</h4>
+                </a>
+            </div>
+            <div class="project-excerpt">
+                {{research.excerpt}}
+            </div>
+        </div>
+    </section>
+</div>
+{% endfor %}
+{{--}}

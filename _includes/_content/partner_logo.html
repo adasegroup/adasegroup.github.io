@@ -1,0 +1,36 @@
+<style>
+.partner-row {
+    background-color: #D8D8D8;
+    display: grid;
+    grid-gap: 1em;
+    margin: 5em 0 0;
+    grid-template-columns: repeat(4, 1fr);
+    justify-items: center;
+    justify-content: space-evenly;
+}
+
+@media screen and (min-width: 616px) and (max-width: 915px) {
+    .partner-row {
+        grid-template-columns: auto;
+    }
+}
+
+@media screen and (max-width: 615px) {
+    .partner-row {
+        grid-template-columns: auto;
+    }
+}
+</style>
+{%- assign logo_enable_check = site.data.neuro.partner_logo -%}
+{%- assign check = logo_enable_check.logo -%}
+{%- assign enable = check.enable -%}
+{% if enable %}
+<footer class="partner-row">
+    {%- for item in check.images -%}
+    <div class="partner-col">
+        <img src="{{ item.url }}" alt="{{ item.title }}">
+    </div>
+    {%- endfor -%}
+</footer>
+{% endif %}
+{{--}}

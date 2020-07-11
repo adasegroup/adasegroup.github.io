@@ -1,0 +1,7 @@
+<div class="activities-list-container">
+    {%- for item in include.activities %}
+    	<span class="date">{{item.date | date: '%e %B %Y'}}</span>
+		<a href="{{item.url}}" class="activities-item"><h4 class='content'>{{item.title}}</h4></a>
+    {%- endfor %}
+</div>
+{{--}}
