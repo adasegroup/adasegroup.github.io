@@ -2,7 +2,7 @@
 layout: page
 team: neuro
 categories: neuro
-date: 2020-11-06
+date: 2020-06-11
 title: Prof. Burnaev speech on the MLSS about the benefits of remote life
 excerpt: How neural networks are used in everyday life, how difficult it is to fool them, how facial recognition systems work and what data scientists do.
 ---
