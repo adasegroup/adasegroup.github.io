@@ -58,7 +58,7 @@ researchers:
     team: neuro
     team_role: SRE, engineering of HTC infrastructure
     pages:
-      - name: ResearchGate
+      - name: ResearchGate profile
         url: https://www.researchgate.net/profile/Arseniy_Bozhenko
       - name: LinkedIn
         url: https://www.linkedin.com/in/arseniyb/
@@ -117,10 +117,10 @@ researchers:
     team_role: Researcher
     status: Data engineering and HPC
     pages:
-      - name: LinkedIn
-        url: https://www.linkedin.com/in/vyacheslav-yarkin-64a65154
       - name: ResearchGate profile
         url: https://www.researchgate.net/profile/Vyacheslav_Yarkin
+      - name: LinkedIn
+        url: https://www.linkedin.com/in/vyacheslav-yarkin-64a65154
     email: v.yarkin@skoltech.ru
 
   Ledovsky Alexander:
@@ -360,7 +360,7 @@ msc_students:
       email: ruslan.aliev@skoltech.ru
 
   Vladimir Dmitriev:
-    name: DmitrievV ladimir
+    name: Dmitriev Vladimir
     photo: /assets/img/staff/DmitrievVladimir.jpg
     position: Msc. Student
     team: neuro
