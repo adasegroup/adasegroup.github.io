@@ -132,6 +132,15 @@ researchers:
     status: Machine learning on EEG data
     email: a.ledovsky@skoltech.ru
 
+  Pominova Marina:
+      name: Pominova Marina 
+      photo: /assets/img/staff/PominovaMarina.jpg
+      position: Research Engineer
+      team: neuro
+      team_role: Research Engineer
+      status: Deep learning for neuroimaging applications
+      email: marina.pominova@skoltech.ru
+
 phd_students:
   Egiazarian Vage:
     name: Vage Egiazarian
