@@ -6,6 +6,7 @@ date: 2020-07-08
 title: Machine learning treatment/outcome prediction
 excerpt: Stroke outcome prediction and treatment planning
 thumbnail: /assets/img/neuro/projects/stroke.png
+related_image: /assets/img/neuro/projects/stroke.png
 inline: false
 ---
 

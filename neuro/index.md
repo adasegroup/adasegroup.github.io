@@ -11,9 +11,8 @@ A group at CDISE led by Dr. Maxim Sharaev [m.sharaev@skoltech.ru](mailto:m.shara
 
 ##### What we do?
 
-Complex research projects and applied tasks with leading Russian and foreign medical centers. Coma and join us on:
+Research projects and their clinical application a with leading Russian and foreign medical centers. Come and join us on:
 
-* EEG/MRI/fMRI-based diagnostics and biomarkers search;
-* Radiologist assistance tools including neurosurgical and treatment planning;
-* Outcome prediction;
-* Neuroeducation methods based on eye-tracking, wearing sensors and EEG
+* AI driven decision support systems in EEG/MRI/fMRI-based diagnostics and biomarkers search;
+* Radiological assistance tools for neurosurgical and treatment planning;
+* Neuroeducation based on eye-tracking, wearing sensors and cybersport;

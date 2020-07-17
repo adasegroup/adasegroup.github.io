@@ -6,7 +6,7 @@ date: 2020-07-08
 title: AI diagnostics
 excerpt: Depression (MRI/fMRI/EEG), Epilepsy (MRI), Autism (EEG)
 thumbnail: /assets/img/neuro/projects/ai_diagnostics.png
-visual_abstract: /assets/img/neuro/projects/ai_diagnostics.png
+related_image: /assets/img/neuro/projects/ai_diagnostics.png
 inline: false
 
 ---
