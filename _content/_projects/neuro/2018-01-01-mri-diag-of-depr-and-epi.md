@@ -5,7 +5,7 @@ categories: neuro
 
 data: 2018
 
-title: "MRI-based Diagnostics of Depression Concomitantwith Epilepsy: in Search of the Potential Biomarkers"
+title: "MRI-based Diagnostics of Depression Concomitant with Epilepsy: in Search of the Potential Biomarkers"
 authors:
   - name: Maxim Sharaev
     affiliation: 1
@@ -33,5 +33,7 @@ to_front: True
 
 abstract: "—In the present work, we study the candidate biomarkers for the depression disorder and the depression + epilepsy comorbidity. Building on the advanced data analysis
 pipeline, we identify candidate biomarkers, compare them across tasks and to the previous research. The classification performance achieved by our system compares favourably to the one reported in literature, where longer scanning sessions and stronger magnetic fields were employed."
+
+thumbnail: /assets/img/neuro/research/1.png
 
 ---

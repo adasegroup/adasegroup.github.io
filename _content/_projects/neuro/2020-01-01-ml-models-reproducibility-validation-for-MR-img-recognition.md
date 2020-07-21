@@ -30,4 +30,5 @@ is then assessed in terms of classification performance, robustness and reliabil
 accuracy on unseen data. The classification performance achieved with our approach compares favorably to ones
 reported in the literature, where usually no thorough model evaluation is performed."
 
+thumbnail: /assets/img/neuro/research/2.png
 ---
