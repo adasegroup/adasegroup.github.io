@@ -9,4 +9,8 @@ excerpt: Skoltech scientists are developing programs that help medical professio
 
 #### Tune in:
 
-New media post about our research and prospects in diagnosis, prognosis and treatment of brain disorders. Watch the post in Russian [here](https://vm.ru/moscow/804925-razrabotki-stolichnyh-specialistov-povysyat-kachestvo-diagnostiki-boleznej).
+New media post about our research and prospects in diagnosis, prognosis and treatment of brain disorders. 
+Watch the post in Russian [here](https://vm.ru/moscow/804925-razrabotki-stolichnyh-specialistov-povysyat-kachestvo-diagnostiki-boleznej).
+
+
+[![BCI2019](/assets/img/neuro/activity/develop.png)](https://vm.ru/moscow/804925-razrabotki-stolichnyh-specialistov-povysyat-kachestvo-diagnostiki-boleznej/ "develop")
