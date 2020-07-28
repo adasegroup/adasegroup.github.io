@@ -17,4 +17,4 @@ The full translation on English with subtitles on Russian is availible down the 
 
 
 
-[![BCI2019](/assets/img/neuro/bci_samara.png)](https://youtu.be/DSeZWCh81ao "BCI2019")
+[![BCI2019](/assets/img/neuro/activity/bci_samara.png)](https://youtu.be/DSeZWCh81ao "BCI2019")

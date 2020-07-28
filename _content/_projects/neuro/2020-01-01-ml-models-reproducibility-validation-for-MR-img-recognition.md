@@ -22,7 +22,7 @@ affiliation:
   - Moscow Research and Clinical Center for Neuropsychiatry
   - Institute of Higher Nervous Activity and Neurophysiology
 
-venue: International Conference on Computer Vision 2019
+venue: International Conference on Machine Vision 2019 (ICMV2019)
 to_front: True
 
 abstract: "In the present work, we introduce a data processing and analysis pipeline, which ensures the reproducibility of machine learning models chosen for MR image recognition. The proposed pipeline is applied to solve the binary classification problems: epilepsy and depression diagnostics based on vectorized features from MR images. This model
