@@ -20,9 +20,9 @@ In this project we aim at finding objective biomarkers of depression and child a
 
 #### Papers
 
-* Kondrateva, E., Belozerova, P., Sharaev, M., Burnaev, E., Bernstein, A., Samotaeva, I., 2020. Machine learning models reproducibility and validation for MR images recognition, in: Osten, W., Nikolaev, D.P. (Eds.), Twelfth International Conference on Machine Vision (ICMV 2019). SPIE, p. 115.https://doi.org/10.1117/12.2559525
+* [Kondrateva, E., Belozerova, P., Sharaev, M., Burnaev, E., Bernstein, A., Samotaeva, I., 2020. Machine learning models reproducibility and validation for MR images recognition, in: Osten, W., Nikolaev, D.P. (Eds.), Twelfth International Conference on Machine Vision (ICMV 2019). SPIE, p. 115.https://doi.org/10.1117/12.2559525](/neuro/projects/ml-models-reproducibility-validation-for-MR-img-recognition)
 
-* Pominova, M., Kondrateva, E., Sharaev, M., Bernstein, A., Pavlov, S., Burnaev, E., 2019. 3D Deformable Convolutions for MRI Classification, in: 2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA). IEEE, pp. 1710–1716. https://doi.org/10.1109/ICMLA.2019.00278
+* [Pominova, M., Kondrateva, E., Sharaev, M., Bernstein, A., Pavlov, S., Burnaev, E., 2019. 3D Deformable Convolutions for MRI Classification, in: 2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA). IEEE, pp. 1710–1716. https://doi.org/10.1109/ICMLA.2019.00278](/neuro/projects/3d-deformable-cnn-for-mri-classification)
 
 * Pominova, M., Artemov, A., Sharaev, M., Kondrateva, E., Bernstein, A., Burnaev, E., 2018. Voxelwise 3D Convolutional and Recurrent Neural Networks for Epilepsy and Depression Diagnostics from Structural and Functional MRI Data, in: 2018 IEEE International Conference on Data Mining Workshops (ICDMW). IEEE, pp. 299–307.
 
@@ -30,6 +30,6 @@ In this project we aim at finding objective biomarkers of depression and child a
 
 * Sharaev, M., Artemov, A., Kondrateva, E., Ivanov, S., Sushchinskaya, S., Bernstein, A., Cichocki, A., Burnaev, E., 2018. Learning Connectivity Patterns via Graph Kernels for fMRI-Based Depression Diagnostics, in: 2018 IEEE International Conference on Data Mining Workshops (ICDMW). IEEE, pp. 308–314. https://doi.org/10.1109/ICDMW.2018.00051
 
-* Sharaev, M., Artemov, A., Kondrateva, E., Sushchinskaya, S., Burnaev, E., Bernstein, A., Akzhigitov, R., Andreev, A., 2018. MRI-Based Diagnostics of Depression Concomitant with Epilepsy: In Search of the Potential Biomarkers, in: 2018 IEEE 5th International Conference on Data Science and Advanced Analytics (DSAA). IEEE, pp. 555–564. https://doi.org/10.1109/DSAA.2018.00071
+* [Sharaev, M., Artemov, A., Kondrateva, E., Sushchinskaya, S., Burnaev, E., Bernstein, A., Akzhigitov, R., Andreev, A., 2018. MRI-Based Diagnostics of Depression Concomitant with Epilepsy: In Search of the Potential Biomarkers, in: 2018 IEEE 5th International Conference on Data Science and Advanced Analytics (DSAA). IEEE, pp. 555–564. https://doi.org/10.1109/DSAA.2018.00071](/neuro/projects/mri-diag-of-depr-and-epi)
 
 * Ledovsky, A., Mnatsakanian, E., Sharaev, M., Burnaev, E., 2019. O-21 Separation of major depression patients from healthy controls using machine learning approach to resting-state EEG. Clin. Neurophysiol. 130, e28. https://doi.org/10.1016/j.clinph.2019.04.337
