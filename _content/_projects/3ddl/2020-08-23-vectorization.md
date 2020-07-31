@@ -31,8 +31,9 @@ excerpt: We present a new method for vectorization of technical line drawings wh
 abstract: We present a new method for vectorization of technical line drawings, such as floor plans, architectural drawings, and 2D CAD images. Our method includes (1) a deep learning-based cleaning stage to eliminate the background and imperfections in the image and fill in missing parts, (2) a transformer-based network to estimate vector primitives, and (3) optimization procedure to obtain the final primitive configurations. We train the networks on synthetic data, renderings of vector line drawings, and manually vectorized scans of line drawings. Our method quantitatively and qualitatively outperforms a number of existing techniques on a collection of representative technical drawings. 
 
 thumbnail: /assets/img/projects/vectorization/thumbnail.jpg
-visual_abstract: /assets/img/projects/vectorization/teaser-pic.jpg
-visual_abstract_description: An overview of our vectorization method. We clean the input image using a deep CNN, then split the input image into patches and predict the primitive placement with a deep CNN, after that refine the predictions using an optimization method, and finally merge them together into single image.
+# visual_abstract: /assets/img/projects/vectorization/teaser-pic.jpg
+# visual_abstract_description: An overview of our vectorization method. We clean the input image using a deep CNN, then split the input image into patches and predict the primitive placement with a deep CNN, after that refine the predictions using an optimization method, and finally merge them together into single image.
+video: 'https://www.youtube.com/embed/lnQNzHJOLvE'
 bibtex: "\
 @article{egiazarian2020deep,
   title={Deep Vectorization of Technical Drawings},
