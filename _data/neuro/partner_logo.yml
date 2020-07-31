@@ -1,0 +1,11 @@
+logo:
+  enable: true # enable or disable the partner logo from true = show, false= hide
+  images:
+    - title: "logo1"
+      url: "/assets/img/neuro/partner_logo/burdenko.png"
+    - title: "logo2"
+      url: "/assets/img/neuro/partner_logo/kulakova.png"
+    - title: "logo3"
+      url: "/assets/img/neuro/partner_logo/pirogova_bw.png"
+    - title: "logo3"
+      url: "/assets/img/neuro/partner_logo/ivnd.png"

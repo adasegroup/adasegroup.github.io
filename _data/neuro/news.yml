@@ -1,0 +1,8 @@
+- title: ADASE NEURO with CoBrain
+  date: 2020-07-06 00:00:00
+  thumbnail: /assets/img/neuro/cobrain.png
+  excerpt:
+  url: https://cobrain.ai/ru/colab
+  superseded: true
+  fancy: true
+  fancy_style: 'style="background-color:rgba(0,0,0,.2)"'

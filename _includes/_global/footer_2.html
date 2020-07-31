@@ -1,0 +1,10 @@
+{%- assign team = page.team | default: 'adase' -%}
+{%- assign nav_bar = site.data[team].footer_nav_bar | default:  site.data[team].nav_bar -%}
+
+<footer class="footer footer-no-margin">
+    {%- for page in nav_bar %}
+    |&nbsp;<a href="{{page.href}}" class="page-link">{{page.title}}</a>&nbsp;|
+    {%- endfor %}
+    <p>&copy; 2018 <a href="{{ site.baseurl }}/">{{site.username}}</a> - {{site.footer_text}}</p>
+</footer>
+{{--}}

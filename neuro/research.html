@@ -1,0 +1,8 @@
+---
+layout: neuro_page
+team: neuro
+title: Research
+---
+
+{% assign researches = site.researches | where_exp: 'researches', 'researches.path contains page.team' %}
+{% include _content/researches.html researches=researches %}

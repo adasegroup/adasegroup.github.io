@@ -4,7 +4,7 @@ leadership:
     photo: /assets/img/staff/BernsteinAlexander.jpg
     category: leadership
     position: Full Professor
-    team: ???
+    team: neuro
     team_role: Principal research scientist
     email: a.bernstein@skoltech.ru
     personal_page: http://faculty.skoltech.ru/people/alexanderbernstein
@@ -24,6 +24,19 @@ leadership:
     email: e.burnaev@skoltech.ru
     personal_page: https://faculty.skoltech.ru/people/evgenyburnaev
 
+  Sharaev Maxim:
+    name: Maxim Sharaev
+    photo: /assets/img/staff/SharaevMaxim.jpg
+    category: leadership
+    position: Research Scientist
+    team: [adase, neuro]
+    team_role: Head of NeuroML research group
+    pages:
+      - name: ResearchGate profile
+        url: https://www.researchgate.net/profile/Maxim_Sharaev
+      - name: Google Scholar
+        url: https://scholar.google.ru/citations?user=I0mxzk0AAAAJ&hl=ru
+    email: m.sharaev@skoltech.ru
 
 researchers:
   Artemov Alexey:
@@ -37,6 +50,19 @@ researchers:
       adase: 3D deep learning team lead
     status: Deep learning for geometric computing
     email: a.artemov@skoltech.ru
+  
+  Bozhenko Arseniy:
+    name: Arseniy Bozhenko
+    photo: /assets/img/staff/BozhenkoArseniy.jpg
+    position: Research Engineer
+    team: neuro
+    team_role: SRE, engineering of HTC infrastructure
+    pages:
+      - name: ResearchGate profile
+        url: https://www.researchgate.net/profile/Arseniy_Bozhenko
+      - name: LinkedIn
+        url: https://www.linkedin.com/in/arseniyb/
+    email: a.bozhenko@skoltech.ru
 
   Bobrovskikh Gleb:
     name: Gleb Bobrovskikh
@@ -74,6 +100,46 @@ researchers:
     status: Neural Architecture Search, Data Reduction for AutoML
     email: ilya.trofimov@skoltech.ru
 
+  Petrov Plamen:
+    name: Plamen Petrov
+    photo: /assets/img/staff/PetrovPlamen.jpg
+    position: Researcher
+    team: neuro
+    team_role: Researcher
+    status: Pre-surgical planning in brain tumor patients
+    email: p.petrov@skoltech.ru
+      
+  Yarkin Vyacheslav:
+    name: Vyacheslav Yarkin
+    photo: /assets/img/staff/YarkinVyacheslav.jpg
+    position: Researcher
+    team: neuro
+    team_role: Researcher
+    status: Data engineering and HPC
+    pages:
+      - name: ResearchGate profile
+        url: https://www.researchgate.net/profile/Vyacheslav_Yarkin
+      - name: LinkedIn
+        url: https://www.linkedin.com/in/vyacheslav-yarkin-64a65154
+    email: v.yarkin@skoltech.ru
+
+  Ledovsky Alexander:
+    name: Ledovsky Alexander
+    photo: /assets/img/staff/LedovskyAlexander.jpg
+    position: Research Engineer
+    team: neuro
+    team_role: Research Engineer
+    status: Machine learning on EEG data
+    email: a.ledovsky@skoltech.ru
+
+  Pominova Marina:
+      name: Pominova Marina 
+      photo: /assets/img/staff/PominovaMarina.jpg
+      position: Research Engineer
+      team: neuro
+      team_role: Research Engineer
+      status: Deep learning for neuroimaging applications
+      email: marina.pominova@skoltech.ru
 
 phd_students:
   Egiazarian Vage:
@@ -129,7 +195,7 @@ phd_students:
     name: Ekaterina Kondrateva
     photo: /assets/img/staff/KondratevaEkaterina.jpg
     position: PhD Student
-    team: ???
+    team: neuro
     team_role: PhD Student
     status: ML applications for neuroimaging
     pages:
@@ -284,6 +350,42 @@ msc_students:
     status: Causality for time series data
     email: vladislav.zhuzhel@skoltech.ru
 
+  Druzhinina Polina:
+      name: Druzhinina Polina 
+      photo: /assets/img/staff/DruzhininaPolina.jpg
+      position: Msc. Student
+      team: neuro
+      team_role: Msc. Student
+      status: 3D MRI classification
+      email: pvdruzhinina@gmail.com
+  
+  Aliev Ruslan:
+      name:  Aliev Ruslan
+      photo: /assets/img/staff/AlievRuslan.jpg
+      position: Msc. Student
+      team: neuro
+      team_role: Msc. Student
+      status: MRI Analysis, FCD detection
+      email: ruslan.aliev@skoltech.ru
+
+  Vladimir Dmitriev:
+    name: Dmitriev Vladimir
+    photo: /assets/img/staff/DmitrievVladimir.jpg
+    position: Msc. Student
+    team: neuro
+    team_role: Msc. Student
+    status: EEG data analysis
+    email: Vladimir.Dmitriev@skoltech.ru
+
+  Petrova Daria:
+        name: Daria Petrova
+        photo: /assets/img/staff/xzibit.jpg
+        position: ВSc. Student
+        team: neuro
+        team_role: BSc. Student
+        status: Machine Learning in Magnetic Resonance Imaging
+        email: dar99p@yandex.ru
+
 
 collaborators:
   Belomestny Denis:
@@ -416,11 +518,6 @@ _researchers:
       - name: Publications
         url: /staff/researchers/AlexeyArtemov/#pubs
     email: a.artemov@skoltech.ru
-
-  Kondratyeva Ekaterina:
-    name: Ekaterina Kondratyeva
-    category: researcher
-    position: Jr. Research Scientist
 
   Korotin Alexander:
     name: Alexander Korotin
