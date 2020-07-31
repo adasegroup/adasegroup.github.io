@@ -8,13 +8,13 @@ data: 2018
 title: "Commentary: Selective Development of Anticorrelated Networks in the Intrinsic Functional Organization of the Human Brain"
 authors:
   - name: Marie Arsalidou
-    affiliation: 1,2
+    affiliation: 1, 2
   - name: Maxim Sharaev
     affiliation: 3
   - name: Tatiana Kotova
     affiliation: 4
   - name: Olga Martynova
-    affiliation: 1,5
+    affiliation: 1, 5
 
 affiliation:
   - National Research University Higher School of Economics, Moscow, Russia

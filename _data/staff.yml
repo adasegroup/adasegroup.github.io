@@ -124,7 +124,7 @@ researchers:
     email: v.yarkin@skoltech.ru
 
   Ledovsky Alexander:
-    name: Ledovsky Alexander
+    name: Alexander Ledovsky
     photo: /assets/img/staff/LedovskyAlexander.jpg
     position: Research Engineer
     team: neuro
@@ -133,7 +133,7 @@ researchers:
     email: a.ledovsky@skoltech.ru
 
   Pominova Marina:
-      name: Pominova Marina 
+      name: Marina Pominova
       photo: /assets/img/staff/PominovaMarina.jpg
       position: Research Engineer
       team: neuro
@@ -351,7 +351,7 @@ msc_students:
     email: vladislav.zhuzhel@skoltech.ru
 
   Druzhinina Polina:
-      name: Druzhinina Polina 
+      name: Polina Druzhinina
       photo: /assets/img/staff/DruzhininaPolina.jpg
       position: Msc. Student
       team: neuro
@@ -360,7 +360,7 @@ msc_students:
       email: pvdruzhinina@gmail.com
   
   Aliev Ruslan:
-      name:  Aliev Ruslan
+      name: Ruslan Aliev
       photo: /assets/img/staff/AlievRuslan.jpg
       position: Msc. Student
       team: neuro
@@ -368,8 +368,8 @@ msc_students:
       status: MRI Analysis, FCD detection
       email: ruslan.aliev@skoltech.ru
 
-  Vladimir Dmitriev:
-    name: Dmitriev Vladimir
+  Dmitriev Vladimir:
+    name: Vladimir Dmitriev
     photo: /assets/img/staff/DmitrievVladimir.jpg
     position: Msc. Student
     team: neuro
@@ -377,14 +377,14 @@ msc_students:
     status: EEG data analysis
     email: Vladimir.Dmitriev@skoltech.ru
 
-  Petrova Daria:
-        name: Daria Petrova
-        photo: /assets/img/staff/xzibit.jpg
-        position: ВSc. Student
-        team: neuro
-        team_role: BSc. Student
-        status: Machine Learning in Magnetic Resonance Imaging
-        email: dar99p@yandex.ru
+#  Petrova Daria:
+#        name: Daria Petrova
+#        photo: /assets/img/staff/xzibit.jpg
+#        position: ВSc. Student
+#        team: neuro
+#        team_role: BSc. Student
+#        status: Machine Learning in Magnetic Resonance Imaging
+#        email: dar99p@yandex.ru
 
 
 collaborators:

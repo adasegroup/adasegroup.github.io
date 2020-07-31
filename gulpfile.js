@@ -92,7 +92,7 @@ gulp.task('js', folders('src/js', function(folder){
 }));
 
 gulp.task('watch', function() {
-  gulp.watch(['*.{html,md}', '{3ddl,_content,_includes,_layouts}/**/*.{md,html}', '_data/**/*.yml'], ['jekyll-rebuild']);
+  gulp.watch(['*.{html,md}', '{3ddl,neuro,_content,_includes,_layouts}/**/*.{md,html}', '_data/**/*.yml'], ['jekyll-rebuild']);
   gulp.watch('src/**/*.s{a,c}ss', ['sass', 'jekyll-rebuild']);
   gulp.watch('src/js/**/*.js', ['js', 'jekyll-rebuild']);
   gulp.watch('src/fonts/**/*.{tff,woff,woff2}', ['fonts']);

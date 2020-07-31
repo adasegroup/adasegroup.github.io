@@ -26,6 +26,7 @@ venue: 18th IEEE International Conference On Machine Learning And Applications 2
 to_front: true
 
 abstract: "Deep learning convolution neural networks have proved to be a powerful tool for MRI analysis. In current work, we explore the potential of the deformable convolution deep neural network layers for MRI data classiﬁcation. We propose new 3D deformable convolutions (d-convolutions), implement them in VoxResNet architecture and apply for structural MRI data classification. We show that 3D d-convolutions outperform standard ones and are effective for unprocessed 3D MR images being robust to particular geometrical properties of the data. Firstly proposed dVoxResNet architecture exhibits high potential for the use in MRI data classification."
+excerpt: ''
 
 thumbnail: /assets/img/neuro/research/3.png
 
@@ -46,5 +47,3 @@ materials:
 ---
 ## Contact
 If you have any questions about this work, please contact us under [ekaterina.kondrateva@skoltech.ru](mailto:ekaterina.kondrateva@skoltech.ru).
-
----

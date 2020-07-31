@@ -9,7 +9,7 @@ title: Basal ganglia lateralization in different types of reward
 
 authors:
   - name: Marie Arsalidou
-    affiliation: 1,2
+    affiliation: 1, 2
   - name: Sagana Vijayarajah
     affiliation: 3
   - name: Maxim Sharaev
