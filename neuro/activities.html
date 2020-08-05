@@ -1,8 +1,8 @@
 ---
-layout: neuro_page
+layout: post
 title: Activities
 team: neuro
 ---
 
-{% assign activities = site.activities | where_exp: 'activities', 'activities.path contains page.team' %}
+{% assign activities = site.activities | where_exp: 'activities', 'activities.path contains page.team' | sort: 'date' | reverse %}
 {% include _content/activities_list.html activities=activities %}
