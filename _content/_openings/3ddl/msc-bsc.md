@@ -2,7 +2,7 @@
 layout: page
 team: 3ddl
 categories: 3ddl
-title: Master/Bachelor Theses
+title: Master/Bachelor Theses in 3D Deep Learning
 excerpt: 3D Deep Learning team invites highly motivated students for work towards their Bachelor and Master theses.
 ---
 The 3D Deep Learning team invites highly motivated students for work towards their Bachelor and Master theses. 

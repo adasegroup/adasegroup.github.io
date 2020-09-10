@@ -2,7 +2,7 @@
 layout: page
 team: neuro
 categories: neuro
-title: Master/Bachelor Theses
+title: Master/Bachelor Theses in Neuro ML
 excerpt: NeuroML team invites highly motivated students for work towards their Bachelor and Master theses.
 ---
 The NeuroML team invites highly motivated students for work towards their Bachelor and Master theses. 
