@@ -16,11 +16,11 @@ To create research-based methods and neurointerfaces that advance education we f
 
 
 ### Tasks
-Build predictive models based on behavioral (cognitive tests, school performance etc.) and physiological data (ultrasound data, age and other)
-Explore task-solving strategies and build individual models based on eye-tracking and behavioral data
-Build predictive models for mathematical cognition based on behavioral and fMRI data
+- Build predictive models based on behavioral (cognitive tests, school performance etc.) and physiological data (ultrasound data, age and other)
+- Explore task-solving strategies and build individual models based on eye-tracking and behavioral data
+- Build predictive models for mathematical cognition based on behavioral and fMRI data
 
 ### References
-Arsalidou M., Pascual-Leone J., Johnson J. Misleading cues improve developmental assessment of working memory capacity: The color matching tasks // Cogn. Dev. 2010.
-Arsalidou M., Pascual-Leone J. Constructivist developmental theory is needed in developmental neuroscience // npj Sci. Learn. The Author(s), 2016. Vol. 1, № October. P. 16016.
-Arsalidou M. et al. Commentary: Selective development of anticorrelated networks in the intrinsic functional organization of the human brain // Front. Hum. Neurosci. 2017. Vol. 11.
+1. Arsalidou M., Pascual-Leone J., Johnson J. Misleading cues improve developmental assessment of working memory capacity: The color matching tasks // Cogn. Dev. 2010.
+2. Arsalidou M., Pascual-Leone J. Constructivist developmental theory is needed in developmental neuroscience // npj Sci. Learn. The Author(s), 2016. Vol. 1, № October. P. 16016.
+3. Arsalidou M. et al. Commentary: Selective development of anticorrelated networks in the intrinsic functional organization of the human brain // Front. Hum. Neurosci. 2017. Vol. 11.

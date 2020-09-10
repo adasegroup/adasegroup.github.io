@@ -16,11 +16,11 @@ The purpose of current research project (performed with medical partner - N.N. B
 
 
 ### Tasks
-Explore how different data preprocessing pipelines influence mapping accuracy
-Study methods of blind source separation (ICA, NMF, SCA etc) to separate fMRI data into functional brain networks
-Study different versions of spatial-constrained ICA with masks for both tumor and mean healthy controls functional brain areas
-Explore the possibility of transfer learning from big amount (thousands) of healthy people fMRI data with known functional areas to patients with brain lesions
-Incorporate true functional areas locations (found during the operation) into the predictive model
+- Explore how different data preprocessing pipelines influence mapping accuracy
+- Study methods of blind source separation (ICA, NMF, SCA etc) to separate fMRI data into functional brain networks
+- Study different versions of spatial-constrained ICA with masks for both tumor and mean healthy controls functional brain areas
+- Explore the possibility of transfer learning from big amount (thousands) of healthy people fMRI data with known functional areas to patients with brain lesions
+- Incorporate true functional areas locations (found during the operation) into the predictive model
 
 ### References
 1. Qiu T. et al. Localizing hand motor area using resting-state fMRI: validated with direct cortical stimulation // Acta Neurochir. (Wien). 2014. Vol. 156, № 12. P. 2295–2302.

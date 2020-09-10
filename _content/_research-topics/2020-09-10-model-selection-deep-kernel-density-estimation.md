@@ -13,12 +13,12 @@ Classical approaches to kernel density estimation can require extremely large sa
 The normalizing constant for kernel exponential family is intractable, so instead of maximizing likelihood w.r.t. model parameters it is proposed to use score matching [1]. This introduces model selection challenge – how to choose regularization parameters in this case? 
 
 ### Steps in this research direction
-Improve scalability by applying RFF, QBF [2] or SKI [3] like approach instead of Nystroem approximation.
-Check whether maximization of likelihood results in better models than maximization of score matching. Use some straightforward approximation to likelihood (e.g. MCMC)
-Develop computationally efficient approximation to likelihood.
+- Improve scalability by applying RFF, QBF [2] or SKI [3] like approach instead of Nystroem approximation.
+- Check whether maximization of likelihood results in better models than maximization of score matching. Use some straightforward approximation to likelihood (e.g. MCMC)
+- Develop computationally efficient approximation to likelihood.
 
 ### References 
-[1] Wenliang, L., Sutherland, D., Strathmann, H. and Gretton, A., 2018. Learning deep kernels for exponential family densities. arXiv preprint arXiv:1811.08357.
-[2] Munkhoeva, M., Kapushev, Y., Burnaev, E. and Oseledets, I., 2018. Quadrature-based features for kernel approximation. arXiv preprint arXiv:1802.03832.
-[3] Wilson, A. and Nickisch, H., 2015, June. Kernel interpolation for scalable structured Gaussian processes (KISS-GP). In International Conference on Machine Learning (pp. 1775-1784).
-[4] Wilson, A.G., Hu, Z., Salakhutdinov, R.R. and Xing, E.P., 2016. Stochastic variational deep kernel learning. In Advances in Neural Information Processing Systems (pp. 2586-2594)
+1. Wenliang, L., Sutherland, D., Strathmann, H. and Gretton, A., 2018. Learning deep kernels for exponential family densities. arXiv preprint arXiv:1811.08357.
+2.  Munkhoeva, M., Kapushev, Y., Burnaev, E. and Oseledets, I., 2018. Quadrature-based features for kernel approximation. arXiv preprint arXiv:1802.03832.
+3. Wilson, A. and Nickisch, H., 2015, June. Kernel interpolation for scalable structured Gaussian processes (KISS-GP). In International Conference on Machine Learning (pp. 1775-1784).
+4. Wilson, A.G., Hu, Z., Salakhutdinov, R.R. and Xing, E.P., 2016. Stochastic variational deep kernel learning. In Advances in Neural Information Processing Systems (pp. 2586-2594)

@@ -13,15 +13,14 @@ For large-scale deep models, the space of possible architectures is extremely hi
 Another challenge is that, even when the NAS is conducted according the optimal search procedure, the cost of training a single deep model still remains extremely high. Thus, NAS requires effective optimization and parallelization procedures that would effectively utilize a multi-machine cluster.
 
 The goal of this project is to implement an efficient and scalable deep architecture search methodology with an application to the analysis of MRI and fMRI data. The project is organized in two branches of research into efficient deep architectures for neuroimaging analysis using large-scale experimental investigations:
-Massively parallel data processing on large clusters, including construction of efficient algorithms and their implementation in high-performance software, with the goal of building efficient large-scale optimization procedures for multi-machine clusters with heterogenous hardware, e.g., CPU/GPU. 
-Neural architecture search, which requires students to implement a bayesian optimization-based neural architecture search over the space of architectures. In this project, students are required to study the bayesian optimization framework, design the search space of possible architectures, and implement a bayesian optimization-based NAS framework. 
 
-Last but not least, 
-Verification of the created deep architectures against a variety of MRI processing benchmarks, where students will design and implement scalable deep learning algorithms for real-world 3D/4D volumetric data and benchmark them against a variety of datasets on MRI processing. 
+- Massively parallel data processing on large clusters, including construction of efficient algorithms and their implementation in high-performance software, with the goal of building efficient large-scale optimization procedures for multi-machine clusters with heterogenous hardware, e.g., CPU/GPU. 
+- Neural architecture search, which requires students to implement a bayesian optimization-based neural architecture search over the space of architectures. In this project, students are required to study the bayesian optimization framework, design the search space of possible architectures, and implement a bayesian optimization-based NAS framework. 
+- Verification of the created deep architectures against a variety of MRI processing benchmarks, where students will design and implement scalable deep learning algorithms for real-world 3D/4D volumetric data and benchmark them against a variety of datasets on MRI processing. 
 
 ### References:
-Mikami, Hiroaki, et al. "ImageNet/ResNet-50 Training in 224 Seconds." arXiv preprint arXiv:1811.05233 (2018).
-Jia, Xianyan, et al. "Highly scalable deep learning training system with mixed-precision: Training imagenet in four minutes." arXiv preprint arXiv:1807.11205 (2018).
-Liu, Hanxiao, et al. "Hierarchical representations for efficient architecture search." arXiv preprint arXiv:1711.00436 (2017).
-Tan, Mingxing, et al. "Mnasnet: Platform-aware neural architecture search for mobile." arXiv preprint arXiv:1807.11626 (2018).
-Liu, Chenxi, et al. "Progressive neural architecture search." arXiv preprint arXiv:1712.00559 (2017).
+1. Mikami, Hiroaki, et al. "ImageNet/ResNet-50 Training in 224 Seconds." arXiv preprint arXiv:1811.05233 (2018).
+2. Jia, Xianyan, et al. "Highly scalable deep learning training system with mixed-precision: Training imagenet in four minutes." arXiv preprint arXiv:1807.11205 (2018).
+3. Liu, Hanxiao, et al. "Hierarchical representations for efficient architecture search." arXiv preprint arXiv:1711.00436 (2017).
+4. Tan, Mingxing, et al. "Mnasnet: Platform-aware neural architecture search for mobile." arXiv preprint arXiv:1807.11626 (2018).
+5. Liu, Chenxi, et al. "Progressive neural architecture search." arXiv preprint arXiv:1712.00559 (2017).

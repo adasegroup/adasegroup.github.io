@@ -15,13 +15,13 @@ Several existing neural network architectures are used to predict local geometri
 As a result of this project, it is expected to develop a new architecture for complete CAD model reconstruction with parametric representation of surfaces from raw data. Such framework will have a vast range of applications, including reverse-engineering of mechanical parts, computer design and animation, navigation of self-driving vehicles.
 
 ### Tasks
-Compare different deep architectures for point cloud processing in the problem of local features prediction
-Investigate how accuracy of features prediction influence accuracy of surface mesh reconstruction
-Prediction of a vector field of directions that defines in some sense the optimal directions of a 3D mesh edges
-Develop new architectures capable to reconstruct meshes taking into account predicted local features
+- Compare different deep architectures for point cloud processing in the problem of local features prediction
+- Investigate how accuracy of features prediction influence accuracy of surface mesh reconstruction
+- Prediction of a vector field of directions that defines in some sense the optimal directions of a 3D mesh edges
+- Develop new architectures capable to reconstruct meshes taking into account predicted local features
 
 ### References
-C. R. Qi, L. Yi, H. Su, and L. J. Guibas.  Pointnet++:  Deephierarchical feature learning on point sets in a metric space.arXiv preprint arXiv:1706.02413, 2017
-Guerrero,  Y.  Kleiman,  M.  Ovsjanikov,  and  N.  J.  Mitra.PCPNet:   Learning  local  shape  properties  from  raw  pointclouds.Computer Graphics Forum, 37(2):75–85, 2018
-L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng.  Pu-net: Point cloud upsampling network.  InProceedings of theIEEE Conference on Computer Vision and Pattern Recogni-tion, pages 2790–2799, 2018
-M. Botsch, Leif Kobbelt, et al. Polygon Mesh Processing.CRC Press Book, 2010
+1. C. R. Qi, L. Yi, H. Su, and L. J. Guibas.  Pointnet++:  Deephierarchical feature learning on point sets in a metric space.arXiv preprint arXiv:1706.02413, 2017
+2. Guerrero,  Y.  Kleiman,  M.  Ovsjanikov,  and  N.  J.  Mitra.PCPNet:   Learning  local  shape  properties  from  raw  pointclouds.Computer Graphics Forum, 37(2):75–85, 2018
+3. L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng.  Pu-net: Point cloud upsampling network.  InProceedings of theIEEE Conference on Computer Vision and Pattern Recogni-tion, pages 2790–2799, 2018
+4. M. Botsch, Leif Kobbelt, et al. Polygon Mesh Processing.CRC Press Book, 2010
