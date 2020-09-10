@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Topics
+title: Open Positions & Theses
 permalink: /research-topics/
 ---
 
@@ -34,3 +34,6 @@ Feel free to browse through the topics and [contact us](/contact/) for further q
     <p>No research topics available at the moment.</p>
   {% endif %}
 </div>
+
+{% assign openings = site.openings %}
+{% include _content/openings.html openings=openings %}
