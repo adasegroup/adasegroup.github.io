@@ -13,10 +13,10 @@ Surgical outcome is significantly improved when lesions are identified on MRI sc
 The purpose of current research project (performed with medical partner - V.I. Kulakov Research Center for Obstetrics, Gynecology and Perinatology) is to build a highly automated and precise deep learning system for potentially epileptogenic foci localization built on multimodal MRI data (T1, T2, FLAIR, DTI modalities data fusion).
 
 ### Tasks
-Check the applicability of already developed epilepsy diagnostic algorithm on new provided data: extract morphometric features from structural MR images, teach the classifier and etc.
-2D/3D image segmentation based on available labelled and segmented data, here conventional ML as well as deep learning algorithms could be applied 
-“Healthy” and “Ill” brain pattern creation based on GANs and available labelled data
+- Check the applicability of already developed epilepsy diagnostic algorithm on new provided data: extract morphometric features from structural MR images, teach the classifier and etc.
+- 2D/3D image segmentation based on available labelled and segmented data, here conventional ML as well as deep learning algorithms could be applied 
+- “Healthy” and “Ill” brain pattern creation based on GANs and available labelled data
 
 ### References
-Hong S. et al. Multimodal MRI profiling of focal cortical dysplasia type II // Neurology. 2017. Vol. 88. P. 734–742
-Adler S. et al. Novel surface features for automated detection of focal cortical dysplasias in paediatric epilepsy // NeuroImage Clin. The Authors, 2017. Vol. 14. P. 18–27.
+1. Hong S. et al. Multimodal MRI profiling of focal cortical dysplasia type II // Neurology. 2017. Vol. 88. P. 734–742
+2. Adler S. et al. Novel surface features for automated detection of focal cortical dysplasias in paediatric epilepsy // NeuroImage Clin. The Authors, 2017. Vol. 14. P. 18–27.

@@ -12,11 +12,10 @@ The MRI imagery-based prediction of the stroke outcome could be done by the anal
 
 The goal of the presented study is the structural MRI (T1/T2/Flair) analysis for the purpose of assessment of the severity of the current state, prediction of stroke outcome and of therapeutic effectiveness of complex restorative treatment.
 
-
-Fig.1 VoxCNN architecture
+**VoxCNN architecture**
 In the preliminary research the Vox Convolutional neural network [1] was used to solve both classification and regression tasks. The network exploits 3D convolutional layers, followed by ReLU activations and max pooling layers for gradual dimensionality reduction. All T1 MRI were skull stripped in Brainsuite toolbox, centered and aligned. The calculations were performed in python with extensive use of PyTorch framework.
 
-Fig.2 Post-stroke lesion mapping
+**Post-stroke lesion mapping**
 We observe, that results are rather high, which supports the hypothesis that the sMRI-based deep learning models can be considered as relevant predictive tools for the diagnosis support and stroke outcome prognosis.  The plan of the further research includes the use of other modalities (T2/FLAIR) for prediction as well as their ensembles. 
 
 ### Tasks within the project:
@@ -25,4 +24,4 @@ We observe, that results are rather high, which supports the hypothesis that the
 3. Add layers with clinical data to improve the model performance;
 
 ### References:
-[1] M. Pominova, A. Artemov, M. Sharaev, E. Kondrateva, A. Cichocki, E. Burnaev, A. Bernstein. Voxelwise 3D Convolutional and Recurrent Neural Networks for Epilepsy and Depression Diagnostics from Structural and Functional MRI Data. Proc. of IEEE International Conference on Data Mining Workshops (ICDMW), p. 299-307, 2018
+1. M. Pominova, A. Artemov, M. Sharaev, E. Kondrateva, A. Cichocki, E. Burnaev, A. Bernstein. Voxelwise 3D Convolutional and Recurrent Neural Networks for Epilepsy and Depression Diagnostics from Structural and Functional MRI Data. Proc. of IEEE International Conference on Data Mining Workshops (ICDMW), p. 299-307, 2018
