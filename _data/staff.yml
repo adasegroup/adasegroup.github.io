@@ -271,6 +271,15 @@ phd_students:
 
 
 msc_students:
+  Drobyshev Nikita:
+     name: Nikita Drobyshev
+     photo: /assets/img/staff/DrobyshevNikita.jpg
+     position: Msc. Student
+     team: 3ddl
+     team_role: Msc. Student
+     status: Unsupervised Depth Super-Resolution
+     email: Nikita.Drobyshev@skoltech.ru
+
   Bokhovkin Alexey:
     name: Alexey Bokhovkin
     photo: /assets/img/staff/BokhovkinAlexey.jpg
