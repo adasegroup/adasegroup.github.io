@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-09-10
-title: Neuroeducation: Machine Learning for analysis of Brain development and education
+title: 'Neuroeducation: Machine Learning for analysis of Brain development and education'
 inline: false
 ---
 

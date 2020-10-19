@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-09-10
-title: Deep Learning for Raster in the Wild: Vectorization Pipelines (with an application to floor plan vectorization)
+title: 'Deep Learning for Raster in the Wild: Vectorization Pipelines (with an application to floor plan vectorization)'
 inline: false
 ---
 
