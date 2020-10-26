@@ -1,3 +1,12 @@
+- title: ADASE FAIR! FALL 2020
+  date: 2020-10-26 00:00:00
+  thumbnail: /assets/img/neuro/activity/fair.png
+  excerpt:
+  url: https://t.me/FindAdviserBot
+  superseded: true
+  fancy: true
+  fancy_style: 'style="background-color:rgba(0,0,0,.2)"'
+
 - title: ADASE NEURO with CoBrain
   date: 2020-07-06 00:00:00
   thumbnail: /assets/img/neuro/cobrain.png
