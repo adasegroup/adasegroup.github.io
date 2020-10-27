@@ -26,6 +26,7 @@ venue:  Thirteenth International Conference on Machine Vision (MV20)
 to_front: True
 
 abstract: "Machine learning and computer vision methods are showing good performance in medical imagery analysis. Yet only a few applications are now in clinical use and one of the reasons for that is poor transferability of the models to data from different sources or acquisition domains. Development of new methods and algorithms for the transfer of training and adaptation of the domain in multi-modal medical imaging data is crucial for the development of accurate models and their use in clinics. In present work, we overview methods used to tackle the domain shift problem in machine learning and computer vision. The algorithms discussed in this survey include advanced data processing, model architecture enhancing and featured training, as well as predicting in domain invariant latent space. The application of the autoencoding neural networks and their domain-invariant variations are heavily discussed in a survey. We observe the latest methods applied to the magnetic resonance imaging (MRI) data analysis and conclude on their performance as well as propose directions for further research."
+excerpt: ''
 
 thumbnail: /assets/img/neuro/research/dom_sh.png
 
@@ -46,5 +47,3 @@ materials:
 ---
 ## Contact
 If you have any questions about this work, please contact us under [ekaterina.kondrateva@skoltech.ru](mailto:ekaterina.kondrateva@skoltech.ru).
-
----

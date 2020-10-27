@@ -32,8 +32,9 @@ venue:  The 9th International Conference on Analysis of Images, Social Networks 
 to_front: True
 
 abstract: "Deep learning shows high potential for many medical image analysis tasks. Neural networks can work with full-size data without extensive preprocessing and feature generation and, thus, information loss.
-Recent work has shown that the morphological difference in specific brain regions can be found on MRI with the means of Convolution Neural Networks (CNN). However,  interpretation of the existing models is based on a region of interest and can not be extended to voxel-wise image interpretation on a whole image. In the current work, we consider the classification task on a large-scale open-source dataset of young healthy subjects --- an exploration of brain differences between men and women.
+Recent work has shown that the morphological difference in specific brain regions can be found on MRI with the means of Convolution Neural Networks (CNN). However,  interpretation of the existing models is based on a region of interest and can not be extended to voxel-wise image interpretation on a whole image. In the current work, we consider the classification task on a large-scale open-source dataset of young healthy subjects — an exploration of brain differences between men and women.
 In this paper, we extend the previous findings in gender differences from diffusion-tensor imaging on T1 brain MRI scans. We provide the voxel-wise 3D CNN interpretation comparing the results of three interpretation methods: Meaningful Perturbations, Grad CAM and Guided Backpropagation, and contribute with the open-source library."
+excerpt: ''
 
 thumbnail: /assets/img/neuro/research/interpret.png
 
@@ -57,5 +58,3 @@ materials:
 ---
 ## Contact
 If you have any questions about this work, please contact us under [ekaterina.kondrateva@skoltech.ru](mailto:ekaterina.kondrateva@skoltech.ru).
-
----
