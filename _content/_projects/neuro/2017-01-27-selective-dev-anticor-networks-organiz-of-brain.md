@@ -27,5 +27,5 @@ to_front: True
 
 abstract: "As adults we solve problems by applying our executive know-how and directing our mental-attention to relevant information. When we are not problem solving, our mind is free to wonder to things like lunchtime; this is often referred to as the default-mode. It is established that for adults the relation among executive and default-mode brain areas is negative (Fox et al., 2005; Arsalidou et al., 2013). Parts of the prefrontal cortex are involved in both the executive and default-mode networks."
 
-thumbnail: /assets/img/neuro/research/func-brain-areas-map-with-glioma.png
+thumbnail: /assets/img/neuro/research/commentary.png
 ---

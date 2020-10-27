@@ -7,7 +7,7 @@ custom_js: teamHome.js
 
 ##### Who we are?
 
-A group at CDISE led by Dr. Maxim Sharaev [m.sharaev@skoltech.ru](mailto:m.sharaev@skoltech.ru), Prof. Alexander Bernstein and Prof. Evgeny Burnaev working on applied biomedical problems focused on large-scale multimodal neuroimaging data analysis.
+A group at CDISE led by Dr. Maxim Sharaev [m.sharaev@skoltech.ru](mailto:m.sharaev@skoltech.ru), Prof. Alexander Bernstein [a.bernstein@skoltech.ru](mailto:m.sharaev@skoltech.ru) and Prof. Evgeny Burnaev [e.burnaev@skoltech.ru](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=en) working on applied biomedical problems focused on large-scale multimodal neuroimaging data analysis.
 
 ##### What we do?
 
