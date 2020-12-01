@@ -46,9 +46,9 @@ materials:
     - name: Paper
       url: https://arxiv.org/pdf/2003.05471.pdf
       icon: fa fa-file-pdf-o
-#    - name: Code
-#      url: https://github.com/Vahe1994/Deep-Vectorization-of-Technical-Drawings
-#      icon: fa fa-github-alt
+    - name: Code
+      url: https://github.com/Vahe1994/Deep-Vectorization-of-Technical-Drawings
+      icon: fa fa-github-alt
 ---
 ## Contact
 If you have any questions about this work, please contact us under [adase-3ddl@skoltech.ru](mailto:adase-3ddl@skoltech.ru).
