@@ -21,6 +21,7 @@ authors:
     affiliation: 1
 affiliation:
   - Skolkovo Institute of Science and Technology
+#--- FIXME unbound affiliation
   - Moscow Institute of Physics and Technology
 venue: 18th IEEE International Conference On Machine Learning And Applications 2019
 to_front: true
@@ -44,6 +45,9 @@ materials:
     - name: Paper
       url: https://arxiv.org/abs/1911.01898
       icon: fa fa-file-pdf-o
+    - name: Code
+      url: https://github.com/kondratevakate/3d-deformable-convolutions
+      icon: fa fa-github-alt
 ---
 ## Contact
 If you have any questions about this work, please contact us under [ekaterina.kondrateva@skoltech.ru](mailto:ekaterina.kondrateva@skoltech.ru).

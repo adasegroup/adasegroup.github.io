@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: neuro_page
 team: neuro
 categories: neuro
-date: 2020-06-02
 title: Latest developments in medical technology will improve the quality of diagnostics
+date: 2020-06-02
 excerpt: Skoltech scientists are developing programs that help medical professionals to diagnose and treat brain diseases.
 ---
 
