@@ -1,17 +1,16 @@
 # Site settings
-title: Advanced Data Analytics in Science and Engineering Group at Skoltech
+title: Advanced Data Analytics in Science and Engineering Group
 description: >
   The Advanced Data Analytics in Science and Engineering Group is a research
   organisation focused on the development of novel machine learning methods
-  with industrial applications based at the Skolkovo Institute of Science and Technology (Skoltech)
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: ADASE
 username_full: Advanced Data Analytics in Science and Engineering Group
-user_title: Skoltech, Moscow, Russia
-email: adase@skoltech.ru
+user_title:  Moscow, Russia
+email: adase.group@gmail.com
 twitter_username: adase
 github_username: adasegroup
 
@@ -58,7 +57,7 @@ resume_avatar: "true"
 #description: > # this means to ignore newlines until "url:"
 #  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Skoltech, Moscow, Russia
+  Moscow, Russia
 #url:  # the base hostname & protocol for your site
 #baseurl: /al-folio # the subpath of your site, e.g. /blog/
 #last_updated: # leave blank if you don't want to display last updated
